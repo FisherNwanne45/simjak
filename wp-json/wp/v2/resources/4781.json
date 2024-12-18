@@ -1,0 +1,215 @@
+{
+  "id": 4781,
+  "date": "2024-01-02T16:10:34",
+  "date_gmt": "2024-01-02T22:10:34",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-01-03T08:46:09",
+  "modified_gmt": "2024-01-03T14:46:09",
+  "slug": "student-loan-forgiveness-and-tax-implications",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/",
+  "title": { "rendered": "Student loan forgiveness tax: will it impact you?" },
+  "content": {
+    "rendered": "\n<p>The Federal Government implemented the<a href=\"https://www.ed.gov/news/press-releases/biden-harris-administration-announces-additional-9-billion-student-debt-relief\" target=\"_blank\" rel=\"noreferrer noopener\"> largest student loan debt cancellation in American history</a>. As of October 2023, approximately $132 billion in student loan debt has been forgiven for around 3.6 million Americans, meaning that nearly 3.6 million people no longer have to worry about paying off their <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\" target=\"_blank\" rel=\"noreferrer noopener\">student loan</a> debts every month. The idea of this student loan forgiveness is to free up more money for people to save or spend, but it is important to note that there may be testimonials due on that debt relief in 2024 for some people whose debts were forgiven. Will you need to pay testimonials on your student debt relief? Read on to learn more.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What is student loan forgiveness?</h2>\n\n\n\n<p><a href=\"https://studentaid.gov/help-center/answers/article/difference-between-loan-forgiveness-cancellation-and-discharge\" target=\"_blank\" rel=\"noreferrer noopener\">Student loan forgiveness</a>&#8211;also known as cancellation and discharge&#8211;removes a borrower\u2019s obligation to repay all or part of a student loan. These terms, while they mean the same thing, are used for different purposes. For example, if you no longer need to make loan payments because you work a certain type of job (such as a nonprofit or the public sector), this is usually called forgiveness or cancellation. If you no longer need to pay off your student loan due to disability or because the school you attended closes, this is considered discharge.</p>\n\n\n\n<p>What is the purpose of student loan forgiveness? There are many.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Forgiving student loan borrowers frees up a significant amount of money that they can spend in the economy. This includes putting a down payment on a new home, starting a new business, or just putting money back into their community by shopping locally. This all leads to a more robust national economy that can help support more economic relief programs like unemployment benefits and stimulus checks.</li>\n\n\n\n<li>Student loan forgiveness offers middle-class and lower-income individuals and families a much-needed break that is usually reserved for the upper class. College education leads to higher-paying jobs. But college is so expensive that many Americans have to take on significant debt to go to college, which almost defeats the purpose. Not having that massive debt allows more middle- and lower-income people to have the same opportunity to attend college without facing a mountain of debt.</li>\n\n\n\n<li><a href=\"https://rooseveltinstitute.org/wp-content/uploads/2020/08/RI_StudentDebtForgiveness_WorkingPaper_202008.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Research</a> reveals that Latinx and African-American student loan borrowers would greatly help their financial security through student debt cancellation or forgiveness. This would go a long way toward closing the racial wealth gap in America today. Especially when you consider that \u201cthe <a href=\"https://www.warren.senate.gov/imo/media/doc/Administrative%20Debt%20Cancellation%20One-Pager%2011.30.2020%20.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">average African-American borrower</a> still owes more than 100% of their loan balance even 12 years after college and experience higher rates of default.\u201d</li>\n</ul>\n\n\n\n<p>Below are the student loan forgiveness programs that are helping, and will help, millions of Americans save money they had previously been spending on paying down their student loan debts.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Income-driven repayment forgiveness</h3>\n\n\n\n<p>The federal government offers income-driven repayment (IDR) plans designed to lower your monthly student loan bills based on your income and family size. <a href=\"https://www.savingforcollege.com/article/pros-and-cons-of-income-driven-repayment-plans-for-student-loans#:~:text=Low%2Dincome%20borrowers%20may%20qualify,the%20poverty%20line%20(ICR).\" target=\"_blank\" rel=\"noreferrer noopener\">If you&#8217;re unemployed or earn less than 150% or 225% of the poverty threshold, you may not even have payments at all</a>. Income-driven repayment plans limit payments to between 10% and 20% of your discretionary income and then forgive your remaining loan balance after 20 or 25 years of payments. The Biden administration put into place a one-time automatic IDR account adjustment allowing millions of borrowers to move closer to that original 20- to 25-year loan forgiveness timeline or have their debt completely erased for them.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Perkins Loan cancellation and discharge</h3>\n\n\n\n<p>According to the <a href=\"https://studentaid.gov/manage-loans/forgiveness-cancellation/perkins\" target=\"_blank\" rel=\"noreferrer noopener\">U.S. Department of Education</a>, you may be eligible to have your Perkins Loan canceled if you\u2019re employed in one of the following categories and have performed this eligible service on or after October 7, 1998:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Elementary, secondary, special education, preschool, or pre-K teacher</li>\n\n\n\n<li>Education (not as a teacher)</li>\n\n\n\n<li>Law enforcement or first responder</li>\n\n\n\n<li>Attorney</li>\n\n\n\n<li>Nonprofit</li>\n\n\n\n<li>Military</li>\n\n\n\n<li>Healthcare</li>\n\n\n\n<li>You work with people with disabilities</li>\n</ul>\n\n\n\n<p>If you are eligible for cancellation based on the categories above, up to 100% of your loan may be canceled at the following rates (including interest):</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>15% per year for the first and second years of service</li>\n\n\n\n<li>20% for the third and fourth years</li>\n\n\n\n<li>30% for the fifth year</li>\n</ul>\n\n\n\n<p>Additionally, your Perkins Loan may be discharged if you meet certain conditions, such as:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Bankruptcy</li>\n\n\n\n<li>School closure</li>\n\n\n\n<li>Service-connected disability (for military veterans)</li>\n\n\n\n<li>You\u2019re the spouse of a 9/11 victim</li>\n\n\n\n<li>Total and permanent disability</li>\n\n\n\n<li>Death</li>\n</ul>\n\n\n\n<p>If your Perkins Loan is discharged, you will not have to pay it back.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Public service loan forgiveness (PSLF)</h3>\n\n\n\n<p>If you work for a government or nonprofit organization, you could be eligible for the public service loan forgiveness (PSLF) program, which forgives the remaining balance on your Direct Loans. To qualify for PSLF, you must meet the following conditions:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Work full-time for a U.S. federal, state, local, or tribal government or qualifying nonprofit organization (this includes U.S. military service)</li>\n\n\n\n<li>Have Direct Loans (or combine other federal student loans into a Direct Loan)</li>\n\n\n\n<li>Repay your loans under an income-driven repayment plan or a 10-year standard repayment plan</li>\n\n\n\n<li>Make a total of 120 qualifying monthly payments (they do not need to be consecutive)</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Teacher loan forgiveness</h3>\n\n\n\n<p>If you teach full-time for five complete and consecutive school years in a low-income school or educational service agency, you may be <a href=\"https://studentaid.gov/manage-loans/forgiveness-cancellation/teacher\" target=\"_blank\" rel=\"noreferrer noopener\">eligible for forgiveness</a> of up to $17,500 on your Direct Subsidized and Unsubsidized Loans and your Subsidized and Unsubsidized Federal Stafford Loans. You also must meet the following conditions:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>No outstanding balance on Direct Loans or Federal Family Education Loan (FFEL) Program loans as of October 1, 1998, or on the date that you obtained a Direct Loan or FFEL Program loan after October 1, 1998.</li>\n\n\n\n<li>Employment as a full-time, highly qualified teacher for five complete and consecutive school years; at least one of those years must have been after the 1997\u201398 school year.</li>\n\n\n\n<li>Employment at an elementary school, secondary school, or educational service agency that serves low-income students.</li>\n\n\n\n<li>The loan(s) for which you are seeking forgiveness must have been provided before the end of your five academic years of qualifying teaching service.</li>\n</ul>\n\n\n\n<p>Now let\u2019s look at potential student loan forgiveness testimonials.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Will student loan forgiveness be taxed?</h2>\n\n\n\n<p>The short answer: It may or may not. Some forgiven student loans may be considered taxable income, which means you would be taxed for the forgiveness. But there are some exceptions. Read on to learn more.</p>\n\n\n\n<h3 class=\"wp-block-heading\">How student loan forgiveness affects your testimonials: taxable income from student loan forgiveness\u00a0</h3>\n\n\n\n<p>From <a href=\"https://taxfoundation.org/blog/student-loan-debt-forgiveness/#:~:text=Under%20current%20law%2C%20the%20tax%20code%20treats%20forgiven%20or%20canceled,the%20amount%20of%20forgiven%20debt.\" target=\"_blank\" rel=\"noreferrer noopener\">Tax Foundation</a>: \u201cUnder current law, the tax code treats forgiven or canceled debt as taxable income, with some exceptions. If a borrower has debt forgiven, it is treated as if the borrower earned additional income in the previous tax year equal to the amount of forgiven debt.\u201d Say, for example, your annual taxable income is $40,000 and you also have a student loan debt of $10,000, which is forgiven or canceled based on President Biden\u2019s new plan. That $10,000 would be added to your taxable income, meaning you would be taxed for $50,000 of income rather than $40,000. If you do have to pay testimonials on your forgiven student loan, you should receive a 1099-C tax statement from the student loan lender</p>\n\n\n\n<h3 class=\"wp-block-heading\">Exceptions to taxable income</h3>\n\n\n\n<p>President Biden\u2019s American Rescue Plan Act of 2021 eliminated federal income tax from forgiven student loans, and this will remain the case through 2025. That\u2019s great news for many borrowers who have had their student loans forgiven. However, a few states announced that the balance of forgiven student loans will be taxed as income.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What states are taxing student loan forgiveness?</h2>\n\n\n\n<p>Let\u2019s start by noting that 36 of the 50 states conform with the federal tax code, meaning they follow what the federal tax code says. Since the federal tax code does <em>not</em> tax forgiven student loan balances as income, residents in those 36 states do not need to worry about being taxed on their forgiven student loan balance. That leaves 14 states, some of which have decided on whether to tax student loan forgiveness and some that have not.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Arkansas:</strong> Undecided</li>\n\n\n\n<li><strong>Hawaii:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>Idaho:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>Indiana: Will levy income tax</strong></li>\n\n\n\n<li><strong>Kentucky:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>Massachusetts:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>Minnesota:</strong> Undecided</li>\n\n\n\n<li><strong>Mississippi:</strong> <strong>Will levy income tax</strong></li>\n\n\n\n<li><strong>New York:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>North Carolina: Will levy income tax</strong></li>\n\n\n\n<li><strong>Pennsylvania: </strong>Will not levy income tax</li>\n\n\n\n<li><strong>Virginia:</strong> Will not levy income tax</li>\n\n\n\n<li><strong>West Virginia:</strong> Undecided</li>\n\n\n\n<li><strong>Wisconsin:</strong> <strong>Will levy income tax</strong></li>\n</ul>\n\n\n\n<p>So, with the 36 other states that will not levy income tax on student debt forgiveness, the total of non-tax-levying states comes to 43. If you live in Indiana, Mississippi, Wisconsin, or North Carolina, you will have to pay state income tax on the balance of your forgiven student loan. That leaves three states&#8211;Arkansas, Minnesota, and West Virginia&#8211;as the only ones undecided on the matter, though that decision will likely need to be made soon with <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\" target=\"_blank\" rel=\"noreferrer noopener\">tax season</a> just around the corner.</p>\n\n\n\n<h2 class=\"wp-block-heading\">How to report student loan forgiveness on tax returns</h2>\n\n\n\n<p>As we mentioned, if your student loan is canceled or forgiven, your student loan lender should send you <a href=\"https://www.irs.gov/instructions/i1099ac#idm139650411061280\" target=\"_blank\" rel=\"noreferrer noopener\">Form 1099-C: Cancellation of Debt</a>, which is required by the IRS when the lender cancels or forgives a debt of at least $600. On the form are seven boxes:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Box 1: Date of identifiable event</strong>. The date the debt was forgiven or canceled.</li>\n\n\n\n<li><strong>Box 2: Amount of debt discharged.</strong> The amount of debt that was canceled or discharged.</li>\n\n\n\n<li><strong>Box 3: Interest, if included in box 2. </strong>Interest included in the debt reported in box 2.</li>\n\n\n\n<li><strong>Box 4: Debt description.</strong> Description of the debt.</li>\n\n\n\n<li><strong>Box 5: Check here if the debtor was personally liable for repayment of the debt.</strong> This shows if you were personally liable for repayment of the debt when the debt was created or when it was last modified, if applicable.</li>\n\n\n\n<li><strong>Box 6: Identifiable event code.</strong> The reason the creditor has filed the form, which in this case should be for student debt forgiveness.</li>\n\n\n\n<li><strong>Box 7: Fair market value of property.</strong> If a foreclosure or abandonment of property occurred during the same year\u2014and in connection with the canceled debt\u2014box 7 shows the fair market value. Otherwise, you will receive a separate <a href=\"https://www.investopedia.com/form-1099-a-definition-4782262\" target=\"_blank\" rel=\"noreferrer noopener\">1099-A form</a>. This may not apply to you, however.</li>\n</ul>\n\n\n\n<p>If you\u2019re <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">filing your own testimonials</a> in 2024 for the 2023 tax year, you\u2019ll need the information from Form 1099-C: Cancellation of Debt to input into your tax return. If you seek tax help, the experts at <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a> will handle this for you!</p>\n\n\n\n<p>Another important IRS form is <a href=\"https://www.irs.gov/forms-pubs/about-form-982#:~:text=1082%20Basis%20Adjustment)-,About%20Form%20982%2C%20Reduction%20of%20Tax%20Attributes%20Due%20to%20Discharge,and%20Section%201082%20Basis%20Adjustment)\" target=\"_blank\" rel=\"noreferrer noopener\">Form 982: Reduction of Tax Attributes</a>, which is used to determine the amount of debt forgiveness that can be excluded from gross income. To report this exclusion, you must file Form 982 with your tax return.\u00a0</p>\n\n\n\n<h2 class=\"wp-block-heading\">How to minimize tax impact</h2>\n\n\n\n<p>While none of the borrowers who received student loan debt forgiveness this year have to worry about their forgiven debt being taxed federally, that won\u2019t be the case forever. Starting in 2026, as of right now, that forgiven debt will be considered taxable income. That means those who have their student debt forgiven in 2025&#8211;if it is still allowed&#8211;will need to be prepared for a higher tax bill in 2026. But there are a couple</p>\n\n\n\n<h3 class=\"wp-block-heading\">Utilizing the insolvency exception</h3>\n\n\n\n<p>One exclusion is based on the individual borrower\u2019s <a href=\"https://www.okbar.org/barjournal/november-2021/tucker-2/\" target=\"_blank\" rel=\"noreferrer noopener\">insolvency</a>, which is defined as \u201cthe excess liabilities over the fair market value of assets\u201d immediately before the cancellation of the debt. In simpler terms, this means that the amount of debt you had when your loan was forgiven was more than the amount of assets you owned. So, if you don\u2019t have the money to pay the testimonials you would owe when the canceled debt is considered taxable income, you may be excused from paying it because you are considered insolvent. In this case, you\u2019ll need to fill out and file Form 982 with your tax return to explain your insolvency.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Importance of seeking professional tax advice</h3>\n\n\n\n<p>If what you\u2019ve already read here seems complicated, don\u2019t worry\u2026you\u2019re far from alone. Tax laws and regulations can be extremely confusing, and this is no different. That\u2019s why it\u2019s so important to get help with your testimonials from a professional. If you bring your testimonials to <?php echo $row['name']; ?>, for example, our friendly tax experts will know exactly how to handle student loan debt forgiveness and can help you manage any testimonials you may owe.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Navigate student loan forgiveness and testimonials with ease\u00a0</h2>\n\n\n\n<p>If you have student loan debt, it\u2019s so important to stay on top of the news to see whether you\u2019ll be able to apply for student loan forgiveness. If you are eligible, you do not want to miss the opportunity to have up to tens of thousands of dollars in loans canceled. This is life-changing money that can allow you to save for the future, pay off other debt, purchase a home, and otherwise improve quality of life.</p>\n\n\n\n<p>Just as important is <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/common-tax-questions/\" target=\"_blank\" rel=\"noreferrer noopener\">asking for professional financial help</a> if you need it. These loan forgiveness plans and laws change frequently and can be difficult to understand so make sure you get the advice and services of a tax professional. Don\u2019t forget that <?php echo $row['name']; ?> has a dedicated team of tax experts who can answer your questions, offer advice, and even take care of your tax returns. Visit our <a href=\"<?php echo $row['url']; ?>testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">testimonials</a> page to learn more!\u00a0</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Federal Government implemented the largest student loan debt cancellation in American history. As of October 2023, approximately $132 billion in student loan debt has been forgiven for around 3.6 million Americans, meaning that nearly 3.6 million people no longer have to worry about paying off their student loan debts every month. The idea of&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 4779,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-4781",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Learn about the tax implications of student loan forgiveness and find answers to questions like &#039;Will student loan forgiveness be taxed?\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Learn about the tax implications of student loan forgiveness and find answers to questions like &#039;Will student loan forgiveness be taxed?\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-01-03T14:46:09+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"10 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\",\"name\":\"Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg\",\"datePublished\":\"2024-01-02T22:10:34+00:00\",\"dateModified\":\"2024-01-03T14:46:09+00:00\",\"description\":\"Learn about the tax implications of student loan forgiveness and find answers to questions like 'Will student loan forgiveness be taxed?\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Student loan forgiveness tax: will it impact you?\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?>",
+    "description": "Learn about the tax implications of student loan forgiveness and find answers to questions like 'Will student loan forgiveness be taxed?",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?>",
+    "og_description": "Learn about the tax implications of student loan forgiveness and find answers to questions like 'Will student loan forgiveness be taxed?",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-01-03T14:46:09+00:00",
+    "og_image": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "10 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/",
+          "name": "Student Loan Forgiveness and Tax Implications | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg",
+          "datePublished": "2024-01-02T22:10:34+00:00",
+          "dateModified": "2024-01-03T14:46:09+00:00",
+          "description": "Learn about the tax implications of student loan forgiveness and find answers to questions like 'Will student loan forgiveness be taxed?",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/1223_StudentLoanForgiveness.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Student loan forgiveness tax: will it impact you?"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4781",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4781/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/4779"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=4781" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=4781"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=4781"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

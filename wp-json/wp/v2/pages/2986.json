@@ -1,0 +1,176 @@
+{
+  "id": 2986,
+  "date": "2022-10-19T15:07:26",
+  "date_gmt": "2022-10-19T21:07:26",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=2986" },
+  "modified": "2024-09-16T09:29:14",
+  "modified_gmt": "2024-09-16T15:29:14",
+  "slug": "online-tax-prep",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>testimonials/online-tax-prep/",
+  "title": { "rendered": "Online Tax Prep" },
+  "content": {
+    "rendered": "</div><section id=\"block_c04310630bdf80cb73c4964dfc4107ba\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_red\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Online Tax Document Upload</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_01cec7c15ca13cff6a64a671ad7b533a\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2>Get in touch with your local branch to receive a personalized document upload link and get the online filing process started</h2>\n                        <p>With over 20 years of experience handling testimonials in the communities we serve, our customers have come to trust that we\u2019ll always file securely, accurately and on time. Plus, we offer our tax services year round!</p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"twin-btn single-btn\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_blue\">Contact a branch</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n<section id=\"block_87d23a77404bfec99d1920b64ef11bc7\" class=\"block-text-icon alignwide block-text-icon has-font-color text-default\"><div class=\"about-area pt-5 mt-lg-5 line_red\">\n\t<div class=\"container-fluid mw-xxl\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"area-title text-center\">\n\t\t\t\t<h2>How to file online with <?php echo $row['name']; ?></h2>\n\t\t\t\t<p>We\u2019ve made it easier than ever to get the <?php echo $row['name']; ?> assistance you rely on without leaving the comfort of home </p>\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row justify-content-center\">\n\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-taxprepservices-icon-inpersonfile.svg\" class=\"\" alt=\"SL-taxprepservices-icon-inpersonfile\" id=\"1965\" loading=\"lazy\" /><h4>1. Contact your local branch </h4><p>Call or stop by a branch to receive a personalized, secure document upload link</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-onlinetax-icon-upload.svg\" class=\"\" alt=\"SL-onlinetax-icon-upload\" id=\"1984\" loading=\"lazy\" /><h4>2. Upload your tax docs </h4><p>Click on your personalized link to log in and upload scans or clear photos of tax docs </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-onlinetax-icon-review.svg\" class=\"\" alt=\"SL-onlinetax-icon-review\" id=\"1983\" loading=\"lazy\" /><h4>3. Review your filing  </h4><p>You always get the chance to review and approve before we file</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-onlinetax-icon-esign.svg\" class=\"\" alt=\"SL-onlinetax-icon-esign\" id=\"1982\" loading=\"lazy\" /><h4>4. E-sign from home </h4><p>No need to come into a branch to finish filing \u2014 simply e-sign to finish the process</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\n\t\t</div>\n\n\t\t\t\t\t</div>\n</div>\n</section>\n\n<section id=\"block_066cce9c0445c7c1a068ccdb56f85f04\" class=\"block-testimonial-slider alignnone block-testimonial-slider has-font-color text-default\">\n\t<div class=\"customers-review-area \">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row text-center\">\n\t\t\t\t<div class=\"col-lg-12 mb-5\">\n\t\t\t\t\t<div class=\"area-title\">\n\t\t\t\t\t\t<h2>Hear from  customers</h2>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"customer_review_wrapper\">\n\t\t\t<!-- <img decoding=\"async\" src=\"/wp-content/uploads/2022/04/overlay_bg.png\" class=\"overlay_img\" alt=\"\"> -->\n\t\t\t<div class=\"overlay_review\"></div>\n\t\t\t<div class=\"customers_slider\">\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Julie On The Real</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>They always get me the most back on my returns.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Michelle Weaver</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>First time doing my testimonials here. Rachelle was very professional and intuitive. Would recommend. 10/10 experience.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Cheyenne Mcnabb</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Jaritza was super helpful with our testimonials. Such and easy and quick process!!!! 10/10 would recommend for testimonials and other financial needs!!!!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Valarie Ratliff</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>We were very unsure on how to do testimonials this year due to the simmulas checks and they were so help full. Go see what they can do for you. Won&#8217;t be disappointed.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Steve Kline</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Amazing place and people! Very sweet and helped me and gave me a chance! Also filed my testimonials with them and they were super helpful and quick! My testimonials are already IRS approved! Amazing!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\n</section>\n\n<section id=\"block_8f743ac030b3fda5e075b785edbc742a\" class=\"block-cta-banneralignwide block-cta-banner has-font-color text-default\">\t<div class=\"promo-area \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"promo-text\">\n                        <h2>Ready to file?</h2>\n                        <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_red2 \">Contact Us</a>                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 2982,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-2986", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Online Tax Prep | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Online Tax Prep | <?php echo $row['name']; ?>\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-16T15:29:14+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\",\"url\":\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\",\"name\":\"Online Tax Prep | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-10-19T21:07:26+00:00\",\"dateModified\":\"2024-09-16T15:29:14+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>testimonials/online-tax-prep/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>testimonials/online-tax-prep/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Loan Payment Protection Services\",\"item\":\"<?php echo $row['url']; ?>testimonials/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Online Tax Prep\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Online Tax Prep | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>testimonials/online-tax-prep/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Online Tax Prep | <?php echo $row['name']; ?>",
+    "og_url": "<?php echo $row['url']; ?>testimonials/online-tax-prep/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-09-16T15:29:14+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>testimonials/online-tax-prep/",
+          "url": "<?php echo $row['url']; ?>testimonials/online-tax-prep/",
+          "name": "Online Tax Prep | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-10-19T21:07:26+00:00",
+          "dateModified": "2024-09-16T15:29:14+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>testimonials/online-tax-prep/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>testimonials/online-tax-prep/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>testimonials/online-tax-prep/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Loan Payment Protection Services",
+              "item": "<?php echo $row['url']; ?>testimonials/"
+            },
+            { "@type": "ListItem", "position": 3, "name": "Online Tax Prep" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2986",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2986"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2986/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2982"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2986" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

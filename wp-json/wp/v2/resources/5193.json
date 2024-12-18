@@ -1,0 +1,213 @@
+{
+  "id": 5193,
+  "date": "2024-04-24T08:17:00",
+  "date_gmt": "2024-04-24T14:17:00",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-07-15T14:57:38",
+  "modified_gmt": "2024-07-15T20:57:38",
+  "slug": "simple-interest-explained",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/",
+  "title": { "rendered": "Simple interest explained" },
+  "content": {
+    "rendered": "\n<p>When you\u2019re figuring out which type of personal loan to take out, simple interest is something to keep in mind and consider. What is simple interest and why does it factor into your decision? We\u2019ll explain everything you need to know about simple interest.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What is simple interest?</h2>\n\n\n\n<p>Simple interest is the cost that borrowers pay lenders for a loan. This type of interest is calculated using only the principal, which is the amount of your loan that has not yet been paid. Most importantly, simple interest does not compound, or continue to add up. A common example of a simple interest loan is a mortgage loan; with most mortgage loans, you only pay interest on the balance of the loan. Simple interest is also the type of interest that banks pay customers on their savings accounts.</p>\n\n\n\n<h2 class=\"wp-block-heading\">How does simple interest work?</h2>\n\n\n\n<p>As we mentioned, a simple interest loan charges interest only on the principal. With a simple interest loan, simple interest is calculated by multiplying the loan\u2019s current principal amount by the interest rate. However, here\u2019s where a simple interest loan differs from a loan with compounding interest&#8211;every time you pay down the principal with your monthly payment, your principal decreases; this also lowers the interest assessed. The more you pay on your principal (if you pay more than the minimum payment, for example), the more the principal goes down.</p>\n\n\n\n<p>Let\u2019s look at an example of how simple interest works. You take out a $2,000 simple-interest loan with a 6% fixed interest rate, with the loan to be paid off within five years. Instead of paying 6% interest on the entire $2,000 principal (as you would with a compound interest loan), you pay 6% interest on the new balance of your loan each month as you pay it down. Simple interest is assessed each month against the current balance&#8211;not the original balance. So, if you pay $200 as your first payment on the simple interest loan, the following month\u2019s interest will be 6% of $1,800, your new outstanding principal.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What is the formula for simple interest?</h2>\n\n\n\n<p>The formula to calculate simple interest is actually pretty, well, simple!</p>\n\n\n\n<p>\u200b</p>\n\n\n\n<p><strong>Simple Interest = </strong><strong><em>P </em></strong><strong>\u00d7 </strong><strong><em>r </em></strong><strong>\u00d7 </strong><strong><em>n</em></strong></p>\n\n\n\n<p><em>P </em>= Principal</p>\n\n\n\n<p><em>r </em>= Interest rate</p>\n\n\n\n<p><em>n </em>= Term of loan, in years</p>\n\n\n\n<p>\u200b</p>\n\n\n\n<p>With this formula in mind, let\u2019s look at our previous example again to determine the amount of interest as well as the principal plus interest that will be paid to the lender.</p>\n\n\n\n<p>In this case, P = $2,000, r = 6% (which is 0.06 for mathematical purposes), and n = 5.</p>\n\n\n\n<p>$2,000 x 0.06 x 5 = $600 in simple interest. Your total payment of principal plus interest on the loan to the lender is $2,600.</p>\n\n\n\n<p>This is useful information to have. Knowing how much interest you will pay on the life of the loan can help you decide which type of loan is right for you when you need to borrow money. It\u2019s important to keep in mind, however, that simple interest loans may not even be an option in your state. If not, this formula will not apply to your loan. Be sure to ask potential lenders about the type of loan options they offer.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What is the difference between simple interest and compound interest?</h2>\n\n\n\n<p>We already know that simple interest is based on the principal amount of a loan or a deposit into your savings account. Compound interest, however, is calculated based on the principal amount <em>plus</em> the interest that is charged to the loan every period&#8211;whether that period is monthly, daily, or quarterly. The more frequently the interest is compounded, the higher the total amount of payments you\u2019ll make during the course of the loan.</p>\n\n\n\n<p>The easy way to look at compound interest is that, unlike a simple interest loan, you\u2019re paying interest on interest.</p>\n\n\n\n<p>According to <a href=\"https://www.investopedia.com/terms/s/simple_interest.asp\" target=\"_blank\" rel=\"noreferrer noopener\">Investopedia</a>, \u201ccompound interest is often a factor in business transactions, investments, and financial products intended to extend for multiple periods of years. Typically, simple interest is used for loans of a single period or less than a year.\u201d</p>\n\n\n\n<p>As a quick example of the difference between what you might pay with a simple interest loan vs. a compound interest loan, we\u2019ll use the same numbers from above but plugged into the compound interest formula, which is: A = P(1 + r/n)<sup>nt</sup>.</p>\n\n\n\n<p>A = Future amount</p>\n\n\n\n<p>P = Initial principal balance</p>\n\n\n\n<p>r = Interest rate</p>\n\n\n\n<p>n = Number of times compounded</p>\n\n\n\n<p>t = Number of years for loan or deposit</p>\n\n\n\n<p>In our scenario from earlier, the formula to calculate the total with interest compounding monthly will look like A = $2,000(1 + 0.06/12)<sup>12&#215;5</sup>.&nbsp;</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>A = $2,000(1 + 0.06/12)<sup>12*5</sup></li>\n\n\n\n<li>A = $2,000(1 + 0.06/12)<sup>60</sup></li>\n\n\n\n<li>A = $2,000(1.005)<sup>60</sup></li>\n\n\n\n<li>A = $2,000 x 1.34885015255</li>\n\n\n\n<li><strong>A = $2,697.70</strong></li>\n</ul>\n\n\n\n<p>Now, when we compare the totals of the simple interest loan and the compound interest loan, you\u2019ll see that for a $2,000 loan with 6% interest over a five-year term costs $97 less with the simple interest loan. Of course, $97 may not seem like a large amount of money, but keep in mind: Many loans will exceed $2,000, which means the interest totals will increase as well. And that means the difference between a simple interest loan and compound interest loan will grow as well.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What can you use a simple interest loan for?</h2>\n\n\n\n<p>The most common type of simple interest loan is a mortgage loan. But some <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/different-types-of-personal-loans-2/\">types of personal loans</a> are simple interest loans as well. That means you can use the money you borrow with a <a href=\"<?php echo $row['url']; ?>loans/\">personal loan</a> to pay for expensive <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/types-of-home-improvement-loans/\">home improvement and repairs</a>, car repairs, <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/can-debt-consolidation-affect-your-credit/\">debt consolidation</a>, emergency expenses, and more.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Should you take out a simple interest loan?</h2>\n\n\n\n<p>That all depends on your financial situation and whether a simple interest loan is available as an option. But, as with most financial decisions, there are pros and cons to consider.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Pros of simple interest loans</h3>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Less total interest paid over the life of the loan. </strong>Because simple interest loans use each new balance to calculate the interest you owe on the loan, the more you\u2019re able to pay either up front or above the minimum monthly payment, the more money you\u2019ll save on interest over the life of the loan. That\u2019s because <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/what-happens-when-paying-off-personal-loan-early/\">the more you pay down</a>, the smaller the balance will be&#8211;and the smaller the balance is, the less interest you\u2019ll have to pay.</li>\n\n\n\n<li><strong>Simple to calculate. </strong>Since the math formula to figure out how much simple interest you\u2019ll pay over the course of the loan is straightforward, it\u2019s easy to know exactly what you\u2019re paying.</li>\n\n\n\n<li><strong>Easier to pay off debt. </strong>Getting out of debt can feel like climbing a mountain and never being able to see the top. With a simple interest loan, however, that mountain decreases in size because you\u2019re not paying interest on interest, and that helps you reduce your balance more quickly.</li>\n</ol>\n\n\n\n<h3 class=\"wp-block-heading\">Cons of simple interest loans</h3>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Late payments can cause problems. </strong>If you miss a payment date by even one day, the result might be that a larger portion of your payment goes toward interest than it normally would. And that can cause a domino effect\u2026your loan schedule may be impacted because of the lateness, meaning there\u2019s now a longer period of time for your loan. There may also be late fees (depending on your loan terms) that add to the total cost of your loan.</li>\n\n\n\n<li><strong>Higher interest rates.</strong> Many lenders charge higher interest rates on simple-interest loans than other types of loans. Why? Because simple interest loans can often be risky for lenders depending on the borrowers\u2019 credit scores and whether they require collateral on the loan. Make sure you shop around to compare interest rates, then use the formulas above to calculate how much you\u2019ll be paying for your loan vs. other types of loans.</li>\n\n\n\n<li><strong>Fixed interest rates. </strong>Most simple interest loans come with fixed interest rates, meaning that you\u2019re locked into the same interest rate throughout the life of your loan. This can be a good thing if rates rise\u2026but it could be a disadvantage if interest rates fall below your fixed rate because you\u2019re stuck with it.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">Final notes</h2>\n\n\n\n<p>Simple interest, which is commonly used for mortgage loans, personal loans, and <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\">student loans</a>, can be very beneficial to borrowers&#8211;especially those able to make on-time payments that are more than the monthly minimum. Because there is no interest on the loan\u2019s interest, it can help reduce the total amount of the loan versus what you might pay during the life of a compound-interest loan. This is especially helpful for those seeking to pay down debt, but it\u2019s also advantageous when considering other types of loans.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>When you\u2019re figuring out which type of personal loan to take out, simple interest is something to keep in mind and consider. What is simple interest and why does it factor into your decision? We\u2019ll explain everything you need to know about simple interest. What is simple interest? Simple interest is the cost that borrowers&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5197,
+  "template": "",
+  "resources_category": [36],
+  "resources_tag": [],
+  "class_list": [
+    "post-5193",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-education-on-personal-loans"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Simple interest explained | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Simple interest explained | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"When you\u2019re figuring out which type of personal loan to take out, simple interest is something to keep in mind and consider. What is simple interest and why does it factor into your decision? We\u2019ll explain everything you need to know about simple interest. What is simple interest? Simple interest is the cost that borrowers...\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-07-15T20:57:38+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"720\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"7 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/\",\"url\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/\",\"name\":\"Simple interest explained | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg\",\"datePublished\":\"2024-04-24T14:17:00+00:00\",\"dateModified\":\"2024-07-15T20:57:38+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg\",\"width\":1280,\"height\":720},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Education on Personal Loans\",\"item\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Simple interest explained\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Simple interest explained | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Simple interest explained | <?php echo $row['name']; ?>",
+    "og_description": "When you\u2019re figuring out which type of personal loan to take out, simple interest is something to keep in mind and consider. What is simple interest and why does it factor into your decision? We\u2019ll explain everything you need to know about simple interest. What is simple interest? Simple interest is the cost that borrowers...",
+    "og_url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-07-15T20:57:38+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 720,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "7 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/",
+          "url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/",
+          "name": "Simple interest explained | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg",
+          "datePublished": "2024-04-24T14:17:00+00:00",
+          "dateModified": "2024-07-15T20:57:38+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/04/0424_SimpleInterest.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/simple-interest-explained/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Education on Personal Loans",
+              "item": "<?php echo $row['url']; ?>resources/education-on-personal-loans/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Simple interest explained"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5193",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5193/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5197"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5193" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5193"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5193"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

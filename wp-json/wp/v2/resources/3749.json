@@ -1,0 +1,216 @@
+{
+  "id": 3749,
+  "date": "2023-04-27T10:52:44",
+  "date_gmt": "2023-04-27T16:52:44",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-09-25T10:12:19",
+  "modified_gmt": "2024-09-25T16:12:19",
+  "slug": "student-loan-tax-deduction",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/",
+  "title": { "rendered": "Understanding student loan tax deduction" },
+  "content": {
+    "rendered": "\n<p>Did you borrow money for school? If so, you might be able to save money on your testimonials. This is called a student loan interest deduction.</p>\n\n\n\n<p>When you pay back your student loans, you pay extra with interest. The government lets you pay less in testimonials if you paid this interest during the tax year. The student loan interest deduction is a way to help individuals who paid for school to make higher education more affordable for more people.</p>\n\n\n\n<p>If you earn money through a job, gig, or anything else, you\u2019ll <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/why-do-i-owe-testimonials/\">owe testimonials</a>. Luckily, there are many ways for students to save on their testimonials. But what exactly is the student loan interest deduction, and how does it work? In this article, we\u2019ll discuss what student loan interest is, how to save on your testimonials, and what you need to do to get this tax break.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#What-is-student-loan-interest\">What is student loan interest?</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Is-student-loan-interest-tax-deductible\">Is student loan interest tax deductible?</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Requirements-for-the-student-loan-interest-tax-deduction\">Requirements for the student loan interest tax deduction</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#How-to-claim-the-student-loan-interest-deduction-on-your-tax-return\">How to claim the student loan interest deduction on your tax return</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Other-types-of-tax-deductions-for-students\">Other types of tax deductions for students</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Navigating-the-student-loan-interest-deduction\">Navigating the student loan interest deduction</a></span></strong></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"What-is-student-loan-interest\"><strong>What is student loan interest?</strong></h2>\n\n\n\n<p>Like other loans, such as personal, car, and mortgage, student loans have interest rates. These are fees that lenders charge to make money on the loan. As with most other loans, you pay off two things each time you make a loan payment \u2014 the loan\u2019s principal (the actual amount of money you borrowed) and the loan\u2019s interest.</p>\n\n\n\n<p>Lenders charge different interest rates for student loans, and sometimes the rates change during the length of the loan.</p>\n\n\n\n<p>The amount of interest is usually shown as a yearly rate. This is called the APR, which means annual percentage rate. It tells you how much extra you\u2019ll pay each year for borrowing the money.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Is-student-loan-interest-tax-deductible\"><strong>Is student loan interest tax deductible?</strong></h2>\n\n\n\n<p>Yes, federal student loan interest is tax-deductible on your federal tax return. When you do your testimonials, you can deduct or subtract some of the interest you paid on your student loans from your taxable income. This makes it look like you earned less money, so you might pay less testimonials.</p>\n\n\n\n<p>Anyone can claim the student loan interest deduction \u2014 even if they don\u2019t itemize their deductions on their tax returns. That means it\u2019s easy for most people to use, depending on their income and how much interest they\u2019ve paid.</p>\n\n\n\n<p>This tax break works for federal student loans and some private student loans, too.</p>\n\n\n\n<p>Remember, the student loan interest deduction is only for the interest part of your loan payments, not the whole amount. Additionally, <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\">student loan forgiveness</a> is taxed differently and may be taxed as regular income or not at all.</p>\n\n\n\n<p>That said, deducting student loan interest from your testimonials is still a great way to save some money when you\u2019re paying for your education.</p>\n\n\n\n<p>However, remember that while student loan interest is tax-deductible on your federal tax return, different states have different rules. Talk to a tax expert to learn whether you can deduct student loan interest from your <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\">state testimonials</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Requirements-for-the-student-loan-interest-tax-deduction\"><strong>Requirements for the student loan interest tax deduction </strong></h2>\n\n\n\n<p>You may already know <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/how-do-personal-loans-affect-testimonials/\">how personal loans affect testimonials</a>, but your student loans can also influence how much you pay in testimonials every year. You can deduct up to $2,500 each tax year as long as you meet the requirements for a student loan interest tax deduction. Requirements include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Your  status is anything except \u201cmarried filing separately.\u201d</li>\n\n\n\n<li>No one is claiming you as a dependent.</li>\n\n\n\n<li>You are legally obligated to pay interest on a qualified federal student loan.</li>\n\n\n\n<li>You paid interest on a qualified federal student loan.</li>\n</ul>\n\n\n\n<p>If you want to deduct student loan interest and you file your tax return as \u201cmarried filing jointly\u201d:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>You can deduct all $2,500 if your modified adjusted gross income (AGI) is $155,000 or less.</li>\n\n\n\n<li>If your modified AGI is more than $155,000 but less than $185,000, your student loan deduction is gradually reduced, meaning the more money you make, the less student loan interest you can deduct.</li>\n\n\n\n<li>If your modified AGI is $185,000 or more, you can\u2019t claim a deduction on your student loan interest.</li>\n</ul>\n\n\n\n<p>If you want to deduct student loan interest and you file your tax return as \u201csingle,\u201d \u201chead of household,\u201d or \u201cqualifying widow(er)\u201d:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>You can deduct all $2,500 if your modified adjusted gross income (AGI) is $75,000 or less.</li>\n\n\n\n<li>If your modified AGI is more than $75,000 but less than $90,000, your student loan deduction is gradually reduced, meaning the more money you make, the less student loan interest you can deduct.</li>\n\n\n\n<li>If your modified AGI is $90,000 or more, you can\u2019t claim a deduction on your student loan interest.</li>\n</ul>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"976\" height=\"650\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-976x650.jpg\" alt=\"Happy young woman claiming the student loan interest deduction \" class=\"wp-image-5695\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-976x650.jpg 976w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-601x400.jpg 601w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-300x200.jpg 300w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-768x511.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-980x653.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-600x400.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-901x600.jpg 901w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-400x266.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901-150x100.jpg 150w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2300897901.jpg 1000w\" sizes=\"auto, (max-width: 976px) 100vw, 976px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"How-to-claim-the-student-loan-interest-deduction-on-your-tax-return\"><strong>How to claim the student loan interest deduction on your tax return</strong></h2>\n\n\n\n<p>Here\u2019s how you can claim your student loan interest deduction when you do your testimonials:</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Look for form 1098-E:</strong> If you\u2019re wondering, \u201cWhat do I need to file testimonials and take advantage of the student loan interest deduction,\u201d there is a special form you should look for in the mail. If you paid at least $600 or more in student loan interest, you\u2019ll get this form in the mail, or you can find it on your loan servicer\u2019s website in some cases.</li>\n\n\n\n<li><strong>Find out how much interest you paid: </strong>Look at the 1098-E form or ask your loan company how much interest you paid. If your job helps pay your loans, don\u2019t count the money they paid. Only count what you paid yourself.</li>\n\n\n\n<li><strong>Fill out your tax form: </strong>On the main tax form (Form 1040), look for \u201cSchedule 1\u201d. Write how much interest you paid on line 21 of this form. If you\u2019re using an online tax service, you\u2019ll essentially go through the steps until you reach this point. Meanwhile, if you\u2019re working with a CPA or tax advisor, share your 1098-E with them, and they\u2019ll take care of the rest.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Other-types-of-tax-deductions-for-students\"><strong>Other types of tax deductions for students</strong></h2>\n\n\n\n<p>Apart from deducting student loans from testimonials, there are other tax deductions for students to help you save. Let\u2019s look at some other ways you might be able to save money on your testimonials with credits and deductions:</p>\n\n\n\n<h3 class=\"wp-block-heading\">Lifetime Learning Credit (LLC)</h3>\n\n\n\n<p>The Lifetime Learning Credit is for qualified tuition and related expenses paid for eligible students enrolled in an eligible school. This credit can help pay for undergraduate, graduate, and professional degree courses. This includes courses to get or improve job skills. There is no limit on the number of years you can claim the credit, and it is worth up to $2,000 per tax return.</p>\n\n\n\n<p>To claim the LLC, you must meet all three of these qualifications:</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li>You, your dependent, or a third party pay qualified education expenses for higher education.</li>\n\n\n\n<li>You, your dependent, or a third party pay the education expenses for an eligible student enrolled at an eligible institution.</li>\n\n\n\n<li>The eligible student is yourself, your spouse, or a dependent you listed on your tax return.</li>\n</ol>\n\n\n\n<h3 class=\"wp-block-heading\">College savings plans</h3>\n\n\n\n<p>College savings plans are special bank accounts that allow you to save money for school. It\u2019s similar to a savings account, but it\u2019s just for paying for college or other types of school after high school. You or your family will put money into this account, and the money invested will grow over time.</p>\n\n\n\n<p>When it\u2019s time for college, you can use this money to pay for classes, books, rent, and other school supplies you might need.</p>\n\n\n\n<p>But here\u2019s the best part \u2014 college savings plans can also help you save money on testimonials. The money in the account grows tax-free, which means it can grow faster. When you take money out to pay for school, you won\u2019t pay testimonials because the account is funded with after-tax dollars.</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"1000\" height=\"563\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801.jpg\" alt=\"Happy couple claiming different tax credits to reduce their tax burden \" class=\"wp-image-5697\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801.jpg 1000w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-710x400.jpg 710w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-355x200.jpg 355w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-768x432.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-980x552.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-600x338.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-400x225.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2229856801-150x84.jpg 150w\" sizes=\"auto, (max-width: 1000px) 100vw, 1000px\" /></figure>\n\n\n\n<h3 class=\"wp-block-heading\">American Opportunity Tax Credit (AOTC)</h3>\n\n\n\n<p>The American Opportunity Tax Credit (AOTC) is a credit for qualified education expenses paid for an eligible student for the first four years of higher education. The maximum credit you can get each year per eligible student is $2,500.</p>\n\n\n\n<p>Requirements for the AOTC include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Be pursuing a degree or other recognized education credential</li>\n\n\n\n<li>Be enrolled at least half-time for at least one academic period beginning in the tax year</li>\n\n\n\n<li>Not have finished the first four years of higher education at the beginning of the tax year</li>\n\n\n\n<li>Not have claimed the AOTC or the former Hope credit for more than four tax years</li>\n\n\n\n<li>Not have a felony drug conviction at the end of the tax year</li>\n</ul>\n\n\n\n<p>Taxpayers receive 100% of the credit for the $2,000 spent on eligible education, then 25% of the credit for the following $2,000 spent.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Self-employed deductions for education</h3>\n\n\n\n<p>If you work for yourself after college instead of getting a traditional W-2 job, you\u2019re self-employed. If you\u2019re self-employed, there are other ways you can save on testimonials.</p>\n\n\n\n<p>If you take classes or go to workshops to get better at your job, you might be able to pay less in testimonials by deducting these expenses. The money you spend on these classes can be taken off your income when you do your testimonials. This means you\u2019ll pay less in testimonials overall.</p>\n\n\n\n<p>You can use this deduction to pay for different training opportunities, including:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Classes that help you perform better at your job</li>\n\n\n\n<li>Attending relevant workshops or seminars</li>\n\n\n\n<li>Books or online courses that teach you new job skills</li>\n</ul>\n\n\n\n<p>To claim this deduction, the classes or learning must be related to your current work. You can\u2019t use this deduction for classes that would help you start a new type of career. Additionally, you\u2019ll need to keep detailed records and receipts of what you spend on your learning.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Navigating-the-student-loan-interest-deduction\"><strong>Navigating the student loan interest deduction </strong></h2>\n\n\n\n<p>Now that you\u2019ve learned about the many ways you can save on testimonials when you\u2019re in school or repaying your loans, it\u2019s time to start thinking about testimonials. You can save by deducting student loan interest, using special credits, and opening college savings plans. All these things can help keep more money in your pocket.</p>\n\n\n\n<p>testimonials can be tricky, especially when it comes to deductions and credits. We can help. With more than 20 years of tax prep experience, our experts focus on accuracy, finding deductions, and ensuring you get the biggest refund possible. We offer expert assistance for all your income tax needs. Stop by today or give us a call at <?php echo $row['phone']; ?>.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Did you borrow money for school? If so, you might be able to save money on your testimonials. This is called a student loan interest deduction. When you pay back your student loans, you pay extra with interest. The government lets you pay less in testimonials if you paid this interest during the tax year&#8230;.</p>\n",
+    "protected": false
+  },
+  "featured_media": 5693,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-3749",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We&#039;ll cover important information for tax season.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We&#039;ll cover important information for tax season.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-25T16:12:19+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1692\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"9 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\",\"name\":\"Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg\",\"datePublished\":\"2023-04-27T16:52:44+00:00\",\"dateModified\":\"2024-09-25T16:12:19+00:00\",\"description\":\"Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We'll cover important information for tax season.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg\",\"width\":2560,\"height\":1692,\"caption\":\"Young man reviewing important documents to claim the student loan interest deduction\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Understanding student loan tax deduction\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?>",
+    "description": "Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We'll cover important information for tax season.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?>",
+    "og_description": "Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We'll cover important information for tax season.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-09-25T16:12:19+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1692,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "9 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/",
+          "name": "Student Loan Tax Deduction: How to Deduct Loan Interest | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg",
+          "datePublished": "2023-04-27T16:52:44+00:00",
+          "dateModified": "2024-09-25T16:12:19+00:00",
+          "description": "Read on to learn what the student loan interest deduction is and how it can reduce your tax burden. We'll cover important information for tax season.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/04/shutterstock_2309392025-scaled.jpg",
+          "width": 2560,
+          "height": 1692,
+          "caption": "Young man reviewing important documents to claim the student loan interest deduction"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding student loan tax deduction"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/3749",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/3749/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5693"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=3749" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=3749"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=3749"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

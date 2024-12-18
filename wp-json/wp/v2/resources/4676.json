@@ -1,0 +1,217 @@
+{
+  "id": 4676,
+  "date": "2023-11-21T14:21:17",
+  "date_gmt": "2023-11-21T20:21:17",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-02-20T09:24:40",
+  "modified_gmt": "2024-02-20T15:24:40",
+  "slug": "earned-income-tax-credit",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/",
+  "title": {
+    "rendered": "Maximizing your refund: A comprehensive guide to the Earned Income Tax Credit (EITC)"
+  },
+  "content": {
+    "rendered": "\n<p>What is the Earned Income Tax Credit (EITC)? Are you eligible to receive the EITC, and how can you find out? How can you claim the EITC and what are the benefits? We\u2019ll answer all of these questions in this article while letting you know how <?php echo $row['name']; ?> can help.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>What is the EITC?</strong></h2>\n\n\n\n<p>According to the <a href=\"https://www.taxpolicycenter.org/briefing-book/what-earned-income-tax-credit#:~:text=The%20earned%20income%20tax%20credit%20subsidizes%20low%2Dincome%20working%20families,the%20credit%20reaches%20its%20maximum.\">Tax Policy Center</a>, the Earned Income Tax Credit (EITC) is a federal tax credit that supports low-income and moderate-income working parents who claim a qualifying child based on relationship, age, residency, and  status requirements. The EITC is intended to help people who work, with workers receiving a credit equal to a percentage of their earnings, up to a maximum credit amount. If you qualify, you can use the credit to reduce the testimonials you owe and possibly increase your tax refund.</p>\n\n\n\n<p>This amount as well as the credit rate both depend on the size of a family; the more children a family has, the larger the available credit amount. The maximum credit is paid until earnings get to a certain amount. At that point, the EITC becomes lower with each extra dollar of income until no credit is available.</p>\n\n\n\n<p>Workers without children can also receive the EITC but at a lower amount than those with families. Here are the <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-and-earned-income-tax-credit-eitc-tables\">maximum EITC amounts for tax year 2023</a>, if eligible:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>$600 if you don\u2019t have any dependent children</li>\n\n\n\n<li>$3,995 if you have one qualifying child</li>\n\n\n\n<li>$6,604 if you have two qualifying children</li>\n\n\n\n<li>$7,430 if you have three or more qualifying children</li>\n</ul>\n\n\n\n<p>To claim and qualify for the EITC, you must:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Have worked and had earned income under a certain amount (we\u2019ll go into detail later)</li>\n\n\n\n<li>Have investment income below $11,000</li>\n\n\n\n<li>Have a valid Social Security number by the due date of your next return (including extensions)</li>\n\n\n\n<li>Be a U.S. citizen or a resident alien all year</li>\n\n\n\n<li>Not file Form 2555 (related to foreign earned income)&nbsp;</li>\n</ul>\n\n\n\n<p>To summarize, the EITC helps boost the incomes of workers paid low wages while offsetting federal payroll and income testimonials. EITC refunds are released near the end of February. For more information on when to expect an EITC refund, please refer to the IRS website <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/when-to-expect-your-refund-if-you-claimed-the-earned-income-tax-credit-or-additional-child-tax-credit\">here.</a></p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Who is eligible for EITC?</strong></h2>\n\n\n\n<p>To qualify for the EITC, a person or family must meet certain criteria and requirements. These include income, age, filing status, dependents, and immigration status. Let\u2019s look deeper into each requirement so you know whether you\u2019re eligible for the EITC.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Income: </strong>To qualify for EITC, you must have earned income from either employment or self-employment. Earned income includes wages, salary, or tips where federal income testimonials are withheld. It also includes income from a job where your employer did not withhold tax, such as temporary or freelance work. Additionally, your investment income can\u2019t be more than $11,000 for tax year 2023. You can find all requirements and criteria on the <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-and-earned-income-tax-credit-eitc-tables\">IRS\u2019 website</a>.</li>\n\n\n\n<li><strong>Age: </strong>You must be at least 25 years old but younger than 65 years old at the end of the tax year to qualify for the EITC.</li>\n\n\n\n<li><strong>Filing status: </strong>To qualify for the EITC, you can use the tax status of married filing jointly, head of household, single, qualifying surviving spouse, or married filing separately. You may also claim the credit if you\u2019re married, not filing a joint return, had a qualifying child who lived with you for more than half of 2022, and either lived apart from your spouse for the last six months of the year or are legally separated according to state law. To find out your filing status, use the IRS <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/use-the-eitc-assistant\">EITC Qualification Assistant</a>.</li>\n\n\n\n<li><strong>Dependents: </strong>You must have a qualifying child to qualify for the EITC; however, you can also qualify without a child if you meet certain requirements.\n<ul class=\"wp-block-list\">\n<li>Meet the EITC basic qualifying rules we covered above.</li>\n\n\n\n<li>Maintain your primary residence in the  <?php echo $row['country']; ?> for more than half the tax year. This includes all 50 states, the District of Columbia, and U.S. military bases but not Guam, the Virgin Islands, or Puerto Rico.</li>\n\n\n\n<li>You may not be claimed as a qualifying child on anyone else&#8217;s tax return.</li>\n\n\n\n<li>Be at least age 25 but under age 65 (you or your spouse).</li>\n</ul>\n</li>\n\n\n\n<li><strong>Immigration status: </strong>To claim the EITC, you and your spouse (if filing jointly) must be U.S. citizens or resident aliens. If you or your spouse were a nonresident alien for any part of the tax year, you can only claim the EITC if your filing status is married filing jointly and you or your spouse is a:\n<ul class=\"wp-block-list\">\n<li>U.S. citizen with a valid Social Security number</li>\n\n\n\n<li>Resident alien who was in the U.S. at least six months of the year you&#8217;re filing for and has a valid Social Security number</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>How to determine if you qualify for EITC</strong></h2>\n\n\n\n<p>If you meet all of the eligibility requirements for the EITC, you\u2019re halfway there. The next step is figuring out whether you qualify. There are a few different qualifications you must meet if you want to apply for the EITC.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>EITC income limits</strong></h3>\n\n\n\n<p>If you\u2019re applying for the Earned Income Tax Credit for tax year 2023, you must meet certain income limits and requirements, which we\u2019ll get into shortly</p>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>What is earned income?</strong></h4>\n\n\n\n<p>As we previously covered, earned income includes wages, salary, or tips where federal income testimonials are withheld. It also includes income from a job where your employer did not withhold tax, such as contract or freelance work. It\u2019s important to note that employee pay is earned income only if it is taxable. Earned income, however, does <em>not</em> include investment income such as interest paid and dividends, pensions and annuities, welfare benefits, unemployment compensation, worker&#8217;s compensation benefits, or social security benefits.</p>\n\n\n\n<p>If you\u2019re not sure how to calculate your income, it\u2019s easy. Just multiply your gross pay (before tax deductions) by the number of pay periods per year. For example, if you earn $700 per week, the individual&#8217;s annual income would be 700 x 52 = $36,400.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Number of children</strong></h3>\n\n\n\n<p>While it\u2019s not required that you have a child to qualify for the EITC, the amount of credit you\u2019re eligible to receive is higher if you do have qualifying children. A <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/qualifying-child-rules#:~:text=Relationship-,To%20be%20a%20qualifying%20child%20for%20the%20EITC%2C%20your%20child,Grandchild%2C%20niece%20or%20nephew\">child is considered qualifying</a> by meeting certain criteria.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Relationship: </strong>The child must be your son, daughter, stepchild, legally adopted child, or foster child; brother, sister, half-brother, half-sister, stepbrother, or stepsister; or grandchild, niece, or nephew.</li>\n\n\n\n<li><strong>Age: </strong>Your qualifying child must be under the age of 19 at the end of the year and younger than you (or your spouse if filing a joint return); under the age of 24 at the end of the year and a full-time student for at least five months of the year and younger than you (or your spouse if filing a joint return); any age and permanently and completely disabled at any time during the year.</li>\n\n\n\n<li><strong>Residence: </strong>Your child must live in the same home as you in the U.S. for more than half of the tax year. Again, this only includes the 50 states, the District of Columbia, and U.S. military bases.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>How to calculate EITC</strong></h3>\n\n\n\n<p>To find out your EITC amount, if you qualify, you\u2019ll need your adjusted gross income (AGI) for the year, your  status, and number of children you\u2019re claiming. The table below shows the maximum income levels that allow you to qualify for the EITC.</p>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td>Children or Relatives Claimed</td><td>Filing as Single, Head of Household or Widowed</td><td>Filing as Married Filing Jointly</td></tr><tr><td>Zero</td><td>$17,640</td><td>$24,210</td></tr><tr><td>One</td><td>$46,560</td><td>$53,120</td></tr><tr><td>Two</td><td>$52,918</td><td>$59,478</td></tr><tr><td>Three</td><td>$56,838</td><td>$63,698</td></tr></tbody></table></figure>\n\n\n\n<p>So, if you don\u2019t have children and you make $17,640 or less as an individual ($24,210 including your spouse\u2019s income if you file as married filing jointly), you\u2019d qualify for the EITC, which would be a maximum of $600 for that criteria. If you have three or more children and you earned $56,838 or less individually ($63,698 including your spouse\u2019s income if you file as married filing jointly), you would qualify for up to $7,430 in credits.</p>\n\n\n\n<p>The IRS offers a convenient <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/use-the-eitc-assistant\">EITC Assistant Tool</a> that helps you figure out whether you qualify and estimates how much your credit might be.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong><strong>How to claim EITC</strong></strong></h2>\n\n\n\n<p>Once you\u2019ve determined that you qualify for the EITC, you can then go through the process of claiming the credit. The most important part of the process is filing a federal tax return. If you have a qualifying child, you also need to file the Schedule EIC, Earned Income Credit, to provide the IRS with the information they need about your child or children.</p>\n\n\n\n<p>The IRS also allows taxpayers to claim the Earned Income Tax Credit for up to three previous years. In other words, you have three years to file and claim a refund from the due date of your tax return if you were eligible during those years. Beginning in 2024, you will be able to claim the EITC for 2020, 2021, and 2022 if you file by the following dates:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>For 2022, file your tax return by April 18, 2026</li>\n\n\n\n<li>For 2021, file your tax return by April 18, 2025</li>\n\n\n\n<li>For 2020, file your tax return by May 17, 2024</li>\n</ul>\n\n\n\n<p>To file a prior year tax return, you\u2019ll need to complete and file Form 1040 and a Schedule EIC if you had a qualifying child. If you filed a tax return for those years but did not claim the EITC and you were eligible, you will need to file an amended return.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Benefits of claiming EITC</strong></h2>\n\n\n\n<p>There are some obvious benefits to claiming the EITC, including increasing your tax refund, reducing tax liability, and helping your family financially.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Increase tax refunds and reduce tax liability</strong></h3>\n\n\n\n<p>If you file your testimonials and you\u2019re expecting a tax refund based on your calculation, the EITC can help increase that refund if your tax credit is more than your tax liability for the year. And a refundable tax credit like the EITC can help lower your tax liability because it reduces the value of your liability dollar for dollar. If the tax liability winds up reduced below zero, you will receive a refund. For example, if you have a tax bill of $4,000 and can claim a $600 credit, you would owe $3,400 to the IRS instead of $4,000. On the other hand, if your tax liability was $500 and you have a tax credit of $1,000, you would receive a $500 refund.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Families with children</strong></h3>\n\n\n\n<p>For lower-income families with children, the EITC can be a very important source of income because the credit increases based on the number of qualifying children in the household, up to three. In some cases, the EITC even helps families rise above the poverty line. The EITC is especially helpful when families with children can use that in combination with other tax credits, such as the <a href=\"https://www.irs.gov/credits-deductions/individuals/child-tax-credit\">Child Tax Credit</a> and Additional Child Tax Credit.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Common mistakes to avoid while claiming EITC</strong></h2>\n\n\n\n<p>There\u2019s no denying that testimonials are complicated and confusing. That can make it easy for mistakes to happen when filing testimonials. But with some extra knowledge (like this article!) and some preparation, you can avoid these common mistakes when claiming the Earned Income Tax Credit.</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Over- or under-reporting income</strong>\n<ul class=\"wp-block-list\">\n<li><strong>How to avoid this error:</strong> Make sure to keep detailed records of <em>all</em> your income, including freelance and contract income, interest and dividends, settlements, property sales, and any other source of income. And include all your Forms W-2, W-2G, 1099-MISC, 1099-NEC, and all other records of your income with your tax return.</li>\n\n\n\n<li><strong>Consequences of making this error: </strong>If your tax forms don\u2019t match IRS records, you may be required to submit additional documentation such as pay statements or supporting documents from your employer reflecting your employment status and salary information. This type of error could cause an increase or decrease in your tax liability. And that can impact your EITC claim and potential refund.</li>\n</ul>\n</li>\n\n\n\n<li><strong>A child does not qualify</strong>\n<ul class=\"wp-block-list\">\n<li><strong>How to avoid this error: </strong>Be sure your child meets all of the criteria we mentioned above, in the Number of Children section.</li>\n\n\n\n<li><strong>Consequences of making this error: </strong>If you intentionally claim a child who does not qualify, you may lose your access to the EITC in the future.</li>\n</ul>\n</li>\n\n\n\n<li><strong>A child was claimed by another person</strong>\n<ul class=\"wp-block-list\">\n<li><strong>How to avoid this error: </strong>This error generally occurs when separated or divorced parents claim the same child as a dependent on a tax return or as a qualifying child for a tax credit. Be sure to discuss this situation with any other family members who might also be considering claiming your child for the EITC. Also, be prepared to show proof that entitled to claim the child. You can do this by referring to <a href=\"https://www.irs.gov/pub/irs-pdf/f886hdep.pdf\">Form 886-H-DEP</a>, which offers a list of documents you may need to resolve your case. Most importantly, the child you\u2019re claiming must have lived with you for more than half of the tax year.</li>\n\n\n\n<li><strong>Consequences of making this error: </strong>Duplicate claims of a child could result in you or the other person claiming the child needing to file an amended tax return. If neither of you files an amended return that removes the child-related benefits, you could be audited by the IRS to determine who can claim the dependent.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Name or Social Security Number (SSN) is incorrect</strong>\n<ul class=\"wp-block-list\">\n<li><strong>How to avoid this error: </strong>Carefully review your tax return to be sure your name and SSN are correct in all locations on the form, including the EITC claim. The Social Security number and name should appear exactly how it is on the Social Security card for everyone on your return. Also, using tax software can help reduce the chance of error.</li>\n\n\n\n<li><strong>Consequences of making this error: </strong>If you submit your tax return with the wrong name or Social Security number, the IRS will likely reject the return and possibly deny or audit your EITC claim. You\u2019ll then have to resubmit your tax return, which will delay any refund you might be expecting.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Filing status is incorrect</strong>\n<ul class=\"wp-block-list\">\n<li><strong>How to avoid this error: </strong>If you\u2019re married, you may not claim the EITC using the single filing status. You also can\u2019t claim the EITC using the head of household filing status if you are married and you and your qualifying child lived with your spouse during the last six months of the year. Double-check to make sure you use the correct filing status.</li>\n\n\n\n<li><strong>Consequences of making this error: </strong>Like other tax return errors, using the wrong filing status can result in a delayed refund, an EITC claim audit, or a denial of part or all of the tax credit.</li>\n</ul>\n</li>\n</ol>\n\n\n\n<p>As we said, testimonials can be very complicated. But you want to be sure you\u2019re receiving the tax credits you\u2019re entitled to. The best way to do so is to seek professional tax advice if you\u2019re not sure whether you\u2019re eligible for the Earned Income Tax Credit or how to claim it.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong><?php echo $row['name']; ?> is here to help</strong></h2>\n\n\n\n<p>The EITC is there for a reason&#8211;to help the financial situation of low-income families who need it the most. You may be eligible for this tax credit and not even realize it, missing out on thousands of dollars your family could use. Be sure to check your eligibility for the EITC using the criteria we listed in this article, and if you are eligible, make sure you claim the credit on your tax return.</p>\n\n\n\n<p>If you need professional tax help and advice, reach out to the tax experts at <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a> at <?php echo $row['phone']; ?> and visit our <a href=\"<?php echo $row['url']; ?>testimonials/\">tax services page</a> to learn how we can assist you this tax season. And if you\u2019re expecting a federal tax refund in 2024, we can help you get it faster with our Refund Advance program! Through Refund Advance, you can get your projected federal tax refund in the form of a loan&#8211;up to $6,000&#8211;between January 2 and February 29, 2024, instead of waiting until April or beyond. <a href=\"<?php echo $row['url']; ?>testimonials/refund-advance/\">Learn more about Refund Advance today</a>!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>What is the Earned Income Tax Credit (EITC)? Are you eligible to receive the EITC, and how can you find out? How can you claim the EITC and what are the benefits? We\u2019ll answer all of these questions in this article while letting you know how <?php echo $row['name']; ?> can help. What is the EITC? According&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 4680,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-4676",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Earned Income Tax Credit (EIC) - Qualifications &amp; Benefits | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Earned Income Tax Credit (EIC) - Qualifications &amp; Benefits | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-02-20T15:24:40+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1913\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"12 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\",\"name\":\"Earned Income Tax Credit (EIC) - Qualifications & Benefits | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg\",\"datePublished\":\"2023-11-21T20:21:17+00:00\",\"dateModified\":\"2024-02-20T15:24:40+00:00\",\"description\":\"Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg\",\"width\":1913,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Maximizing your refund: A comprehensive guide to the Earned Income Tax Credit (EITC)\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Earned Income Tax Credit (EIC) - Qualifications & Benefits | <?php echo $row['name']; ?>",
+    "description": "Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Earned Income Tax Credit (EIC) - Qualifications & Benefits | <?php echo $row['name']; ?>",
+    "og_description": "Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-02-20T15:24:40+00:00",
+    "og_image": [
+      {
+        "width": 1913,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "12 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/",
+          "name": "Earned Income Tax Credit (EIC) - Qualifications & Benefits | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg",
+          "datePublished": "2023-11-21T20:21:17+00:00",
+          "dateModified": "2024-02-20T15:24:40+00:00",
+          "description": "Learn about the Earned Income Tax Credit (EIC), including eligibility requirements and how to determine if you qualify for this valuable tax credit.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/11/1123_EITC.jpg",
+          "width": 1913,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Maximizing your refund: A comprehensive guide to the Earned Income Tax Credit (EITC)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4676",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4676/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/4680"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=4676" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=4676"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=4676"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

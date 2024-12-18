@@ -1,0 +1,218 @@
+{
+  "id": 5445,
+  "date": "2024-09-18T15:06:49",
+  "date_gmt": "2024-09-18T21:06:49",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-10-23T13:50:14",
+  "modified_gmt": "2024-10-23T19:50:14",
+  "slug": "understanding-the-cfpbs-and-its-impact",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/",
+  "title": {
+    "rendered": "Understanding the CFPB\u2019s Payday Rule and Its Impact"
+  },
+  "content": {
+    "rendered": "\n<h2 class=\"wp-block-heading\">Introduction</h2>\n\n\n\n<p>In recent years, the&nbsp;<strong>Consumer Financial Protection Bureau (CFPB)</strong>&nbsp;has introduced the Payday Rule, a significant regulation impacting short-term loans. This article delves into the effects of this rule, particularly on payday and title loans, and discusses its implications for both lenders and borrowers.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The CFPB\u2019s Payday Rule Explained</h2>\n\n\n\n<p>The CFPB&#8217;s Payday Rule primarily targets&nbsp;<strong>payday and title loans</strong>, aiming to protect consumers from the risks associated with these high-cost, short-term loans. The rule mandates lenders to conduct an assessment of the borrower&#8217;s ability to repay the loan while meeting basic living expenses and other financial obligations.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Key Features of the Rule:</h3>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Focus on Loan Structure</strong>: The rule encourages a shift in the structure of payday loans towards more consumer-friendly models, like traditional installment loans.</li>\n\n\n\n<li><strong>36% APR Trigger</strong>: A controversial aspect of the rule is including a 36% annual percentage rate (APR) trigger, which has garnered mixed reactions from various stakeholders.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">Impact on Traditional Installment Loans</h2>\n\n\n\n<p>The National Installment Lenders Association (NILA) has engaged extensively with the CFPB, advocating for the benefits of installment loans, especially for lower-income Americans. The Payday Rule, as structured, does not directly affect traditional installment loans, a decision that NILA has applauded.</p>\n\n\n\n<h3 class=\"wp-block-heading\">NILA&#8217;s Viewpoint:</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Positive Emphasis</strong>: NILA appreciates the Rule&#8217;s focus on encouraging payday lenders to restructure their products to be more akin to installment loans.</li>\n\n\n\n<li><strong>Concerns about 36% APR Trigger</strong>: NILA questions the necessity and purpose of the 36% APR trigger in the rule, arguing that it contradicts the intentions of the Dodd-Frank Act&#8217;s framers.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Is the Payday Rule Beneficial?</h2>\n\n\n\n<p>The effectiveness and benefit of the Payday Rule are subjects of debate. On one hand, it aims to provide a safer borrowing environment and promotes more sustainable loan structures. On the other, concerns about the 36% APR trigger and its implications raise questions about the rule&#8217;s overall efficacy.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Pros:</h3>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Consumer Protection</strong>: The rule&#8217;s primary goal is to safeguard consumers from the risks of high-cost, short-term loans.</li>\n\n\n\n<li><strong>Encourages Better Loan Structures</strong>: Promoting structures similar to installment loans aims to foster more responsible lending practices.</li>\n</ol>\n\n\n\n<h3 class=\"wp-block-heading\">Cons:</h3>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>APR Controversy</strong>: Some see the 36% APR trigger as unnecessary and potentially contradictory to broader financial regulations.</li>\n\n\n\n<li><strong>Limited Scope</strong>: Critics argue that the rule might not fully address the complexities of the payday lending market.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">Conclusion</h2>\n\n\n\n<p>The CFPB&#8217;s Payday Rule represents a significant step in regulating short-term, high-cost loans. While it garners praise for its consumer protection focus and encouragement of better loan structures, the 36% APR trigger remains contentious. As the financial landscape continues to evolve, ongoing dialogue and adjustments may be necessary to ensure that regulations like the Payday Rule effectively balance consumer protection with the realities of the lending market.</p>\n\n\n\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Introduction In recent years, the&nbsp;Consumer Financial Protection Bureau (CFPB)&nbsp;has introduced the Payday Rule, a significant regulation impacting short-term loans. This article delves into the effects of this rule, particularly on payday and title loans, and discusses its implications for both lenders and borrowers. The CFPB\u2019s Payday Rule Explained The CFPB&#8217;s Payday Rule primarily targets&nbsp;payday and&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5717,
+  "template": "",
+  "resources_category": [40],
+  "resources_tag": [],
+  "class_list": [
+    "post-5445",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-industry-news"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-10-23T19:50:14+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2126\" />\n\t<meta property=\"og:image:height\" content=\"1411\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/\",\"url\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/\",\"name\":\"Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg\",\"datePublished\":\"2024-09-18T21:06:49+00:00\",\"dateModified\":\"2024-10-23T19:50:14+00:00\",\"description\":\"The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg\",\"width\":2126,\"height\":1411,\"caption\":\"Young black businesswoman working on a laptop in an office alone\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Industry News\",\"item\":\"<?php echo $row['url']; ?>resources/industry-news/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Understanding the CFPB\u2019s Payday Rule and Its Impact\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?>",
+    "description": "The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?>",
+    "og_description": "The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.",
+    "og_url": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-10-23T19:50:14+00:00",
+    "og_image": [
+      {
+        "width": 2126,
+        "height": 1411,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "3 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/",
+          "url": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/",
+          "name": "Understanding the CFPB\u2019s Payday Rule and Its Impact | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg",
+          "datePublished": "2024-09-18T21:06:49+00:00",
+          "dateModified": "2024-10-23T19:50:14+00:00",
+          "description": "The Payday Rule has reshaped the short-term lending industry. Explore how the rule can further create implications for lenders and borrowers.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/09/iStock-1394347648.jpg",
+          "width": 2126,
+          "height": 1411,
+          "caption": "Young black businesswoman working on a laptop in an office alone"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-cfpbs-and-its-impact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Industry News",
+              "item": "<?php echo $row['url']; ?>resources/industry-news/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding the CFPB\u2019s Payday Rule and Its Impact"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5445",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5445/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5717"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5445" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5445"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5445"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

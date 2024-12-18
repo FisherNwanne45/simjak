@@ -1,0 +1,218 @@
+{
+  "id": 5410,
+  "date": "2024-07-31T10:46:00",
+  "date_gmt": "2024-07-31T16:46:00",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-07-30T15:14:35",
+  "modified_gmt": "2024-07-30T21:14:35",
+  "slug": "protecting-against-identity-theft",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/",
+  "title": {
+    "rendered": "Protecting Against Identity Theft: Essential Safety Measures"
+  },
+  "content": {
+    "rendered": "\n<p>In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality. Recent data insights have revealed a worrying uptrend in financial fraud and identity theft cases, impacting individuals and communities alike. This blog post aims to address this critical pain point by outlining preventative measures and essential actions to take if you find yourself victimized.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Understanding the Risk</h2>\n\n\n\n<p>Identity theft involves the unauthorized use of your personal information, such as your name, Social Security number, credit card details, or other financial identifiers, typically for financial gain. This can lead to unauthorized financial transactions, fraudulent accounts being opened in your name, and a long-term negative impact on your credit score.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Preventative Measures</h2>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Secure Your Personal Information</strong>\n<ul class=\"wp-block-list\">\n<li>Keep your personal documents in a secure place, especially when not at home.</li>\n\n\n\n<li>Shred documents containing personal information before disposal.</li>\n\n\n\n<li>Regularly update passwords and use a combination of letters, numbers, and symbols.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Be Cyber-Savvy</strong>\n<ul class=\"wp-block-list\">\n<li>Use strong, unique passwords for different accounts.</li>\n\n\n\n<li>Be wary of phishing emails and suspicious links. Remember, no legitimate organization will ask for sensitive information via email.</li>\n\n\n\n<li>Keep your antivirus and anti-malware software updated.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Monitor Your Accounts: </strong>\n<ul class=\"wp-block-list\">\n<li>Regularly check your bank and credit card statements for any unauthorized transactions.</li>\n\n\n\n<li>Sign up for alerts from your bank for any suspicious activities.</li>\n\n\n\n<li>Consider using credit monitoring services to keep an eye on your credit reports.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Be Proactive with Public Wi-Fi:</strong>\n<ul class=\"wp-block-list\">\n<li>Avoid accessing sensitive information or making transactions on public Wi-Fi networks.</li>\n\n\n\n<li>Consider using a virtual private network (VPN) for an added layer of security.</li>\n</ul>\n</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">If You Are Victimized</h2>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Report Immediately:</strong>\n<ul class=\"wp-block-list\">\n<li>Contact your bank or credit card issuer to report unauthorized transactions.</li>\n\n\n\n<li>File a report with the Federal Trade Commission (FTC) through IdentityTheft.gov.</li>\n\n\n\n<li>Report the identity theft to local law enforcement.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Initiate a Fraud Alert or Credit Freeze:</strong>\n<ul class=\"wp-block-list\">\n<li>Place a fraud alert on your credit reports by contacting one of the three major credit bureaus (Experian, TransUnion, or Equifax).</li>\n\n\n\n<li>Consider a credit freeze, which stops access to your credit report ans makes it more difficult for identity thieves to open accounts in your name.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Stay Informed and Vigilant:</strong>\n<ul class=\"wp-block-list\">\n<li>Continuously monitor your financial statements and credit reports after the incident.</li>\n\n\n\n<li>Be aware of potential scams targeting identity theft victims.</li>\n</ul>\n</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">Conclusion</h2>\n\n\n\n<p> Protecting your personal and financial information is more crucial than ever. By taking proactive steps and staying informed, you can significantly reduce your risk of becoming a victim of identity theft and financial fraud. Remember, vigilance and quick action are key to safeguarding your financial well-being.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality. Recent data insights have revealed a worrying uptrend in financial fraud and identity theft cases, impacting individuals and communities alike. This blog post aims to address this critical pain point by outlining preventative measures and essential&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5441,
+  "template": "",
+  "resources_category": [38],
+  "resources_tag": [],
+  "class_list": [
+    "post-5410",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-personal-finance-basics"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-07-30T21:14:35+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2121\" />\n\t<meta property=\"og:image:height\" content=\"1414\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/\",\"url\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/\",\"name\":\"Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg\",\"datePublished\":\"2024-07-31T16:46:00+00:00\",\"dateModified\":\"2024-07-30T21:14:35+00:00\",\"description\":\"In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg\",\"width\":2121,\"height\":1414,\"caption\":\"over the shoulder shot of woman using smart phone with Two-Factor Authentication (2FA) security while logging to laptop. Privacy protection, internet and mobile security\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Personal Finance Basics\",\"item\":\"<?php echo $row['url']; ?>resources/personal-finance-basics/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Protecting Against Identity Theft: Essential Safety Measures\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?>",
+    "description": "In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?>",
+    "og_description": "In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.",
+    "og_url": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-07-30T21:14:35+00:00",
+    "og_image": [
+      {
+        "width": 2121,
+        "height": 1414,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "3 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/",
+          "url": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/",
+          "name": "Protecting Against Identity Theft: Essential Safety Measures | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg",
+          "datePublished": "2024-07-31T16:46:00+00:00",
+          "dateModified": "2024-07-30T21:14:35+00:00",
+          "description": "In the ever-evolving digital world, the threat of identity theft and financial fraud is increasingly becoming a concerning reality.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/08/iStock-1788265199.jpg",
+          "width": 2121,
+          "height": 1414,
+          "caption": "over the shoulder shot of woman using smart phone with Two-Factor Authentication (2FA) security while logging to laptop. Privacy protection, internet and mobile security"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/personal-finance-basics/protecting-against-identity-theft/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Personal Finance Basics",
+              "item": "<?php echo $row['url']; ?>resources/personal-finance-basics/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Protecting Against Identity Theft: Essential Safety Measures"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5410",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5410/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5441"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5410" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5410"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5410"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

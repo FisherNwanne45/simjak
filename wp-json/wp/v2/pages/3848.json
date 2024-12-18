@@ -1,0 +1,169 @@
+{
+  "id": 3848,
+  "date": "2023-06-07T07:28:28",
+  "date_gmt": "2023-06-07T13:28:28",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=3848" },
+  "modified": "2023-09-06T12:09:44",
+  "modified_gmt": "2023-09-06T18:09:44",
+  "slug": "authors",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>authors/",
+  "title": { "rendered": "Authors" },
+  "content": {
+    "rendered": "</div><section id=\"block_3149bc2f72884d58a8e4de165c18a271\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Authors</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n\n<div style=\"height:60px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-text-align-center\" style=\"font-size:22px\">Meet the talented industry professionals behind our expert resource center articles.</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n</div><section id=\"block_032669a32a53191099f22084100a1850\" class=\"authors__block pb-5 pt-2 pt-md-5 alignfull block-authors has-font-color text-default\"><div class=\"container\">\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<div class=\"authors__wrapper mx-auto\">\n\t\t\t\t\t\t\t\t\t<div class=\"author__article row px-3 mt-5\">\n\t\t\t\t\t\t<div class=\"author__image-col col-12 col-md-6 col-lg-5\">\n\t\t\t\t\t\t\t<div class=\"author__image\">\n\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"800\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Doug-Flach\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach.png 800w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-400x400.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-650x650.png 650w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-200x200.png 200w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-768x768.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-600x600.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Doug-Flach-150x150.png 150w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"author__content col-12 col-md-6 col-lg-7 pt-3 pt-md-0 d-md-flex flex-md-column justify-content-md-center\">\n\t\t\t\t\t\t\t<h2 class=\"author__title\">Doug Flach</h2>\n\t\t\t\t\t\t\t<p class=\"author__excerpt pt-\">Doug Flach is a partner at Accurate Tax Solutions, a Loan Payment Protectionfirm based out of Alpharetta, GA.</p>\n\t\t\t\t\t\t\t<a class=\"author__link\" href=\"<?php echo $row['url']; ?>authors/doug-flach/\">Read more<span class=\"screen-reader-text\">about Doug Flach</span><img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/svg-right.svg\"> </a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"author__article row px-3 mt-5\">\n\t\t\t\t\t\t<div class=\"author__image-col col-12 col-md-6 col-lg-5\">\n\t\t\t\t\t\t\t<div class=\"author__image\">\n\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"800\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Jaime-Lewton\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton.png 800w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-400x400.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-650x650.png 650w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-200x200.png 200w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-768x768.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-600x600.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Jaime-Lewton-150x150.png 150w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"author__content col-12 col-md-6 col-lg-7 pt-3 pt-md-0 d-md-flex flex-md-column justify-content-md-center\">\n\t\t\t\t\t\t\t<h2 class=\"author__title\">Jamie Lewton</h2>\n\t\t\t\t\t\t\t<p class=\"author__excerpt pt-\">Jamie Lewton is a consumer finance specialist who has built her career with the <?php echo $row['name']; ?> team.</p>\n\t\t\t\t\t\t\t<a class=\"author__link\" href=\"<?php echo $row['url']; ?>authors/jamie-lewton/\">Read more<span class=\"screen-reader-text\">about Jamie Lewton</span><img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/svg-right.svg\"> </a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"author__article row px-3 mt-5\">\n\t\t\t\t\t\t<div class=\"author__image-col col-12 col-md-6 col-lg-5\">\n\t\t\t\t\t\t\t<div class=\"author__image\">\n\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"800\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Holly-Munoz\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz.png 800w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-400x400.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-650x650.png 650w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-200x200.png 200w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-768x768.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-600x600.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Holly-Munoz-150x150.png 150w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"author__content col-12 col-md-6 col-lg-7 pt-3 pt-md-0 d-md-flex flex-md-column justify-content-md-center\">\n\t\t\t\t\t\t\t<h2 class=\"author__title\">Holly Munoz</h2>\n\t\t\t\t\t\t\t<p class=\"author__excerpt pt-\">Holly Munoz serves as Regional Vice President at Brundage Management, the management holding company that operates <?php echo $row['name']; ?> and related subsidiaries.</p>\n\t\t\t\t\t\t\t<a class=\"author__link\" href=\"<?php echo $row['url']; ?>authors/holly-munoz/\">Read more<span class=\"screen-reader-text\">about Holly Munoz</span><img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/svg-right.svg\"> </a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"author__article row px-3 mt-5\">\n\t\t\t\t\t\t<div class=\"author__image-col col-12 col-md-6 col-lg-5\">\n\t\t\t\t\t\t\t<div class=\"author__image\">\n\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"800\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Amy-Sines\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines.png 800w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-400x400.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-650x650.png 650w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-200x200.png 200w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-768x768.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-600x600.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/03/Amy-Sines-150x150.png 150w\" sizes=\"auto, (max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"author__content col-12 col-md-6 col-lg-7 pt-3 pt-md-0 d-md-flex flex-md-column justify-content-md-center\">\n\t\t\t\t\t\t\t<h2 class=\"author__title\">Amy Sines</h2>\n\t\t\t\t\t\t\t<p class=\"author__excerpt pt-\">Amy Sines is Vice President of Operations Support at Brundage Management Company, the management holding company for <?php echo $row['name']; ?>.</p>\n\t\t\t\t\t\t\t<a class=\"author__link\" href=\"<?php echo $row['url']; ?>authors/amy-sines/\">Read more<span class=\"screen-reader-text\">about Amy Sines</span><img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/svg-right.svg\"> </a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"author__article row px-3 mt-5\">\n\t\t\t\t\t\t<div class=\"author__image-col col-12 col-md-6 col-lg-5\">\n\t\t\t\t\t\t\t<div class=\"author__image\">\n\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"1080\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys-.jpeg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Ricky Keys  - 1\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys-.jpeg 1080w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--400x400.jpeg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--650x650.jpeg 650w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--200x200.jpeg 200w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--768x768.jpeg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--980x980.jpeg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--600x600.jpeg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/08/Rickie-Keys--150x150.jpeg 150w\" sizes=\"auto, (max-width: 1080px) 100vw, 1080px\" />\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"author__content col-12 col-md-6 col-lg-7 pt-3 pt-md-0 d-md-flex flex-md-column justify-content-md-center\">\n\t\t\t\t\t\t\t<h2 class=\"author__title\">Dr. Rickie C Keys</h2>\n\t\t\t\t\t\t\t<p class=\"author__excerpt pt-\">Dr. Rickie C. Keys is an experienced advocate dedicated to addressing significant challenges faced by communities nationwide.</p>\n\t\t\t\t\t\t\t<a class=\"author__link\" href=\"<?php echo $row['url']; ?>authors/dr-rickie-c-keys/\">Read more<span class=\"screen-reader-text\">about Dr. Rickie C Keys</span><img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/svg-right.svg\"> </a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</section>",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Meet the talented industry professionals behind our expert resource center articles.</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-3848", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Authors | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Meet the talented industry professionals behind our expert resource center articles.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>authors/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Authors | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Meet the talented industry professionals behind our expert resource center articles.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>authors/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-09-06T18:09:44+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>authors/\",\"url\":\"<?php echo $row['url']; ?>authors/\",\"name\":\"Authors | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2023-06-07T13:28:28+00:00\",\"dateModified\":\"2023-09-06T18:09:44+00:00\",\"description\":\"Meet the talented industry professionals behind our expert resource center articles.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>authors/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>authors/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>authors/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Authors\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Authors | <?php echo $row['name']; ?>",
+    "description": "Meet the talented industry professionals behind our expert resource center articles.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>authors/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Authors | <?php echo $row['name']; ?>",
+    "og_description": "Meet the talented industry professionals behind our expert resource center articles.",
+    "og_url": "<?php echo $row['url']; ?>authors/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2023-09-06T18:09:44+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>authors/",
+          "url": "<?php echo $row['url']; ?>authors/",
+          "name": "Authors | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2023-06-07T13:28:28+00:00",
+          "dateModified": "2023-09-06T18:09:44+00:00",
+          "description": "Meet the talented industry professionals behind our expert resource center articles.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>authors/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["<?php echo $row['url']; ?>authors/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>authors/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Authors" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/3848",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=3848"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/3848/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=3848" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

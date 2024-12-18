@@ -1,0 +1,182 @@
+{
+  "id": 2984,
+  "date": "2022-10-19T15:06:46",
+  "date_gmt": "2022-10-19T21:06:46",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=2984" },
+  "modified": "2024-12-13T15:54:11",
+  "modified_gmt": "2024-12-13T21:54:11",
+  "slug": "refund-advance",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>testimonials/refund-advance/",
+  "title": { "rendered": "Refund Advance" },
+  "content": {
+    "rendered": "</div><section id=\"block_991bffe5f9c99970036f6f569e45d67a\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Refund Advance</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_8224cee78353de95ab1a18793023f9fd\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2>Get up to $7,000* now</h2>\n                        <p>It\u2019s your money \u2013 why wait?<br />\nOur Refund Advance program is here to help early bird filers enjoy their tax refund faster.</p>\n<p><strong>Refund Advance is available January 2, 2025 \u2013 February 28, 2025.</strong></p>\n<p><i><span style=\"font-weight: 400; font-size: 12px;\">*This is a loan and contingent on bank approval.</span></i></p>\n\n\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n</div><section id=\"block_aca3b332efc5ba2e87bb0fccb5122c50\" class=\"block-multi-content  alignfull block-multi-content has-font-color text-default\">\t<!-- First Template -->\n\t<div class=\"branch-area \">\n        <div class=\"container\">\n\n            \n            <div class=\"row align-items-center\">\n                <div class=\"col-lg-6 col-md-6\">\n                    <div class=\"branch-thumb\">\n                        <img decoding=\"async\" width=\"1104\" height=\"1096\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x.jpg\" class=\"\" alt=\"SL-testimonials-image-refundadvances@2x\" id=\"3017\" loading=\"lazy\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x.jpg 1104w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-403x400.jpg 403w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-655x650.jpg 655w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-201x200.jpg 201w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-768x762.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-980x973.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-600x596.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-604x600.jpg 604w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-400x397.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2022/10/SL-testimonials-image-refundadvances@2x-150x149.jpg 150w\" sizes=\"auto, (max-width: 1104px) 100vw, 1104px\" />                    </div>\n                </div>\n                <div class=\"col-lg-6 col-md-6\">\n                    <div class=\"branch-text\">\n                        <h2>What is a Refund Advance?</h2>\n                                                <p><span style=\"font-weight: 400;\">Your bills and commitments don\u2019t wait for the IRS to send your refund, so we don\u2019t either. For a limited time each year, we offer those filing their testimonials with <?php echo $row['name']; ?> the chance to receive up to $7,000 of their projected refund right away at the time of filing.\u00a0\u00a0</span></p>\n<p><span style=\"font-weight: 400;\">When you file your testimonials, a <?php echo $row['name']; ?> Loan Payment Protectionexpert will take you through the Refund Advance application process*. Once you\u2019re approved, you\u2019ll leave with your money!\u00a0</span></p>\n<p><i><span style=\"font-weight: 400; font-size: 12px;\">*This is a loan and contingent on bank approval.</span></i></p>\n                                                                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\t</section>\n  \n\n<section id=\"block_d3004dc6b73a831d7f657d77e38710c6\" class=\"block-text-icon alignwide block-text-icon has-font-color text-default\"><div class=\"about-area pt-5 mt-lg-5 \">\n\t<div class=\"container-fluid mw-xxl\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"area-title text-center\">\n\t\t\t\t<h2>How to file with <?php echo $row['name']; ?></h2>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row justify-content-center\">\n\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-documents.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-documents\" id=\"1977\" loading=\"lazy\" /><h4>1. Get your documents ready.</h4><p>You\u2019ll need your W-2 form, a social security number, photo ID, and any 1099 forms.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-refundadvance-location-icon-preferredfile.svg\" class=\"\" alt=\"SL-refundadvance-location-icon-preferredfile\" id=\"1963\" loading=\"lazy\" /><h4>2. Choose your preferred way to file. </h4><p>Upload documents online, drop them off in person, or stay for your filing session.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-refundadvance-location-icon-fileearly.svg\" class=\"\" alt=\"SL-refundadvance-location-icon-fileearly\" id=\"1962\" loading=\"lazy\" /><h4>3. File early to qualify for Refund Advance.</h4><p>File by <b>February 28, 2025</b> and ask your preparer if you qualify for an advance of up to $7,000.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-onlinetax-icon-esign.svg\" class=\"\" alt=\"SL-onlinetax-icon-esign\" id=\"1982\" loading=\"lazy\" /><h4>4. Sign off in person or through e-signature. </h4><p>We\u2019re here to eliminate the hassle and get your return filed accurately and on time.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\n\t\t</div>\n\n\t\t\t\t\t<div class=\"row text-center mt-3 pb-3 pb-lg-5\">\n\t\t\t\t<div class=\"col-lg-12\">\n\t\t\t\t\t<div class=\"more-about\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>\n</section>\n\n<section id=\"block_f0ecc283a6ed849307ff36edbb369fc0\" class=\"block-testimonial-slider alignnone block-testimonial-slider has-font-color text-default\">\n\t<div class=\"customers-review-area \">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row text-center\">\n\t\t\t\t<div class=\"col-lg-12 mb-5\">\n\t\t\t\t\t<div class=\"area-title\">\n\t\t\t\t\t\t<h2>Hear from  customers</h2>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"customer_review_wrapper\">\n\t\t\t<!-- <img decoding=\"async\" src=\"/wp-content/uploads/2022/04/overlay_bg.png\" class=\"overlay_img\" alt=\"\"> -->\n\t\t\t<div class=\"overlay_review\"></div>\n\t\t\t<div class=\"customers_slider\">\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Cynthia Beltran</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Been comming here for a couple of yrs now to do my testimonials..100% recommend.Letty Gonzales is the one who does my testimonials very helpful and friendly..The other staff as well is very helpful and friendly..\ud83e\udd70</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Delesa Miller (Dee Dee)</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>I love <?php echo $row['name']; ?> and Sarah Snyder is the she always helps and makes sure my testimonials get done right. And she always has a smile on her face. So if your looking for somebody to do your testimonials or to get an loan stop by and let Sarah help you.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Andre Alfred</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Sunloan been doing my testimonials over 4years. They always get me the most money back. Amazing service and always fast and so friendly. Highly recommend.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Colyn Anderson</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Maria and Kim and very nice and sweet and very professional. They made me feel very welcome right a away. Maria also help me do my testimonials for the first time which was fast and easy. I will be differently be coming back next year to do my testimonials again\ud83d\ude01</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>********* </h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Great staff!! They do testimonials and give you free estimates and will even give you an advance on your income tax so definitely hit them up!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Lorenzo Figueroa</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Service is good. Fast and easy to apply. They even have service for your income tax return. Thank you <?php echo $row['name']; ?> staff for your service.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Laekyn Nauje\u2019 Moore</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>I\u2019ve been filing my testimonials there for 5 years</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\n</section>\n\n<section id=\"block_d033e3662684e6d7598469d758546a1b\" class=\"block-cta-banneralignwide block-cta-banner has-font-color text-default\">\t<div class=\"promo-area line_yellow\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"promo-text\">\n                        <h2>Ready to file?</h2>\n                        <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_red2 \">Contact Us</a>                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 2982,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-2984", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Refund Advance | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>testimonials/refund-advance/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Refund Advance | <?php echo $row['name']; ?>\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>testimonials/refund-advance/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-12-13T21:54:11+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>testimonials/refund-advance/\",\"url\":\"<?php echo $row['url']; ?>testimonials/refund-advance/\",\"name\":\"Refund Advance | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-10-19T21:06:46+00:00\",\"dateModified\":\"2024-12-13T21:54:11+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>testimonials/refund-advance/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>testimonials/refund-advance/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>testimonials/refund-advance/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Loan Payment Protection Services\",\"item\":\"<?php echo $row['url']; ?>testimonials/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Refund Advance\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Refund Advance | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>testimonials/refund-advance/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Refund Advance | <?php echo $row['name']; ?>",
+    "og_url": "<?php echo $row['url']; ?>testimonials/refund-advance/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-12-13T21:54:11+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>testimonials/refund-advance/",
+          "url": "<?php echo $row['url']; ?>testimonials/refund-advance/",
+          "name": "Refund Advance | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-10-19T21:06:46+00:00",
+          "dateModified": "2024-12-13T21:54:11+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>testimonials/refund-advance/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>testimonials/refund-advance/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>testimonials/refund-advance/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Loan Payment Protection Services",
+              "item": "<?php echo $row['url']; ?>testimonials/"
+            },
+            { "@type": "ListItem", "position": 3, "name": "Refund Advance" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2984",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2984"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2984/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5859,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2984/revisions/5859"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2982"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2984" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": 5032,
+  "date": "2024-01-31T09:00:00",
+  "date_gmt": "2024-01-31T15:00:00",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-01-30T15:01:09",
+  "modified_gmt": "2024-01-30T21:01:09",
+  "slug": "child-dependent-tax-credit",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/",
+  "title": {
+    "rendered": "Understanding the Child and Dependent Care tax credit"
+  },
+  "content": {
+    "rendered": "\n<p>It\u2019s winter, which means it\u2019s also <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\">Tax Season</a>! And when it\u2019s Tax Season, it\u2019s time to start gathering information. After all, you want to be sure you\u2019re claiming the right credits and <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\">getting as much money back on your tax refund</a> as possible&#8211;and sometimes that involves some digging. If you\u2019re a working parent and pay for daycare, before-school or after-school programs, in-home care, and other child or dependent care, you may be able to claim a significant tax credit on this year\u2019s tax return. The <a href=\"https://www.irs.gov/taxtopics/tc602\" target=\"_blank\" rel=\"noreferrer noopener\">Child and Dependent Care credit</a> is a tax break specifically for working people to help offset the costs associated with caring for a child or dependent with disabilities. In this article, we\u2019ll explain what this tax credit is, who is eligible, and how you can apply for it.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Dependent eligibility</strong></h2>\n\n\n\n<p>Who qualifies for the Child and Dependent Care Tax credit? The <a href=\"https://www.irs.gov/credits-deductions/individuals/child-and-dependent-care-credit-information\" target=\"_blank\" rel=\"noreferrer noopener\">IRS offers this credit</a> \u201cif you paid someone to care for your child or other qualifying person so you (and your spouse if filing jointly) could work or look for work\u2026your federal income tax may be less if you claim the credit for Child and Dependent Care expenses on your tax return.\u201d</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>How do you know if you\u2019re eligible? </strong>You may be eligible to claim the child and dependent care credit if:\n<ul class=\"wp-block-list\">\n<li>You paid expenses for the care of a qualifying individual to allow you (and your spouse, if filing a joint return) to work or look for work.</li>\n\n\n\n<li>You (or your spouse if filing a joint return) lived in the  <?php echo $row['country']; ?> for more than half of the year. Special rules apply to military personnel stationed outside of the US.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>You can find out if you\u2019re eligible for the Child and Dependent Care credit by visiting the IRS <a href=\"https://www.irs.gov/help/ita/am-i-eligible-to-claim-the-child-and-dependent-care-credit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Who qualifies you for the credit? </strong>A qualifying person is usually a dependent under the age of 13, or a spouse or dependent of any age who is incapable of self-care and who lives with you for more than half of the year.</li>\n\n\n\n<li><strong>How is the credit calculated? </strong>It is based on your income and a percentage of expenses that you pay for the care of qualifying dependents so you can work, look for work, or attend school.</li>\n\n\n\n<li><strong>What is a qualifying dependent? </strong>A dependent is someone other than the taxpayer or spouse who qualifies to be claimed by someone else on a tax return. A dependent is usually someone who relies on someone else for financial support, a place to live, food, clothing, and other essentials. This generally includes your children or other relatives, but it can also include people who aren\u2019t directly related to you, such as a domestic partner.</li>\n\n\n\n<li><strong>What is a qualifying child? </strong>A child is considered a qualifying dependent. To be eligible for the Child and Dependent Care credit, the child must meet all of the requirements listed above, plus the following criteria. A qualifying child must:\n<ul class=\"wp-block-list\">\n<li>Be your son, daughter, stepchild, eligible foster child, brother, sister, half brother, half sister, stepbrother, stepsister, adopted child, or a child of any of them.</li>\n\n\n\n<li>Be under the age of 19 or, if a full-time student, under the age of 24. If your child is permanently and totally disabled, there is no age limit.</li>\n\n\n\n<li>Live with you for more than half the year, with some exceptions.</li>\n\n\n\n<li>Receiving more than half of their financial support from you.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>If you have a dependent who fits this criteria, then you could benefit by having a smaller amount of federal income tax on your tax return this year.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Types of tax benefits</strong></h2>\n\n\n\n<p>The major benefit of the Child and Dependent Care credit is that it is a tax credit&#8211;not a tax deduction. What\u2019s the difference? A tax credit instantly cuts your testimonials by the exact amount of the credit.</p>\n\n\n\n<p>For example, if you receive a $2,000 tax credit, your tax bill is cut by $2,000. A tax deduction, on the other hand, reduces the amount of income you pay your testimonials on. If you received a $2,000 tax deduction (not a tax credit), your tax bill might go down around $400 or $500. While <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\">tax deductions</a> are very useful and can save you money on your testimonials, a tax credit is more beneficial because it saves you even more money.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Calculating the Child and Dependent Care credit</strong></h2>\n\n\n\n<p>How do you know how much you may receive from the Child and Dependent Care credit? Follow the steps below to calculate for an estimate.</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Determine your eligible expenses. </strong>Gather all the expenses you pay toward child or dependent care during the year and add them up.</li>\n\n\n\n<li><strong>Identify maximum eligible expenses. </strong>Families can claim up to $3,000 in child and dependent care expenses for one child/dependent and up to $6,000 for two children/dependents per year.</li>\n\n\n\n<li><strong>Find out the credit percentage. </strong>This number ranges from 20% to 35%, depending on your adjusted gross income (AGI). Eligible families with an AGI of $15,000 or less can claim 35 percent of these expenses for a maximum potential credit of $2,100. The percentage of expenses a family can claim decreases as income rises until families with an AGI of $43,000 or more hit the minimum claim rate of 20 percent; this would result in a maximum potential credit of $1,200.</li>\n\n\n\n<li><strong>Apply the percentage to eligible expenses. </strong>Once you find the credit percentage based on your AGI, multiply that percentage by what your total expenses for child or dependent care were for the year. That will determine the amount of tax credit you\u2019ll receive. An important thing to remember is that the amount of your tax credit can\u2019t exceed your tax liability.</li>\n</ol>\n\n\n\n<p>Let\u2019s look at an example. Say your adjusted gross income is $99,000 and you paid $4,000 for child/dependent care for one child in 2023. Because your AGI is above the high end of the scale (which is $43,000), your tax credit would be 20%, which is the minimum you can receive. That would give you a $600 tax credit.</p>\n\n\n\n<p>On the other hand, if your AGI is less than $15,000 and you paid $8,000 for child/dependent care for two children in 2023, your tax credit would be $2,100.</p>\n\n\n\n<p>Yes, this can be a confusing calculation. For your convenience, we\u2019ve included a <a href=\"https://bipartisanpolicy.org/blog/cdctc-in-2023/\" target=\"_blank\" rel=\"noreferrer noopener\">Child and Dependent Care credit calculator</a> so you can figure out what your credit may be.</p>\n\n\n\n<figure class=\"wp-block-image aligncenter size-large is-resized\"><a href=\"https://bipartisanpolicy.org/blog/cdctc-in-2023/\" target=\"_blank\" rel=\"noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"820\" height=\"650\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-820x650.png\" alt=\"\" class=\"wp-image-5033\" style=\"width:637px;height:auto\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-820x650.png 820w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-505x400.png 505w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-252x200.png 252w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-768x608.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-1536x1217.png 1536w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-980x776.png 980w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-1170x927.png 1170w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-1280x1014.png 1280w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-600x475.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-757x600.png 757w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-400x317.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM-150x119.png 150w, <?php echo $row['url']; ?>/wp-content/uploads/2024/01/Screenshot-2024-01-30-at-2.59.28-PM.png 1868w\" sizes=\"auto, (max-width: 820px) 100vw, 820px\" /></a></figure>\n\n\n\n<p>It\u2019s also important to note if you received dependent care benefits that you exclude or deduct from your income, you must subtract that amount from the tax credit dollar limit that applies to you.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Dependent care FSA</strong></h2>\n\n\n\n<p>Another option you can use to save on child and dependent care expenses is a dependent care flexible savings account (DCFSA). A DCFSA can be used to pay for childcare or adult dependent care expenses that are necessary to allow you and your spouse, if married, to work, look for work, or attend school full-time. (Note: if you did not find a job and have no earned income for the year, your dependent care costs are not eligible.)</p>\n\n\n\n<p>Dependent care FSAs are generally set up through your employer. To participate, you would:</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li>Allow your employers to withhold a certain amount from your paycheck every pay period and deposit the money into the FSA account.</li>\n\n\n\n<li>Rather than using the FSA money to pay for expenses directly, you would pay for these costs out of pocket and then apply for reimbursement.</li>\n\n\n\n<li>Once you\u2019ve paid for expenses that qualify for reimbursement from the FSA, you would complete a claim form from your employer and attach receipts with the form. The receipts must include specific information to prove that the payment was for a qualified expense.</li>\n</ol>\n\n\n\n<p>The money in your DCFSA can only be used on expenses for:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>A dependent who is younger than 13</li>\n\n\n\n<li>A spouse who is unable to work and care for themselves</li>\n\n\n\n<li>Another adult dependent who is unable to care for themselves and for whom you claim as a dependent exemption</li>\n</ul>\n\n\n\n<p>The main benefit of a DCFSA is that the money deposited into the account is in pretax dollars, which reduces the amount of your income that is subject to testimonials.</p>\n\n\n\n<p>There is a limit to the contributions you can make to a DCFSA. The IRS\u2019 2023 limit is $2,500 for married couples filing separately and $5,000 for single taxpayers and couples filing jointly.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Record-keeping and documentation</strong></h2>\n\n\n\n<p>As with anything related to testimonials, it is very important to maintain accurate and updated records and documentation if you\u2019re claiming the Child and Dependent Care tax credit. The IRS looks carefully at these claims, so it\u2019s critical to have the information you need to support your claim. These are many of the common child care and dependent care expenses that you should keep receipts, documents, and emails for:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Physical care</li>\n\n\n\n<li>In-home care, including a nanny, au pair, babysitter (who is caring for a child/children for a parent who is at work)</li>\n\n\n\n<li>Child or adult daycare services</li>\n\n\n\n<li>Before- and after-school care</li>\n\n\n\n<li>Summer day camps</li>\n\n\n\n<li>Transportation provided by a caregiver</li>\n</ul>\n\n\n\n<p>Keep your documents organized in a folder (a physical folder or a digital document folder) not only to be able to support your claim, but also to make filing your testimonials easier this year and moving forward.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong> considerations</strong></h2>\n\n\n\n<p>When you\u2019re ready to <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/when-can-i-file-my-testimonials/\">file your testimonials</a> this year, here\u2019s a step-by-step guide to preparing for and claiming the Child and Dependent Care tax credit.</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Determine your eligibility.</strong> We covered dependent eligibility above, so check those guidelines to make sure.</li>\n\n\n\n<li><strong>Gather documents.</strong> As we mentioned, be prepared with receipts, records, and invoices for your eligible child or dependent care expenses.</li>\n\n\n\n<li><strong>Complete Form 2441</strong>: This <a href=\"https://www.irs.gov/forms-pubs/about-form-2441\">form</a>, for Child and Dependent Care Expenses, must be filled out with all required information to claim the Child and Dependent Care tax credit. This will calculate your allowable credit or deduction based on your eligible expenses.</li>\n\n\n\n<li><strong>Transfer this information to your tax return</strong>. Once Form 2441 is complete, transfer the information to your federal tax return. To do this, you may simply need to enter the credit amount on the right line or deduct the eligible expenses from your taxable income.</li>\n\n\n\n<li><strong>Keep copies.</strong> Make sure you print or save all of your forms, schedules, and supporting documentation for your records.</li>\n</ol>\n\n\n\n<p>Keep in mind that this process may be slightly different depending on each individual situation and any tax law changes. We recommend consulting a tax professional and/or using IRS resources for help and to ensure you\u2019re compliant with current tax regulations and rules.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>testimonials are simple with <?php echo $row['name']; ?></strong></h2>\n\n\n\n<p>Child and dependent care costs are expensive, so it\u2019s important to take advantage of the Child and Dependent Care tax credit. By following the advice and steps laid out in this article, you know what you need and what to do to file a claim for this tax credit, which can greatly reduce your tax bill this year. As always, <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a> is here to help you with your testimonials year-round! We offer a variety of <a href=\"<?php echo $row['url']; ?>testimonials/\">tax-filing options</a>, including online, in-person, or local drop-off. Our tax experts have more than 20 years of experience and know how to get you the largest refund possible. Drop by one of our <a href=\"<?php echo $row['url']; ?>find-a-branch/\">local branches</a> to speak with a tax expert today!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>It\u2019s winter, which means it\u2019s also Tax Season! And when it\u2019s Tax Season, it\u2019s time to start gathering information. After all, you want to be sure you\u2019re claiming the right credits and getting as much money back on your tax refund as possible&#8211;and sometimes that involves some digging. If you\u2019re a working parent and pay&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5028,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-5032",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"It\u2019s winter, which means it\u2019s also Tax Season! And when it\u2019s Tax Season, it\u2019s time to start gathering information. After all, you want to be sure you\u2019re claiming the right credits and getting as much money back on your tax refund as possible&#8211;and sometimes that involves some digging. If you\u2019re a working parent and pay...\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-01-30T21:01:09+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"720\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"9 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\",\"name\":\"Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg\",\"datePublished\":\"2024-01-31T15:00:00+00:00\",\"dateModified\":\"2024-01-30T21:01:09+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg\",\"width\":1280,\"height\":720},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Understanding the Child and Dependent Care tax credit\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?>",
+    "og_description": "It\u2019s winter, which means it\u2019s also Tax Season! And when it\u2019s Tax Season, it\u2019s time to start gathering information. After all, you want to be sure you\u2019re claiming the right credits and getting as much money back on your tax refund as possible&#8211;and sometimes that involves some digging. If you\u2019re a working parent and pay...",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-01-30T21:01:09+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 720,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "9 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/",
+          "name": "Understanding the Child and Dependent Care Tax Credit | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg",
+          "datePublished": "2024-01-31T15:00:00+00:00",
+          "dateModified": "2024-01-30T21:01:09+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/01/0124_DCTaxCredit.jpeg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding the Child and Dependent Care tax credit"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5032",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5032/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5028"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5032" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5032"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5032"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": 5450,
+  "date": "2024-10-10T15:15:38",
+  "date_gmt": "2024-10-10T21:15:38",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-10-23T13:54:12",
+  "modified_gmt": "2024-10-23T19:54:12",
+  "slug": "understanding-the-phenomenon-of-credit-deserts",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/",
+  "title": {
+    "rendered": "Understanding the Phenomenon of &#8220;Credit Deserts&#8221;"
+  },
+  "content": {
+    "rendered": "\n<p>In recent years, the term &#8220;credit desert&#8221; has become increasingly relevant in discussions about consumer finance. This concept, analogous to &#8220;food deserts&#8221; in the context of nutrition, refers to areas where residents lack access to quality, safe, and affordable credit options. This lack of accessibility places them at risk of falling prey to structurally unsafe financial products.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-origin-of-the-term\">The Origin of the Term</h2>\n\n\n\n<p>The term was notably used by Richard Cordray, the former Director of the Consumer Financial Protection Bureau (CFPB), during an AFSA Conference. Cordray emphasized the importance of ensuring that policies and regulations do not inadvertently create credit deserts across the country. This concern is particularly pressing given that studies reveal a startling reality: 78% of full-time workers live paycheck to paycheck.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-harsh-reality-of-credit-accessibility\">The Harsh Reality of Credit Accessibility</h2>\n\n\n\n<p>Research conducted by the state and even down to the zip code level shows a significant portion of the population is &#8220;liquid poor&#8221; (having less than $500 in cash and savings) or &#8220;asset poor&#8221; (possessing less than $500 in the value of easily liquidated assets). Unfortunately, for many of these individuals, safe and affordable installment loans are not available in half the states in the USA. This lack of availability creates large geographical and demographical credit deserts.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-anomaly-of-state-laws-and-credit-access\">The Anomaly of State Laws and Credit Access</h2>\n\n\n\n<p>A state regulator recently used the term credit desert to describe a peculiar situation arising from state laws. These laws can create scenarios where quality credit products are available for small loan amounts (up to $500 or $1,000) and for larger amounts (over $5,000) but not for the range in between. This leads to a problematic situation where borrowers are compelled to either borrow more money than they need \u2014 increasing their financial burden and the duration of their indebtedness \u2014 or to take out multiple loans to meet their needs.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-impact-of-credit-deserts\">The Impact of Credit Deserts</h2>\n\n\n\n<p>The existence of credit deserts has profound implications. People living in these areas are often left with limited options, such as high-cost payday loans or title loans, which can lead to a cycle of debt. The absence of traditional installment loans in these areas deprives residents of a crucial tool for managing financial emergencies and building credit.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-path-forward\">The Path Forward</h2>\n\n\n\n<p>Addressing the issue of credit deserts is vital for promoting financial inclusion and stability. It requires a nuanced understanding of the lending landscape and the implementation of policies that do not inadvertently restrict access to safe and affordable credit. Efforts to expand the availability of installment loans in underserved areas, coupled with financial education, could be instrumental in eradicating credit deserts. This would not only help individuals in immediate need but also contribute to the overall economic health of these communities.</p>\n\n\n\n<p>By acknowledging and addressing the challenges of credit deserts, we can move towards a more inclusive financial system that serves the needs of all, particularly those most vulnerable to financial instability.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>In recent years, the term &#8220;credit desert&#8221; has become increasingly relevant in discussions about consumer finance. This concept, analogous to &#8220;food deserts&#8221; in the context of nutrition, refers to areas where residents lack access to quality, safe, and affordable credit options. This lack of accessibility places them at risk of falling prey to structurally unsafe&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5721,
+  "template": "",
+  "resources_category": [40],
+  "resources_tag": [],
+  "class_list": [
+    "post-5450",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-industry-news"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Understanding the Phenomenon of &quot;Credit Deserts&quot; | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"&quot;Credit Deserts&quot; are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Understanding the Phenomenon of &quot;Credit Deserts&quot; | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"&quot;Credit Deserts&quot; are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-10-23T19:54:12+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651-1178x650.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1178\" />\n\t<meta property=\"og:image:height\" content=\"650\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/\",\"url\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/\",\"name\":\"Understanding the Phenomenon of \\\"Credit Deserts\\\" | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg\",\"datePublished\":\"2024-10-10T21:15:38+00:00\",\"dateModified\":\"2024-10-23T19:54:12+00:00\",\"description\":\"\\\"Credit Deserts\\\" are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg\",\"width\":2330,\"height\":1286,\"caption\":\"Business people, computer and analytics monitoring corporate statistics of graph or chart on screen at office. Employee women in teamwork collaboration looking at company data or analysis on PC\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Industry News\",\"item\":\"<?php echo $row['url']; ?>resources/industry-news/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Understanding the Phenomenon of &#8220;Credit Deserts&#8221;\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Understanding the Phenomenon of \"Credit Deserts\" | <?php echo $row['name']; ?>",
+    "description": "\"Credit Deserts\" are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Understanding the Phenomenon of \"Credit Deserts\" | <?php echo $row['name']; ?>",
+    "og_description": "\"Credit Deserts\" are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.",
+    "og_url": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-10-23T19:54:12+00:00",
+    "og_image": [
+      {
+        "width": 1178,
+        "height": 650,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651-1178x650.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "3 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/",
+          "url": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/",
+          "name": "Understanding the Phenomenon of \"Credit Deserts\" | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg",
+          "datePublished": "2024-10-10T21:15:38+00:00",
+          "dateModified": "2024-10-23T19:54:12+00:00",
+          "description": "\"Credit Deserts\" are becoming more relevant in consumer finance. This refers to areas that lack access to quality, safe, and affordable credit options.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/iStock-1473508651.jpg",
+          "width": 2330,
+          "height": 1286,
+          "caption": "Business people, computer and analytics monitoring corporate statistics of graph or chart on screen at office. Employee women in teamwork collaboration looking at company data or analysis on PC"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/industry-news/understanding-the-phenomenon-of-credit-deserts/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Industry News",
+              "item": "<?php echo $row['url']; ?>resources/industry-news/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding the Phenomenon of &#8220;Credit Deserts&#8221;"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5450",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5450/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5721"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5450" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5450"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5450"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

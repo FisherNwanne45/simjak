@@ -1,0 +1,169 @@
+{
+  "id": 3073,
+  "date": "2022-12-01T10:29:40",
+  "date_gmt": "2022-12-01T16:29:40",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=3073" },
+  "modified": "2023-06-07T07:30:54",
+  "modified_gmt": "2023-06-07T13:30:54",
+  "slug": "resources",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>resources/",
+  "title": { "rendered": "Resources" },
+  "content": {
+    "rendered": "</div><section id=\"block_af7be175bf4b47e6eeec56da172609df\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Resources</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n\n<div style=\"height:51px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div class=\"wp-block-group is-layout-constrained wp-block-group-is-layout-constrained\">\n<p class=\"has-text-align-center\" style=\"font-size:22px\">We are here to help! Our tools and tips can help you get the knowledge you need to feel secure in your financial decisions. Explore articles and find answers to your loan and tax questions below.</p>\n</div>\n\n\n\n<div style=\"height:50px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>We are here to help! Our tools and tips can help you get the knowledge you need to feel secure in your financial decisions. Explore articles and find answers to your loan and tax questions below.</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "templates/page-resources-template.php",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-3073", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Resources | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice &amp; articles in order to answer all your loan, tax, and personal finance questions.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Resources | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice &amp; articles in order to answer all your loan, tax, and personal finance questions.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-06-07T13:30:54+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/\",\"url\":\"<?php echo $row['url']; ?>resources/\",\"name\":\"Resources | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-12-01T16:29:40+00:00\",\"dateModified\":\"2023-06-07T13:30:54+00:00\",\"description\":\"<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice & articles in order to answer all your loan, tax, and personal finance questions.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Resources\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Resources | <?php echo $row['name']; ?>",
+    "description": "<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice & articles in order to answer all your loan, tax, and personal finance questions.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Resources | <?php echo $row['name']; ?>",
+    "og_description": "<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice & articles in order to answer all your loan, tax, and personal finance questions.",
+    "og_url": "<?php echo $row['url']; ?>resources/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2023-06-07T13:30:54+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/",
+          "url": "<?php echo $row['url']; ?>resources/",
+          "name": "Resources | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-12-01T16:29:40+00:00",
+          "dateModified": "2023-06-07T13:30:54+00:00",
+          "description": "<?php echo $row['name']; ?>\u2019s resource center is here to provide expert advice & articles in order to answer all your loan, tax, and personal finance questions.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["<?php echo $row['url']; ?>resources/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Resources" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/3073",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=3073"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/3073/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=3073" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

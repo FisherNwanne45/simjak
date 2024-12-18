@@ -1,0 +1,223 @@
+{
+  "id": 5740,
+  "date": "2024-11-04T09:42:39",
+  "date_gmt": "2024-11-04T15:42:39",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-11-04T09:42:41",
+  "modified_gmt": "2024-11-04T15:42:41",
+  "slug": "filing-status-couples",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/",
+  "title": {
+    "rendered": "A simple guide to filing status options for married couples"
+  },
+  "content": {
+    "rendered": "\n<h3 class=\"wp-block-heading\">Key takeaways</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Filing status is a category that dictates the type of tax return form you must use when filing your testimonials. It is also used to determine your  requirements, standard deduction, and eligibility for certain credits and deductions.</li>\n\n\n\n<li>When married taxpayers file jointly, they combine their incomes and deductions on one tax return. Joint filers usually have higher income thresholds for certain testimonials and deductions&#8211;this means they can earn a higher income and still qualify for certain tax breaks.</li>\n\n\n\n<li>Filing jointly provides married couples with a variety of benefits, including lower tax rates, higher standard deduction, and more access to family-related tax credits that can significantly lower what they owe in testimonials.</li>\n\n\n\n<li>Some married couples file separately in certain situations&#8211;however, filing separately generally involves higher tax rates, lower standard deduction, and less access (if any) to certain tax credits and deductions.</li>\n\n\n\n<li>In some instances, a married person may file as head of household, which offers lower tax rates, higher standard deduction, and access to some of those family-related tax credits. However, there are certain criteria a married taxpayer has to meet to file as head of household.</li>\n</ul>\n\n\n\n<p><a href=\"#what\">What is filing status?</a><br><a href=\"#joint\">Filing jointly</a><br><a href=\"#separate\">Filing separately<br></a><a href=\"#head\">Head of household filing<br></a><a href=\"#key\">Key considerations when choosing a filing status<br></a><a href=\"#change\">How to change your filing status<br></a><a href=\"#help\">Getting help from a tax professional<br></a><a href=\"#faq\">Filing status FAQs</a></p>\n\n\n\n<h2 class=\"wp-block-heading\">What is filing status?</h2>\n\n\n\n<p id=\"what\">According to the <a href=\"https://www.irs.gov/help/ita/what-is-my-filing-status\" target=\"_blank\" rel=\"noreferrer noopener\">IRS</a>, your filing status is used to determine your  requirements, standard deduction, eligibility for certain credits, and your correct tax. Put simply, filing status is a category that dictates the type of tax return form you must use when <a href=\"<?php echo $row['url']; ?>testimonials/\">filing your testimonials</a>. When determining your filing status, you\u2019ll need to provide your marital status, your spouse\u2019s year of death (if this applies), and the percentage of costs that members of your household paid toward keeping up your home. There are five different filing statuses from which to choose:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Married filing jointly</li>\n\n\n\n<li>Married filing separately</li>\n\n\n\n<li>Head of household</li>\n\n\n\n<li>Single</li>\n\n\n\n<li>Qualifying surviving spouse</li>\n</ul>\n\n\n\n<p>Many people fall into more than one of these categories. When that is the case, taxpayers often choose the category that could provide them with the lowest tax bill or <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/earned-income-tax-credit/\">higher tax refund</a>&#8211;it\u2019s important to note, however, that your filing status must accurately reflect your household/relationship status.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Why filing status is important</h3>\n\n\n\n<p>Your  status matters because, as we mentioned, it can impact <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/what-do-i-need-to-file-my-testimonials/\">what you need to file with your testimonials</a>, what types of deductions you can make, and the types of tax credits you may be able to claim&#8211;among other things. Here is how filing status affects your testimonials, refunds, and payments:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>testimonials: </strong>Your filing status helps determine which tax bracket you belong to. Depending on which filing status you choose, your tax rate as well as your eligibility for some tax breaks can be affected. This also impacts your standard deduction, which can change your tax bill.</li>\n\n\n\n<li><strong>Refunds: </strong>Similarly, your tax refund can be impacted by filing status. Some statuses have a higher standard deduction and better tax brackets than other statuses, which we\u2019ll explore shortly.</li>\n\n\n\n<li><strong>Payments: </strong>Your filing status helps determine the appropriate tax bracket; this impacts your tax rate and how much you may wind up <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/why-do-i-owe-testimonials/\">paying in testimonials</a>.</li>\n</ul>\n\n\n\n<p>Let\u2019s look at each filing status to see how they impact your testimonials.</p>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"joint\">Filing jointly</h2>\n\n\n\n<p>To file a tax return as \u201cMarried Filing Jointly,\u201d you must be married at any point by December 31 of the tax year. This could include taxpayers who live apart from each other but are not legally separated, as well as taxpayers whose spouses passed away during the year and have not remarried. For the married filing jointly status, both spouses are equally responsible for the tax return as well as any testimonials and/or penalties they owe.</p>\n\n\n\n<p>Most tax experts agree that couples who file jointly reap the most benefits from this status because it offers a variety of tax credits that are meant to help families.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What does &#8220;Filing Jointly&#8221; mean?</h3>\n\n\n\n<p>When married taxpayers file jointly, they combine their incomes and deductions on one tax return. Joint filers usually have higher income thresholds for certain testimonials and deductions\u2014this means they can earn a higher income and still qualify for certain tax breaks.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Benefits of filing jointly</h3>\n\n\n\n<p>If you\u2019re married, there are many benefits to filing jointly come tax time.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Lower tax rates:</strong> When married couples combine their income, they enter a wider tax bracket. These wider tax brackets have a lower tax rate than individually taxed incomes, which often results in a lower tax rate&#8211;and tax bill.</li>\n\n\n\n<li><strong>Bigger deductions:</strong> The standard deduction for filing jointly is twice as large as the deduction for single status.</li>\n\n\n\n<li><strong>Access to more tax credits: </strong>When married couples file jointly, they can more easily be eligible for tax credits such as the <a href=\"https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc\" target=\"_blank\" rel=\"noreferrer noopener\">Earned Income Tax Credit</a> (EITC), <a href=\"https://www.irs.gov/credits-deductions/individuals/aotc\" target=\"_blank\" rel=\"noreferrer noopener\">American Opportunity Tax Credit</a>, <a href=\"https://www.irs.gov/credits-deductions/individuals/child-and-dependent-care-credit-information\" target=\"_blank\" rel=\"noreferrer noopener\">Child and Dependent Care Credit</a>, <a href=\"https://www.irs.gov/credits-deductions/individuals/llc\" target=\"_blank\" rel=\"noreferrer noopener\">Lifetime Learning Credit</a>, and credits for adoption expenses. Tax credits are dollar-for-dollar subtractions from your tax bill. For example, if you owe $4,000 in testimonials but have a $1,000 tax credit, your tax bill is reduced to $3,000.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">When filing jointly is a good option</h3>\n\n\n\n<p>Filing jointly offers married couples a variety of benefits. Here are a few scenarios where filing jointly is the better option:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Claiming family-related tax credits</strong>: As we just outlined, married couples filing jointly who have children can claim family-related tax credits such as the ones mentioned above. These tax credits are usually higher and sometimes only available for those filing jointly.</li>\n\n\n\n<li><strong>One spouse earns much more: </strong>For couples that have one partner bringing in a significantly higher income than the other, filing jointly can reduce the total tax rate. This is possible because the combined income is taxed at a lower rate than if the spouse earning more income would have filed separately.</li>\n\n\n\n<li><strong>Bigger deductions, less taxable income: </strong>For married couples who own a home and pay mortgage interest, or other itemized deductions, filing jointly allows them to claim larger deductions. That results in lower taxable income and a smaller tax bill.</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"separate\">Filing separately</h2>\n\n\n\n<p>The other option for married couples is to file separately. This status is for spouses who opt to file their own individual tax returns with their own incomes and deductions. To file a tax return as \u201cMarried Filing Separately,\u201d you must be married at any point by December 31 of the tax year. Additionally, both spouses are required to take deductions in the same way. For example, if one spouse chooses to itemize their deductions rather than taking the standard deduction, the other spouse must itemize their deductions as well.</p>\n\n\n\n<p>Filing separately, like filing jointly, offers certain benefits to some married couples depending on their individual incomes.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What does &#8220;Filing Separately&#8221; mean?</h3>\n\n\n\n<p>As its name implies, filing separately means that each spouse files his or her own individual tax return, which would include their own income and deduction information. The other option, as we discussed above, is for married couples to file jointly by combining their incomes and deductions.</p>\n\n\n\n<p>Unlike couples who file jointly, married couples who file separately are unlikely to qualify for some deductions and credits like the ones we previously mentioned.</p>\n\n\n\n<h3 class=\"wp-block-heading\">When filing separately makes sense</h3>\n\n\n\n<p>While filing jointly is generally the preferred option for married couples, there are certain situations where it may make more sense for each spouse to file separately. These include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>High medical expenses:</strong> If one spouse has accumulated significant medical expenses (that total more than 7.5% of their adjusted gross income), filing separately can help that spouse meet the 7.5% minimum necessary to deduct those medical expenses since that 7.5% would be divided by less income.</li>\n\n\n\n<li><strong>A spouse\u2019s debts:</strong> If one spouse owes money on testimonials or other <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/break-bad-money-habits/\">debts</a>, and the other spouse has concerns about those debts, filing separately can help protect the other spouse\u2019s tax refund and keep from being held responsible for their spouse\u2019s debt.</li>\n\n\n\n<li><strong>Student loan payments: </strong>Oftentimes, one spouse owes money on their <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\">student loans</a> and the other has little to no loan payments to make. In these cases, filing separately makes sense, especially if the spouse who is still paying off their student loan is on an income-driven repayment plan. Filing separately can lower the payment amount since the income the payment is based upon is lower than the combined income when filing jointly.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Drawbacks of filing separately</h3>\n\n\n\n<p>Despite the benefits of filing separately, there are some negatives associated with this filing status.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Higher tax rates: </strong>Tax brackets for married couples filing separately are smaller than those filing jointly. That means the tax rates are generally higher for those who are married and filing separately; in fact, you\u2019re paying more tax on the same amount of income.</li>\n\n\n\n<li><strong>Lower deductions: </strong>Married couples filing jointly enjoy the benefit of the standard deduction being much higher than the standard deduction for married couples filing separately. In this scenario, spouses filing separately can\u2019t deduct as much of their income, and that results in higher taxable income and potentially more testimonials owed.</li>\n\n\n\n<li><strong>Less access to tax credits and deductions: </strong>We referred to this earlier, but it\u2019s worth repeating&#8211;married couples filing separately are not eligible for some of the very advantageous tax credits and deductions that married couples filing jointly receive. End result? A higher tax bill.</li>\n</ul>\n\n\n\n<p>There are obvious pros and cons for both filing jointly and separately as a married couple, and each family\u2019s situation is different. If you\u2019re unsure of which status you should choose, consult with a tax professional.</p>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"head\">Head of household filing</h2>\n\n\n\n<p>Another filing status is as the head of a household&#8211;and this is a status that some married people opt for when it\u2019s time to file testimonials. As far as the IRS is concerned, <a href=\"https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-head-of-household\" target=\"_blank\" rel=\"noreferrer noopener\">head of household status</a> is usually reserved for unmarried taxpayers who have dependents (children, for example) and pay more than 50% of the costs to maintain their home. This often includes divorced or legally separated parents with custody as well as single parents.</p>\n\n\n\n<p>If you meet the requirements (see below) and qualify to file as head of household, your tax rate will usually be lower and you\u2019ll get a higher standard deduction than if you file as married filing separately.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Can married people file as head of household?</h3>\n\n\n\n<p>The answer is usually no. To file as head of household, the IRS typically requires a taxpayer to be single, divorced, or legally separated. However, there are a few exceptions to this rule. You can be married and still file as head of household as long as:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>You must be considered married filing separately or an abandoned spouse</li>\n\n\n\n<li>Your spouse did not live with you for the last six months of the tax year</li>\n\n\n\n<li>You are claiming your child as a dependent</li>\n\n\n\n<li>You provided the main home of the qualifying child and also paid for more than 50% of maintaining the home\u2019s costs</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Benefits of filing as head of household</h3>\n\n\n\n<p>As previously stated, the benefits of filing as head of household include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Lower tax rates: </strong>Head of household filers usually receive lower tax rates compared to those filing as single or married filing separately. Lower tax rates often mean a lower tax bill.</li>\n\n\n\n<li><strong>Potentially more tax credits: </strong>Those tax credits we mentioned that married filing separately taxpayers are not eligible for&#8211;Earned Income Tax Credit, Child Tax Credit&#8211;are available to people filing as head of household.</li>\n\n\n\n<li><strong>Higher standard deduction: </strong>When filing as head of household, you get a higher standard deduction than if you file as single or married filing separately&#8211;and that lets you deduct more of your income before it\u2019s taxed.</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"key\">Key considerations when choosing a filing status</h2>\n\n\n\n<p>When considering which filing status to use on your tax return, there are a few important things to remember&#8211;aside from making sure the status you choose is legally accurate.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Compare tax rates and deductions</h3>\n\n\n\n<p>The first thing to do is research and compare the tax rates and deductions you could receive in both scenarios&#8211;married filing jointly and filing separately. Use the chart below as a starting point to see which status could potentially save you more money.</p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><thead><tr><th><strong>Filing\u00a0Status</strong></th><th><strong>Combined Income</strong></th><th><strong>Standard Deduction</strong></th><th><strong>Taxable Income</strong></th><th><strong>Tax Rate</strong></th><th><strong>Estimated Tax Owed</strong></th></tr></thead><tbody><tr><td><strong>Married\u00a0Filing Jointly</strong></td><td>$100,000</td><td>$29,200<br>(2024)</td><td>$70,800</td><td>12%<br>(up to $94,300)</td><td>$8,496</td></tr><tr><td><strong>Married\u00a0Filing Separately</strong></td><td>$100,000</td><td>$14,600<br>(2024)</td><td>$85,400</td><td>22%<br>(up to $100,525)</td><td>$18,788</td></tr></tbody></table></figure>\n\n\n\n<p>As you can see in this example, filing jointly not only doubles the standard deduction but it also offers a tax rate that\u2019s 10% less than filing separately. This cuts the testimonials owed by more than $10,000.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Impact on tax credits</h3>\n\n\n\n<p>Filing jointly vs. filing separately also makes a major impact on the tax credits you may be eligible to receive. Continuing with the example above, but applying potential tax credits to the scenario, you\u2019ll notice that married couples filing jointly have more tax credits available to them&#8211;$4,000 vs. $2,000 for the <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\">Child Tax Credit</a>, and another $2,000 for the Earned Income Tax Credit.</p>\n\n\n\n<p>These credits make a huge difference on the final tax bill. The married couple filing jointly in this example can subtract $6,000 in tax credits from their $8,496 tax bill in the first chart, leaving them owing only $2,496 below. Meanwhile, the couple filing separately may only subtract $2,000 in tax credits, which certainly helps. However, you can see the difference in the final tax liability&#8211;filing separately in this scenario costs over $14,000 more.</p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><thead><tr><th><strong>Filing\u00a0Status</strong></th><th><strong>CombinedIncome</strong></th><th><strong>Child TaxCredit</strong></th><th><strong>Earned Income Tax Credit</strong></th><th><strong>Total Tax Credits</strong></th><th><strong>Final Tax Liability</strong></th></tr></thead><tbody><tr><td><strong>Married&nbsp;</strong><strong>Filing</strong><strong>Jointly</strong></td><td>$100,000</td><td>$4,000<br>(2 children)</td><td>$2,000</td><td>$6,000</td><td>$2,496</td></tr><tr><td><strong>Married&nbsp;</strong><strong>Filing</strong><strong>Separately</strong></td><td>$100,000</td><td>$2,000<br>(1 child)</td><td>$0</td><td>$2,000</td><td>$16,788</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"change\">How to change your filing status</h2>\n\n\n\n<p>While certain criteria must be met when it comes to filing status, it is possible to change your filing status, especially if you mistakenly used the wrong status when filing your testimonials. Here\u2019s what you can do to change your status after filing.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Correcting a mistake</h3>\n\n\n\n<p>To fix an error in filing status after your testimonials have been filed, simply follow the steps below to file an amended tax return:</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li><strong>Gather your documents:</strong> Make sure you have your original tax return, <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/how-to-get-w2-from-previous-employer/\">W-2s</a>, <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/1099-nec-form-explained/\">1099s</a>, and all other tax documents you need to file an amendment.</li>\n\n\n\n<li><strong>Fill out Form 1040-X:</strong> Download and complete Form 1040-X, the Amended U.S. Individual Income Tax Return. This form allows you to correct your original tax return and change your filing status.</li>\n\n\n\n<li><strong>Explain the changes:</strong> In Part III of Form 1040-X, you\u2019ll need to briefly explain why you are amending your tax return and detail which changes you are making, including your change in filing status.</li>\n\n\n\n<li><strong>Adjust your income and deductions</strong>: Because you\u2019re changing your filing status, you will need to update any necessary income, deductions, or credits on the form to accurately match your new filing status.</li>\n\n\n\n<li><strong>Figure out your new tax liability:</strong> With help from the sample charts above, calculate your new tax liability based on your new filing status. Be sure to note any changes in tax owed or refund due.</li>\n\n\n\n<li><strong>Attach required documents:</strong> Make sure you include any additional forms or schedules that are impacted by your filing status change, including a new Schedule A for itemized deductions (if applicable).</li>\n\n\n\n<li><strong>File your amended tax return:</strong> Mail the completed Form 1040-X and all attachments to the address specified in the instructions. If you owe more testimonials because of your filing status change, be sure to include payment with your amendment.</li>\n</ol>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"help\">Getting help from a tax professional</h2>\n\n\n\n<p>Figuring out your testimonials can be tricky. There are so many laws and rules, many of which are constantly being changed or updated, that it can be a challenge to stay on top of your tax situation. That\u2019s why it\u2019s so important to consult with a tax professional before filing your testimonials. Tax pros are experts&#8211;they know everything there is to know about tax laws, rules, requirements, and regulations. Why not take advantage of their expertise to ensure your testimonials are filed accurately and that you save as much money on your tax bill as possible?</p>\n\n\n\n<p>At <?php echo $row['name']; ?>, <a href=\"<?php echo $row['url']; ?>testimonials/\">our tax professionals</a> are ready to assist you! Not only do we offer three easy ways to prepare your testimonials during <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/when-can-i-file-my-testimonials/\">tax season</a>\u2026we also offer tax services all year long! With more than 20 years of tax prep experience, our experts are always there to lend a hand at your <a href=\"<?php echo $row['url']; ?>find-a-branch/\">local branch</a>.</p>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"faq\" style=\"padding-left:0\">Filing status FAQs</h2>\n\n\n\n<div class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-1 wp-block-group-is-layout-constrained\" style=\"padding-left:var(--wp--preset--spacing--30)\">\n<h3 class=\"wp-block-heading\">When should married couples file separately?</h3>\n\n\n\n<p>While it\u2019s recommended that most married couples file jointly, there are a few cases where filing separately may make more sense. This includes when one spouse has accumulated a high amount of medical expenses, if one spouse has significant debt, and if one spouse still owes money on student loans.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What is the penalty for being married and filing separately?</h3>\n\n\n\n<p>While each married couple should use their own situation as a guide to determine their filing status, generally speaking it is more beneficial for married couples to file jointly. Married couples filing jointly usually enjoy lower tax rates, higher standard deductions, and more access to family-related tax credits and deductions that can save a lot of money on their tax bills.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Is it better to file jointly or separately?</h3>\n\n\n\n<p>While each married couple should use their own situation as a guide to determine their filing status, generally speaking it is more beneficial for married couples to file jointly. Married couples filing jointly usually enjoy lower tax rates, higher standard deductions, and more access to family-related tax credits and deductions that can save a lot of money on their tax bills.</p>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Key takeaways What is filing status?Filing jointlyFiling separatelyHead of household filingKey considerations when choosing a filing statusHow to change your filing statusGetting help from a tax professionalFiling status FAQs What is filing status? According to the IRS, your filing status is used to determine your  requirements, standard deduction, eligibility for certain credits, and&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5741,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-5740",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-11-04T15:42:41+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"14 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/\",\"name\":\"Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg\",\"datePublished\":\"2024-11-04T15:42:39+00:00\",\"dateModified\":\"2024-11-04T15:42:41+00:00\",\"description\":\"Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"A simple guide to filing status options for married couples\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?>",
+    "description": "Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?>",
+    "og_description": "Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-11-04T15:42:41+00:00",
+    "og_image": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "14 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/",
+          "name": "Filing Status Options for Married Couples: Simple Tax Guide | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg",
+          "datePublished": "2024-11-04T15:42:39+00:00",
+          "dateModified": "2024-11-04T15:42:41+00:00",
+          "description": "Learn about the different filing status options for married couples, including filing jointly, separately, and head of household. Find out how your choice affects your testimonials, refunds, and deductions with this easy-to-understand guide.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/11/1024_FilingStatusOptionsMarried.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/filing-status-couples/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "A simple guide to filing status options for married couples"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5740",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5740/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5749,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5740/revisions/5749"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5741"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5740" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5740"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5740"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

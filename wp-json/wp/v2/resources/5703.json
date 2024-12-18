@@ -1,0 +1,215 @@
+{
+  "id": 5703,
+  "date": "2024-10-04T10:57:46",
+  "date_gmt": "2024-10-04T16:57:46",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-10-15T10:42:26",
+  "modified_gmt": "2024-10-15T16:42:26",
+  "slug": "tax-write-offs",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/",
+  "title": { "rendered": "What are tax write offs?" },
+  "content": {
+    "rendered": "\n<h3 class=\"wp-block-heading\">Key takeaways:</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>A tax write-off, also known as a deduction, is a legitimate expense that can be deducted from your taxable income on your tax return. This helps lower your taxable income, which can save you money when it\u2019s time to <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/what-do-i-need-to-file-my-testimonials/\">file your tax return</a> because it reduces the amount of money you have to pay testimonials on.</li>\n\n\n\n<li>Tax write-offs can include not only business expenses, but also medical and dental expenses, investment costs, charitable donations, retirement plan contributions, interest paid on mortgage and student loans, property testimonials, state and local testimonials, and more.</li>\n\n\n\n<li>Finding all of your eligible tax deductions takes some time and organization, but the savings are generally worth the effort. Consulting with a tax professional can also be a wise investment, as tax pros know exactly where to look for even more write-offs you may not have been aware of. With more than 20 years of experience, <a href=\"<?php echo $row['url']; ?>testimonials/\"><?php echo $row['name']; ?>\u2019s tax experts</a> stand by ready to help you at your <a href=\"<?php echo $row['url']; ?>find-a-branch/\">local branch</a>!</li>\n</ul>\n\n\n\n<div class=\"wp-block-group is-layout-constrained wp-block-group-is-layout-constrained\">\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#what\">What is a tax write-off?</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#how\">How do tax write-offs work?</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#types\">Types of tax write-offs</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#max\">Tax write-offs to maximize savings</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"http://claim\">How to claim tax write-offs</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#final\">Final tips for making the most of tax write-offs</a></p>\n\n\n\n<p style=\"margin-top:0;margin-bottom:0\"><a href=\"#faq\">Tax write-off FAQs</a></p>\n</div>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"what\">What is a tax write-off?</h2>\n\n\n\n<p>A tax write-off, which is also known as a deduction, is a legitimate expense that can be deducted from your taxable income on your tax return. This helps lower your taxable income, which can save you money when it\u2019s time to file your tax return because it reduces the amount of money you have to pay testimonials on.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"how\">How do tax write-offs work?</h2>\n\n\n\n<p>Contrary to what many people believe when they hear the term \u201ctax write-off,\u201d these deductions do not only apply to business expenses. A tax write-off is also a tax deduction or certain expenses that people are allowed to claim on their individual testimonials. The <a href=\"https://www.irs.gov/\">Internal Revenue Services (IRS)</a> uses your reported income, minus your tax write-offs (deductions), to determine which tax bracket you are in when you file your annual tax return. The tax bracket, which is an income range, dictates the rate at which your taxable income will be taxed. That may sound a bit confusing, but it\u2019s actually fairly simple. Let\u2019s look at an example:</p>\n\n\n\n<h3 class=\"wp-block-heading\">Standard deduction example</h3>\n\n\n\n<p>We\u2019ll use an example of a single tax filer who earns an annual income of $60,000. In 2024, based on the IRS, the standard tax deduction for single filers is $13,850. That means, when you file your 2024 income tax return, you can subtract (or write off/deduct) $13,850 from your $60,000 income.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Annual Income: $60,000</li>\n\n\n\n<li>Standard Deduction: $13,850</li>\n\n\n\n<li>Taxable Income: $60,000 &#8211; $13,850 = $46,150</li>\n</ul>\n\n\n\n<p>By applying the standard deduction, this individual would only pay testimonials on $46,150 of their income instead of the full $60,000, which reduces the amount of testimonials owed. And that helps you keep some extra money in your pocket.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Self employed deduction example</h3>\n\n\n\n<p>If you have your own business (or you\u2019re a contractor, freelancer, consultant, etc.) and work from home on a full-time basis, you\u2019ll likely be able to claim a percentage of your mortgage or rent as a home office expense. For example, if your home office takes up 15% of your home\u2019s entire square footage, you can write-off (or deduct) 15% of your mortgage or rent payments as a business expense on your tax return. That lowers your taxable income and saves you money on testimonials. Keep in mind, however, that the IRS may request proof of your home office space, so be prepared to provide information and answer questions regarding your home office.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"types\">Types of tax write-offs</h2>\n\n\n\n<p>There are quite a few types of write-offs that can be deducted from your taxable income, all of which could potentially save you a significant amount of money come tax time.</p>\n\n\n\n<div class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-2 wp-block-group-is-layout-constrained\" style=\"padding-left:var(--wp--preset--spacing--30)\">\n<h3 class=\"wp-block-heading\">Standard deduction</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>This is a fixed dollar amount that you can subtract from your income, available to all taxpayers. In the example we provided earlier, if you file as a single individual with an income of $60,000, your tax bracket would call for a $13,850 standard deduction that you can subtract from your taxable income. That number varies based on whether you file your testimonials as single, married filing jointly, married filing together, etc.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Educational expenses</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Certain education-related expenses can be written off, especially if they relate to the skills required for your job or business.\n<ul class=\"wp-block-list\">\n<li><strong>Tuition and fees deduction</strong>: The cost of going to school can often be written off as an educational expense.</li>\n\n\n\n<li><strong>Student loan interest:</strong> If you owe money on a <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\">student loan</a>, you can likely deduct the interest you\u2019re paying on that loan.</li>\n\n\n\n<li><strong>Work-related education: </strong>If you\u2019re paying for classes, professional development, and other types of work-related training designed to maintain or improve your skills, the costs for that education can often be deducted.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Business expenses</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>If you own a business or are self-employed as a contractor or freelancer, you\u2019re able to write off a variety of business-related expenses.\n<ul class=\"wp-block-list\">\n<li><strong>Home office deduction:</strong> As we mentioned, a portion of your mortgage or rent can be written off as a business expense if that part of your home is used only for business.</li>\n\n\n\n<li><strong>Office supplies and equipment:</strong> When you purchase your own office equipment to use for your business or self-employment, you can deduct them from your testimonials. This category includes items like computers, printers, internet expenses, paper, monitors, and standard office supplies like pens, folders, and even office furniture.</li>\n\n\n\n<li><strong>Business travel:</strong> If you travel for your business, you can write off those expenses, including hotel stays, meals, and flights, train tickets, and rental cars.</li>\n\n\n\n<li><strong>Vehicle expenses:</strong> If you use your own vehicle for business purposes, you can write off standard mileage for fuel costs as well as actual vehicle expenses for maintenance and possibly repair.</li>\n\n\n\n<li><strong>Marketing and advertising:</strong> Money you spend on promoting your business through marketing and/or advertising channels can be deducted from your testimonials.</li>\n\n\n\n<li><strong>Utilities and rent:</strong> The rent you pay for your business\u2019s offices or storefront, as well as your utilities expenses, can be written off on your tax return.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Health-related write-offs</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>We hope this isn\u2019t the case, but if you\u2019ve accumulated a long list of medical expenses, you can deduct a certain portion of those costs.\n<ul class=\"wp-block-list\">\n<li><strong>Medical and dental expenses:</strong> If the money you\u2019ve spent out-of-pocket on medical expenses&#8211;meaning, the money you paid for medical services that your health or dental insurance did not cover&#8211;exceeds 7.5% of your adjusted gross income (AGI), you can deduct some of those costs.</li>\n\n\n\n<li><strong>Health Savings Account (HSA) contributions:</strong> If you contribute to a Health Savings Account, which can be used tax-free for qualified medical expenses, those contributions are tax-deductible.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Investment-related write-offs</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>If you own an investment portfolio, you\u2019re likely aware that there are costs involved with managing and maintaining that portfolio, depending on the types of investments you hold and other factors. Some of these expenses can be written off.\n<ul class=\"wp-block-list\">\n<li><strong>Investment interest: </strong>This is the interest that is paid on the money you borrow to buy taxable investments, such as a margin loan for buying stocks in a brokerage account.</li>\n\n\n\n<li><strong>Capital losses: </strong>When you sell an investment for less than what you purchased it for, that is a capital loss. For example, if you buy a stock for $150 and then sell it for $125, you have a $25 capital loss. Losses on the sale of investments can be used to offset capital gains, with up to $3,000 in excess losses deductible against other income.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Charitable contributions</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Donating money and goods is not only a thoughtful act and a way to get involved in your community, but it can also help you when it\u2019s time to file your testimonials because much of the expenses are tax-deductible.\n<ul class=\"wp-block-list\">\n<li><strong>Cash donations:</strong> Cash/monetary contributions to qualified charitable organizations can be written off of your income testimonials. Be sure to save receipts.</li>\n\n\n\n<li><strong>Non-cash donations:</strong> Many people choose to donate important Items such as clothing, household goods, or even vehicles to charities or foundations that benefit the less-fortunate. The estimated value of these donations can be deducted from your testimonials.</li>\n\n\n\n<li><strong>Volunteer expenses:</strong> If you volunteer your time with a charitable organization or foundation and spend your own money on expenses related to your volunteerism, those expenses can be written off as well.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Retirement contributions</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Saving for the future is important, and in many cases, the contributions you make toward retirement are tax-deductible.\n<ul class=\"wp-block-list\">\n<li><strong>Traditional IRA contributions:</strong> If you contribute to a traditional IRA, that amount may be tax-deductible, depending on both your income and whether you or your spouse is covered by a retirement plan at work such as a 401(k).</li>\n\n\n\n<li><strong>Self-employed retirement plans:</strong> The contributions you make to self-employed retirement plans like SEP-IRAs or SIMPLE IRAs can be deducted from your testimonials.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Mortgage and property expenses</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>If you own a home or real estate property, there are a few expenses you can write off to help lower your tax bill.\n<ul class=\"wp-block-list\">\n<li><strong>Mortgage interest:</strong> Any interest you pay on a mortgage for your primary or secondary residence is tax-deductible.</li>\n\n\n\n<li><strong>Property testimonials:</strong> The tax bill that no one ever wants to receive does have one thing going for it&#8211;the state and local property testimonials paid on any real estate you own can be deducted from your testimonials.</li>\n\n\n\n<li><strong>Points: </strong>When buying a home, some buyers pay points on their mortgage in exchange for a lower interest rate on the loan. Some of this expense can be written off over the life of your mortgage loan.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Casualty and theft losses</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>In some cases, losses due to theft or casualties, such as natural disasters, that are not covered by your homeowner\u2019s or renter\u2019s insurance, can be deductible.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Miscellaneous write-offs</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Along with all of the write-offs we just listed, there are some other expenses that are tax-deductible.\n<ul class=\"wp-block-list\">\n<li><strong>Job-related moving expenses:</strong> Some jobs require relocation. Sometimes employers pay those relocation expenses, sometimes they don\u2019t. If they do not cover those moving expenses, you may be able to deduct some of them since the relocation is related to your employment.</li>\n\n\n\n<li><strong>Alimony payments:</strong> Alimony payments made under divorce agreements that were finalized before 2019 are tax-deductible.</li>\n\n\n\n<li><strong>Gambling losses: </strong>Losses from gambling can add up quickly. Fortunately, those losses are deductible up to the amount of your reported gambling winnings.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">State and Local Tax (SALT) deduction</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li>You can deduct <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\">state</a> and local testimonials, including income tax, sales tax, and property tax paid, during the tax year.</li>\n</ul>\n</div>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"max\">Tax write-offs to maximize savings</h2>\n\n\n\n<p>While there are plenty of options when it comes to tax write-offs on your tax return, some deductions will make a bigger impact on your overall tax bill than others. The write-offs listed below are the ones that generally result in the most savings on your tax bill.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Mortgage interest deduction: </strong>This is a deduction for interest paid on your mortgage debt. If you\u2019re a homeowner, you will receive a summary of your mortgage interest payments on Form 1098, which you should receive in late January or early February. In general, you can deduct the mortgage interest you paid during the tax year on the first $750,000 of your mortgage debt for your primary home or a second home. Because mortgage interest payments can be significant during the year, this can help reduce your overall tax bill. NerdWallet offers a detailed explanation of the mortgage interest deduction <a href=\"https://www.nerdwallet.com/article/testimonials/mortgage-interest-rate-deduction\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</li>\n\n\n\n<li><strong>Medical and dental expenses: </strong>If you accumulated significant medical and dental expenses during the year, you may be able to write them off. However, the <a href=\"https://www.irs.gov/publications/p502#:~:text=You%20can%20deduct%20on%20Schedule,if%20you%20are%20self%2Demployed.\" target=\"_blank\" rel=\"noreferrer noopener\">IRS</a> states that, \u201cyou can deduct on Schedule A (Form 1040) only the part of your medical and dental expenses that is more than 7.5% of your adjusted gross income (AGI).\u201d In other words, if you had a few doctor\u2019s appointments or needed some routine dental work, you may not qualify. But it\u2019s always a good idea to track the amount of money you paid out of pocket for medical and dental expenses to see if that amount exceeds 7.5%. If it does, that could be a significant deduction from your tax bill.</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Charitable contributions: </strong>Making charitable contributions and/or donations to charities and tax-exempt organizations not only helps those causes\u2026it also helps your tax bill by lowering your taxable income through a tax deduction. To claim a deduction for charitable donations on your testimonials, you must have donated to a charity or organization recognized by the IRS and received nothing in return for your contribution. The amount of charitable donations you can deduct ranges from 20% to 60% of your AGI.</li>\n\n\n\n<li><strong>State and Local testimonials (SALT): </strong>According to the <a href=\"https://taxfoundation.org/taxedu/glossary/salt-deduction/\" target=\"_blank\" rel=\"noreferrer noopener\">Tax Foundation</a>, the state and local tax (SALT) deduction allows taxpayers who itemize when filing their federal testimonials to deduct certain testimonials paid to state and local governments. This is capped at $10,000 per year, consisting of property testimonials plus state income or sales testimonials, but not both.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Tips for finding the best deductions</h3>\n\n\n\n<p>Everyone wants to find the best deductions on their tax returns. After all, tax write-offs can significantly lower your tax bill and/or increase your tax refund. Here are a few tips on how to track down the best deductions in your return.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Keep detailed records:</strong> Whether you track your expenses through paper receipts and statements or you have everything organized online and in apps, it\u2019s important to save your invoices, receipts, and statements so you can easily refer to them when filling out your tax return.</li>\n\n\n\n<li><strong>Use tax software or consult with a tax professional: </strong>Tax software can help you identify tax deductions you may not have noticed. So can tax professionals, who are experts at making sure you\u2019re taking advantage of every write-off possible. Tax pros are especially helpful if your tax situation is a bit more tricky and complicated. Visit your local <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a> branch to speak with a helpful tax professional.</li>\n\n\n\n<li><strong>Review past tax returns: </strong>Referring to previous years\u2019 tax returns can easily show you the deductions you\u2019ve already taken, so you know to take those write-offs again.</li>\n\n\n\n<li><strong>Learn the difference between standard deduction and itemizing: </strong>According to <a href=\"https://www.hrblock.com/tax-center/filing/adjustments-and-deductions/standard-vs-itemized-deductions/#:~:text=The%20standard%20deduction%20lowers%20your,not%20allowed%20to%20claim%20both.\" target=\"_blank\" rel=\"noreferrer noopener\">H&amp;R Block</a>, the difference between the standard deduction and itemized deduction is basic math. The standard deduction lowers your income by one fixed amount, while itemized deductions are made up of a list of eligible expenses. You can claim whichever deduction reduces your tax bill the most, but you can\u2019t claim both.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"claim\">How to claim tax write-offs</h2>\n\n\n\n<p>Now that you know what can be deducted from your testimonials, there are a few steps to follow to actually claim a tax write-off.</p>\n\n\n\n<div class=\"wp-block-group is-layout-constrained wp-container-core-group-is-layout-3 wp-block-group-is-layout-constrained\" style=\"padding-left:var(--wp--preset--spacing--40)\">\n<h3 class=\"wp-block-heading\">1. Gather documentation</h3>\n\n\n\n<p>To accurately determine how much you\u2019re able to deduct based on what we\u2019ve previously mentioned, you\u2019ll need to gather all of your documentation, whether on paper or electronically. This includes receipts, statements, invoices, and anything else that tracks what you spent on certain expenses during the previous year.</p>\n\n\n\n<h3 class=\"wp-block-heading\">2. Decide between the standard deduction and itemizing</h3>\n\n\n\n<p>Once you have all your documentation together, you can plug your information into your tax return to see whether the standard deduction or an itemized deduction saves you more money. While taking the standard deduction is usually more convenient, it may be worth taking some extra time to itemize your deductions, because it could potentially save you more money on your tax bill.</p>\n\n\n\n<h3 class=\"wp-block-heading\">3. Fill out the appropriate tax forms</h3>\n\n\n\n<p>After you\u2019ve decided which type of deduction to take, you\u2019ll need to fill out the appropriate tax forms to ensure your deductions are written off from your tax bill. These are a few of the tax forms you may need to fill out for the most common deductions.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Schedule A (Form 1040): </strong>This form is used to itemize deductions like medical expenses, state and local testimonials, charitable contributions, and mortgage interest.</li>\n\n\n\n<li><strong>Form 8889: </strong>If you contribute to a Health Savings Account (HSA) through your employer, Form 8889 is the form to fill out to have those contributions deducted.</li>\n\n\n\n<li><strong>Form 8917 or Form 8863: </strong>These forms are used to report education-related deductions, such as tuition and fees deduction or education credits.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">4. Consult a tax professional for complex situations</h3>\n\n\n\n<p>Tax returns can get <em>very</em> complicated and overwhelming. This is especially true if your tax situation isn\u2019t straightforward. For example, if you earn self-employed income, have multiple sources of income, are dealing with tax law changes, were left an inheritance or gift, own real estate properties or land, have gambling income, or do any type of business internationally, it\u2019s recommended you consult a tax professional. Balancing all of these numbers, and then knowing how to handle them on a tax return, can result in incorrect information being entered into your tax return; you could also short yourself some significant savings on your tax bill. Tax pros know exactly how to handle tricky tax situations, can protect you from any potentially costly oversights on your return, and will work to get you the biggest tax refund possible.</p>\n\n\n\n<h3 class=\"wp-block-heading\">5. Retain copies for your records</h3>\n\n\n\n<p>It\u2019s always a good idea to save copies of your tax documents and records\u2026you never know when the IRS might have a couple of questions. Some people like to save paper records, others prefer to organize tax returns and documents electronically. Whatever your preference, it\u2019s best to keep them stored in a safe location since these documents list quite a bit of your personal identification information.</p>\n</div>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"final\">Final tips for making the most of tax write-offs</h2>\n\n\n\n<p>Tax deductions, or write-offs, can make a big impact on your tax bill each year. While we\u2019ve shown you what to look for and how to take advantage of tax deductions that are available to you, it\u2019s never a bad idea to get a tax professional involved. They are the experts, after all, and they may be able to find write-offs that you hadn\u2019t accounted for. Every person\u2019s tax situation and tax return are unique, and a tax professional can deliver personalized guidance and advice that could save you money on your next tax return. If you prefer to do it on your own, we encourage you to use the tips and resources we provided in this article so you know what to look for once you <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\">begin your tax return</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"faq\">Tax write off FAQs</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Are tax write-offs worth it?&nbsp;</h3>\n\n\n\n<p>In most cases, absolutely. Any money you can save is a positive, so it\u2019s definitely worth doing a little bit of research and organizing in order to receive those tax write-offs. Refer to this article to see what types of expenses can be written off in your tax return.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Do I get my money back with a tax write-off?</h3>\n\n\n\n<p>Not really, but you can save money with a tax write-off in a couple of ways. First, any deductible expenses can be subtracted from your overall taxable income, meaning you won\u2019t have to pay as much in testimonials as you would if you did not write off those eligible expenses. Second, lowering your taxable income could help you stay in a lower tax bracket, meaning your testimonials would not be as high as others in a higher tax bracket. So, while you won\u2019t receive a check for your deductions (though you would receive money back with an overall tax refund&#8211;meaning you paid more testimonials than you actually owed during the year), you do save money on your overall tax bill.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What qualifies as a tax write-off?</h3>\n\n\n\n<p>A tax write-off is any legitimate expense that can be deducted from your taxable income on your tax return. As you read in this article, that can mean necessary business expenses, medical and dental expenses, mortgage interest, property testimonials, <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-tax-deduction/\">student loan interest</a>, charitable contributions, contributions to certain retirement plans, investments, and more.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Key takeaways: What is a tax write-off? How do tax write-offs work? Types of tax write-offs Tax write-offs to maximize savings How to claim tax write-offs Final tips for making the most of tax write-offs Tax write-off FAQs What is a tax write-off? A tax write-off, which is also known as a deduction, is a&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5705,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-5703",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-10-15T16:42:26+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1440\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"15 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/\",\"name\":\"Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg\",\"datePublished\":\"2024-10-04T16:57:46+00:00\",\"dateModified\":\"2024-10-15T16:42:26+00:00\",\"description\":\"Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg\",\"width\":2560,\"height\":1440},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"What are tax write offs?\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?>",
+    "description": "Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?>",
+    "og_description": "Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-10-15T16:42:26+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1440,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "15 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/",
+          "name": "Easy Guide to Tax Write-Offs: Save Money on Your testimonials | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg",
+          "datePublished": "2024-10-04T16:57:46+00:00",
+          "dateModified": "2024-10-15T16:42:26+00:00",
+          "description": "Find out what tax write-offs are, how they work, and what you can write off on your testimonials. Learn about the best tax write-offs to help you save money.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/10/0924_WhatAreTaxWriteOffs-scaled.jpg",
+          "width": 2560,
+          "height": 1440
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/tax-write-offs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "What are tax write offs?"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5703",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5703/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5705"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5703" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5703"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5703"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

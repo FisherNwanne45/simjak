@@ -1,0 +1,180 @@
+{
+  "id": 2988,
+  "date": "2022-10-19T15:07:47",
+  "date_gmt": "2022-10-19T21:07:47",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=2988" },
+  "modified": "2024-09-16T09:29:55",
+  "modified_gmt": "2024-09-16T15:29:55",
+  "slug": "in-person-tax-filing",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/",
+  "title": { "rendered": "In-Person Tax Filing" },
+  "content": {
+    "rendered": "</div><section id=\"block_6e7b28a087c1858e6a55c64bfad3fd5b\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_red\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>In-Person Tax Filing</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_50942083326a65d0ebd1580e3a2b0a3e\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2>With over 200 local branches, we\u2019re ready to help you file right in your own neighborhood </h2>\n                        <p><?php echo $row['name']; ?> brings two decades of experience to filing state and federal testimonials. That means you can trust us to file securely, accurately and on time, all while supporting our customers with special filing discounts and Refund Advance promotions. Plus, we offer our tax services year round!</p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"twin-btn single-btn\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_blue\">Contact Us</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n\n<p class=\"has-text-align-center\" style=\"font-size:22px\"></p>\n\n\n\n<div class=\"wp-block-group is-layout-flow wp-block-group-is-layout-flow\">\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n</div>\n\n\n<section id=\"block_528deb7d31cee08e2c4d6b958487cd93\" class=\"block-text-icon alignwide block-text-icon has-font-color text-default\"><div class=\"about-area pt-5 mt-lg-5 \">\n\t<div class=\"container-fluid mw-xxl\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"area-title text-center\">\n\t\t\t\t<h2>How to file testimonials in-person with <?php echo $row['name']; ?></h2>\n\t\t\t\t<p>All you need is to gather your paperwork and come on in. Our  pros will handle the rest. </p>\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row justify-content-center\">\n\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-documents.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-documents\" id=\"1977\" loading=\"lazy\" /><h4>1. Gather tax documents </h4><p>Bring in W-2 form(s), a social security number, photo ID, and any 1099 forms </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-findbranch.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-findbranch\" id=\"1979\" loading=\"lazy\" /><h4>2. Find a local branch</h4><p>Use our <a href=\"<?php echo $row['url']; ?>find-a-branch/\">location finder</a> to locate a branch near you</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-reviewsign.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-reviewsign\" id=\"1980\" loading=\"lazy\" /><h4>3. Review and sign</h4><p>You always get the chance to approve before we file </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-efile.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-efile\" id=\"1978\" loading=\"lazy\" /><h4>4. We\u2019ll e-file for you</h4><p>Sign off and we\u2019ll file digitally to speed up the refund process </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\n\t\t</div>\n\n\t\t\t\t\t<div class=\"row text-center mt-3 pb-3 pb-lg-5\">\n\t\t\t\t<div class=\"col-lg-12\">\n\t\t\t\t\t<div class=\"more-about\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>\n</section>\n\n<section id=\"block_fdf3a4a04c089a89227c8409c0343ca2\" class=\"block-testimonial-slider alignnone block-testimonial-slider has-font-color text-default\">\n\t<div class=\"customers-review-area \">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row text-center\">\n\t\t\t\t<div class=\"col-lg-12 mb-5\">\n\t\t\t\t\t<div class=\"area-title\">\n\t\t\t\t\t\t<h2>Hear from  customers </h2>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"customer_review_wrapper\">\n\t\t\t<!-- <img decoding=\"async\" src=\"/wp-content/uploads/2022/04/overlay_bg.png\" class=\"overlay_img\" alt=\"\"> -->\n\t\t\t<div class=\"overlay_review\"></div>\n\t\t\t<div class=\"customers_slider\">\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Meagan Evans</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>If you\u2019re looking to file testimonials quickly and efficiently, I highly recommend <?php echo $row['name']; ?> Co. in Rolla!!! I was extremely pleased with Pam\u2019s customer service and professionalism. 5 \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f \u2b50\ufe0f for me!!!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Pete Carreon</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Ruben Gallegos did an awesome job preparing my testimonials. I would definitely recommend him to my friends.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Kelley Pedranti</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Cheyanne and tammy where just do amazing and explained everything to me about my testimonials they are both sweet and great workers</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>larry cantu</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Quick tax process with Lindsey</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Kaitlyn Pigg</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Julie was fabulous. Very knowledgeable and helpful. She does testimonials so quick!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\n</section>\n\n<section id=\"block_da66bcd7468b68d3d77a9ca25effc4bc\" class=\"block-cta-banneralignwide block-cta-banner has-font-color text-default\">\t<div class=\"promo-area line_yellow\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"promo-text\">\n                        <h2>Ready to file? </h2>\n                        <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_red2 \">Contact Us</a>                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 2982,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-2988", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>In-Person  | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"In-Person  | <?php echo $row['name']; ?>\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-16T15:29:55+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\",\"url\":\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\",\"name\":\"In-Person  | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-10-19T21:07:47+00:00\",\"dateModified\":\"2024-09-16T15:29:55+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Loan Payment Protection Services\",\"item\":\"<?php echo $row['url']; ?>testimonials/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"In-Person Tax Filing\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "In-Person  | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "In-Person  | <?php echo $row['name']; ?>",
+    "og_url": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-09-16T15:29:55+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/",
+          "url": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/",
+          "name": "In-Person  | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-10-19T21:07:47+00:00",
+          "dateModified": "2024-09-16T15:29:55+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>testimonials/in-person-tax-filing/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Loan Payment Protection Services",
+              "item": "<?php echo $row['url']; ?>testimonials/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "In-Person Tax Filing"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2988",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2988"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2988/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2982"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2988" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

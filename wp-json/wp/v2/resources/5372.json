@@ -1,0 +1,215 @@
+{
+  "id": 5372,
+  "date": "2024-07-29T21:20:00",
+  "date_gmt": "2024-07-30T03:20:00",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-09-23T13:25:19",
+  "modified_gmt": "2024-09-23T19:25:19",
+  "slug": "missed-loan-payment",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/",
+  "title": { "rendered": "What happens if I miss a loan payment?" },
+  "content": {
+    "rendered": "\n<h3 class=\"wp-block-heading\">Key takeaways</h3>\n\n\n\n<p>Nobody ever really <em>wants</em> to miss a <a href=\"<?php echo $row['url']; ?>loans/\">loan payment</a>. But it happens sometimes. What are the consequences of missing a loan payment? We\u2019ll let you know in this article!</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>While missed loan payments are not ideal, negative impact to a borrower\u2019s <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/what-is-a-good-credit-score/\">credit score</a> can be avoided if the late payment is made within 30 days of its due date.</li>\n\n\n\n<li>Once the late payment goes beyond 30 days, a borrower\u2019s credit may take a hit. Make the late payment as soon as you realize it\u2019s past due.</li>\n\n\n\n<li>There are ways to stay on top of your finances and loan payments to ensure you don\u2019t miss one and to <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/understanding-credit-scores/\">protect your credit score</a>.</li>\n</ul>\n\n\n\n<p><strong><a href=\"#missed\">What happens if I miss a loan payment?</a></strong></p>\n\n\n\n<p><strong><a href=\"#what-to-do\">What should I do if I miss a payment?</a></strong></p>\n\n\n\n<p><strong><a href=\"#credit-score\">How will missed payments affect my credit score?</a></strong></p>\n\n\n\n<p><strong><a href=\"#faqs\">FAQs</a></strong></p>\n\n\n\n<p>If you\u2019re like most people, you\u2019ve probably lost track of how many payments you need to make each month. There\u2019s your <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/how-much-should-i-spend-on-rent/\">rent</a> or mortgage, utility bills, cable/internet, <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/pros-cons-of-refinancing-your-car-loan/\">car loans</a>, <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/student-loan-forgiveness-and-tax-implications/\">student loans</a>, groceries&#8211;the list goes on and on. And sometimes, even though we all try our best, a payment slips through the cracks.</p>\n\n\n\n<p class=\"has-black-color has-text-color has-link-color wp-elements-4c851fcedc930c6f1dfe060e120bad1c\" id=\"missed\">It\u2019s not a catastrophe if you do miss a loan payment. However, there are consequences, since lenders are very serious about getting their money on time. Each loan is different and has a variety of terms and conditions that the borrower is responsible for following. The good news is that there are some best practices you can follow to avoid missing a loan payment as well as the negative effects a missed loan payment can have.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What happens if I miss a loan payment?</h2>\n\n\n\n<p>The answer to this question depends on a couple things\u2026the terms of your loan and how late your payment is. Like we mentioned, each loan offers different terms, and that includes potential grace periods for missing a payment and possible penalties that the lender will assess if you do miss a payment. Let\u2019s take a look at what may happen during different time frames of a missed loan payment.</p>\n\n\n\n<h4 class=\"wp-block-heading\">Less than 30 days past due</h4>\n\n\n\n<p>Thirty days past due means you have not made a payment on your loan in 30 days. This is important to remember because for payments made less than 30 days late, creditors do not report a late payment to the credit bureaus. That happens once the 30-day mark arrives. That said, your lender may still charge you a late fee because you missed your payment deadline. And that penalty could cost you between $10 and $50 or anywhere from 3% to 6% of your monthly payment. Late fees differ from lender to lender, but they are regulated by state and federal laws.</p>\n\n\n\n<h4 class=\"wp-block-heading\">30-60 days past due</h4>\n\n\n\n<p>When you make a late payment on a loan, but you\u2019re less than 30 days past due, you\u2019ll likely escape with just the late payment penalty. When you reach 30 to 60 days past due, your credit history will probably be impacted.</p>\n\n\n\n<p>Payment history is the number-one factor that determines your credit score. For FICO credit scores, payment history accounts for 35% of your credit score. Even one late payment can do plenty of damage to your credit. Between 30 and 60 days past due, your late payment will most likely be reported to the credit bureaus, which will affect your credit history. According to <a href=\"https://www.nerdwallet.com/article/finance/late-bill-payment-reported#:~:text=On%2Dtime%20payments%20are%20the,but%20can%20still%20do%20damage.\" target=\"_blank\" rel=\"noreferrer noopener\">NerdWallet</a>, a payment that&#8217;s more than 30 days past due can knock as many as 100 points off your credit score.</p>\n\n\n\n<h4 class=\"wp-block-heading\">60-90 days past due</h4>\n\n\n\n<p><em>Some</em> lenders don\u2019t report late payments until 60 days have passed. But that\u2019s less common than action being taken after 30 days. Either way, the later your payment is, the worse it is for your credit. Once your loan payment reaches between 60 to 90 days past due, your lender will continue to send statements and requests for payment. Keep in mind\u2026on top of the damage being done to your credit score as the credit bureaus continue to report the late payments, you\u2019re also starting to pile up quite a few late fees, which can be hundreds (if not thousands) of dollars.</p>\n\n\n\n<h4 class=\"wp-block-heading\">H90-120 days past due and later</h4>\n\n\n\n<p>At some point from 90 to 120 days past due, the lender will stop reporting your account as delinquent and start reporting it as being in <a href=\"https://www.investopedia.com/terms/d/default2.asp\" target=\"_blank\" rel=\"noreferrer noopener\">default</a>, which is the failure to make the required interest or principal repayments on a debt. Once this is added to your credit reports, your score takes a major hit. And that puts you at risk of not being able to take out loans or receive good interest rates in the near future.</p>\n\n\n\n<h4 class=\"wp-block-heading\">120 days past due and later</h4>\n\n\n\n<p>At this point, lenders simply give up on collecting a payment from the borrower. What happens to the loan at this point? Some lenders sell the debt to a collection agency, which will try to collect payment from the borrower&#8211;and possibly sue the borrower for the amount of debt they owe. The collection agency may also take other measures, including putting a lien on a borrower\u2019s assets. This means that the agency could legally take ownership of the borrower\u2019s property or money until the debt is paid.</p>\n\n\n\n<p id=\"what-to-do\">Lenders and Collection agencies often garnish a borrower\u2019s wages through the legal system; this process allows the agency to deduct money from the borrower\u2019s paychecks until the debt is cleared. If that wasn\u2019t enough, those late payments can show up twice on the borrower\u2019s credit reports&#8211;one with the original lender and the other with the collection agency if the debt has been sold. And that can stay on credit reports for seven years or until the debt is resolved.</p>\n\n\n\n<h2 class=\"wp-block-heading\">What should I do if I miss a payment?</h2>\n\n\n\n<p>Yes, some of the information we just provided can seem intimidating\u2026but if you missed a loan payment, don\u2019t worry! Paying it late is better than not paying it at all. And the sooner you pay, the better. Just contact your lender as soon as you realize your payment is late&#8211;doing so can actually help reduce or even prevent late fees from being charged. Plus, the lender can work with you to create a plan for your loan payments so you don\u2019t miss another one.</p>\n\n\n\n<p>If you have a personal installment loan with <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a>, we\u2019re here to help you if you missed a payment. Just click <a href=\"<?php echo $row['url']; ?>contact/\">here</a> to contact us!</p>\n\n\n\n<p>Here are a few more tips you can use to help fix a missed payment and avoid future late payments from occurring:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Contact your lender first to see if they can help reduce the late fees and create a plan for you moving forward.</li>\n\n\n\n<li>Review your budget to ensure you have the money you need each month to make your payments on time.</li>\n\n\n\n<li>Sign up for payment notifications. Just about every lender has an app or a website that allows you to sign up for email and text alerts letting you know your payment is due soon.</li>\n\n\n\n<li>Set up automatic payments. Similar to reminder notifications, lenders offer auto-pay options that either take the loan payment amount out of your checking or savings account each month or charge a debit card. This helps guarantee your payments are made on time and that you won\u2019t forget one.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">What if I can\u2019t make my payments?</h3>\n\n\n\n<p>If your budget no longer allows you to afford your loan payments, reach out to your lender immediately to discuss your financial situation. There may be a couple of options that can help, such as:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Negotiating new loan terms to help make the monthly payments more affordable.</li>\n\n\n\n<li>Changing the due dates for your payments; for example, if you know you get paid on the 15th of each month, you may be able to make your payment due a few days later so you know you have the funds in your bank account before your payment is due.</li>\n\n\n\n<li>Forbearance, which is a temporary suspension or reduction of your monthly payment, could be an option a lender suggests.</li>\n\n\n\n<li>Similarly, you may qualify for a loan deferment, which pauses your payments for a certain period of time without the loan accruing interest.</li>\n</ul>\n\n\n\n<p id=\"credit-score\">The most important takeaway is to contact your lender if you can\u2019t make your loan payments. They\u2019re the ones who can work with you to figure out a solution.</p>\n\n\n\n<h2 class=\"wp-block-heading\">How will missed payments affect my credit score?</h2>\n\n\n\n<p>As we covered earlier, if you make your late payment within 30 days of its due date, there will be no impact to your credit score&#8211;though you may be charged late fees. If you\u2019re more than 30 days late, your credit score will be negatively affected. And the longer you wait to pay, the more your credit score will be impacted.</p>\n\n\n\n<p><a href=\"https://www.cnbc.com/select/credit-score-drop/#:~:text=According%20to%20FICO%20data%2C%20a,as%20113%20to%20133%20points.\" target=\"_blank\" rel=\"noreferrer noopener\">According to FICO</a>, a 30-day missed payment can result in a fair credit score dropping between 17 and 37 points, and a very good or excellent credit score dropping between 63 and 83 points. That is a significant drop, but it gets worse the longer you wait. A 90-day missed payment drops the same fair score between 27 and 47 points, and the very good or excellent score between 113 and 133 points. That\u2019s why, if you know a payment is late, it\u2019s best to pay it as soon as possible to avoid further damage to your credit score.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Missed payments can be addressed with being proactive</h2>\n\n\n\n<p>While we all want to pay our bills on time, it\u2019s important to remember that we\u2019re all human. We forget, we make mistakes\u2026and that\u2019s okay. Missing a loan payment is not a failure. Rather, it\u2019s an opportunity to better organize your finances and your time moving forward.</p>\n\n\n\n<p id=\"faqs\">If you miss a payment, contact your lender and make the payment as soon as you\u2019re able. From there, take a positive approach to the missed payment by setting up reminders and automatic payments. This is the perfect opportunity to regain <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/break-bad-money-habits/\">control of your finances</a>. And by doing so, you\u2019ll be on top of the situation, you\u2019ll better <a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/budgeting-101/\">understand your budget</a>, and you might even be able to save yourself some money by cutting back in certain areas.</p>\n\n\n\n<h2 class=\"wp-block-heading\">FAQs</h2>\n\n\n\n<h3 class=\"wp-block-heading\">What happens if you miss a loan payment once?</h3>\n\n\n\n<p>If you miss one loan payment, and you make the payment within 30 days of its due date, you may only be charged late fees. If you begin to miss multiple payments or are making payments later than 30 days past due, it will be noted in your credit reports, and your credit score will be negatively impacted. Contact your lender to discuss options if you miss a loan payment.</p>\n\n\n\n<h3 class=\"wp-block-heading\">How late can you be on a loan payment?</h3>\n\n\n\n<p>You can make a late payment on your loan at any time within 120 days, but your credit score will take a hit. Within 30 days, and in some cases 60 days, lenders may just charge you late penalties. Beyond 60 days, you may be dealing with collections agencies. Small claims action may also result. The best advice is to contact your lender and make your late payment as soon as possible.</p>\n\n\n\n<h3 class=\"wp-block-heading\">How does a missed payment affect your credit score?</h3>\n\n\n\n<p>It depends on how late the payment is. Again, if you make the payment within 30 days past due, you may be charged a late fee, but your credit score won\u2019t be impacted. If the late payment is made beyond 30 days, the lender will likely report this to the credit bureaus, and it will be noted in your credit report. Anything past 60 days, your credit score will definitely take a hit.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Key takeaways Nobody ever really wants to miss a loan payment. But it happens sometimes. What are the consequences of missing a loan payment? We\u2019ll let you know in this article! What happens if I miss a loan payment? What should I do if I miss a payment? How will missed payments affect my credit&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5383,
+  "template": "",
+  "resources_category": [36],
+  "resources_tag": [],
+  "class_list": [
+    "post-5372",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-education-on-personal-loans"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-23T19:25:19+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"9 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/\",\"url\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/\",\"name\":\"Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg\",\"datePublished\":\"2024-07-30T03:20:00+00:00\",\"dateModified\":\"2024-09-23T19:25:19+00:00\",\"description\":\"Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Education on Personal Loans\",\"item\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"What happens if I miss a loan payment?\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?>",
+    "description": "Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?>",
+    "og_description": "Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.",
+    "og_url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-09-23T19:25:19+00:00",
+    "og_image": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "9 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/",
+          "url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/",
+          "name": "Missing a Loan Payment: What You Need to Know | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg",
+          "datePublished": "2024-07-30T03:20:00+00:00",
+          "dateModified": "2024-09-23T19:25:19+00:00",
+          "description": "Explore the potential consequences of missing a loan payment and gain insights into how it can affect your credit score, financial situation, and future borrowing options. Stay informed and empowered to navigate the aftermath of missed loan payments with confidence.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2024/07/0724_MissedLoanPayment.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/missed-loan-payment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Education on Personal Loans",
+              "item": "<?php echo $row['url']; ?>resources/education-on-personal-loans/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "What happens if I miss a loan payment?"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5372",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/5372/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5383"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=5372" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=5372"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=5372"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

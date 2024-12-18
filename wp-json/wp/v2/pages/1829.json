@@ -1,0 +1,168 @@
+{
+  "id": 1829,
+  "date": "2022-05-05T19:24:28",
+  "date_gmt": "2022-05-06T01:24:28",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=1829" },
+  "modified": "2023-12-22T10:45:24",
+  "modified_gmt": "2023-12-22T16:45:24",
+  "slug": "illinois-new-mexico-installment-loans",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/",
+  "title": { "rendered": "Illinois Landing Page" },
+  "content": {
+    "rendered": "</div><section id=\"block_6e4bc95adf362f0897f57e236cc6aaf4\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>A Better Way to Borrow \u2013 Personal loans up to $10,000*</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_cb3309ec975e4433f561d67da11ce627\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2><?php echo $row['name']; ?> is here to help when you need it most! We are now offering loans at a lower APR for our customers in Illinois and New Mexico.</h2>\n                        <p>We can help you borrow up to $10,000* with flexible terms that fit your budget. The amount of financing you qualify for will vary based on personal information like your credit history, income, expenses, and debts.</p>\n<p>Plus, now <strong>no impact</strong> to your credit when you apply!**</p>\n<h3>Ready to get started?</h3>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"twin-btn single-btn\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"<?php echo $row['apply']; ?>\" target=\"_blank\" class=\"common-btn btn_blue\">Apply now</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n<section id=\"block_d25aad1d87556e171ba552979d3405b6\" class=\"block-chart alignwide block-chart has-font-color text-default\">\t<div class=\"chart-area\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"table-chart\">\n\t\t\t\t<h3>Our Rates and Terms</h3>\n\t\t\t\t<table class=\"table\">\n\t\t\t\t\t<thead><th>Loan Amount Range</th><th>APR Range</th><th>Term Lengths</th></thead>\n\t\t\t\t\t<tbody>\n\t\t\t\t\t\t\t<tr>\n\t\t<td data-label=\"Loan Amount Range\">$800 \u2013 $10,000</td>\n\t\t<td data-label=\"APR Range\">35.99%</td>\n\t\t<td data-label=\"Term Lengths\">12, 18, 24, 36, 48, 60 months</td>\n\t</tr>\t\t\t\t\t</tbody>\n\t\t\t\t</table>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>\n\n<section id=\"block_b4beca06c0edf47c49bb20f2655d1f1e\" class=\"block-chart alignwide block-chart has-font-color text-default\">\t<div class=\"chart-area\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"table-chart\">\n\t\t\t\t<h3>Example Payment Schedule</h3>\n\t\t\t\t<table class=\"table\">\n\t\t\t\t\t<thead><th>Loan Amount</th><th>APR</th><th>Term</th><th>Monthly Payment</th><th>Total Loan Amount</th></thead>\n\t\t\t\t\t<tbody>\n\t\t\t\t\t\t\t<tr>\n\t\t<td data-label=\"Loan Amount\">$2,000</td>\n\t\t<td data-label=\"APR\">35.99%</td>\n\t\t<td data-label=\"Term\">18 months</td>\n\t\t<td data-label=\"Monthly Payment\">$145.41</td>\n\t\t<td data-label=\"Total Loan Amount\">$2,617.28</td>\n\t</tr>\t\t\t\t\t</tbody>\n\t\t\t\t</table>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>\n\n<section id=\"block_173a976969432f37a05883d9e5c1bf8b\" class=\"block-text alignwide block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2></h2>\n                        <p style=\"text-align: left; font-size: 16px;\">*Not all applicants will qualify for a loan. Larger loan amounts may require a first lien on a motor vehicle no more than ten years old, that meets our value requirements, title in your name with valid insurance. Loan approval and actual loan terms depend on your ability to meet our credit standards (including a responsible credit history, sufficient income after monthly expenses, and availability of collateral). Adequate collateral is required on loans of $1,750 -$10,000. Active duty military, their spouse or dependents covered by the Military Lending Act may not pledge a vehicle as collateral.</p>\n<p style=\"text-align: left; font-size: 16px;\">Loans cannot exceed a 36% annual percentage rate as calculated under the Illinois Predatory Loan Prevention Act (PLPA APR). Any loan with a PLPA APR over 36% is null and void, such that no person or entity shall have any right to collect, attempt to collect, receive, or retain any principal, fee, interest, or charges related to the loan. The annual percentage rate disclosed in any loan contract may be lower than the PLPA APR.</p>\n<p>&nbsp;</p>\n<p>**For the initial purposes of pre-qualifying you for a loan, we will use credit information from one or more Credit Reporting Agencies. This information is pulled using a &#8220;soft&#8221; credit inquiry, which does not impact your credit score. If you are approved and accept the loan, we will obtain a complete Consumer Credit Report from one or more Credit Reporting Agencies; this request for a credit report will result in a &#8220;hard&#8221; credit inquiry and may impact your credit score.</p>\n\n\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 4,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-1829", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-12-22T16:45:24+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/\",\"url\":\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/\",\"name\":\"Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-05-06T01:24:28+00:00\",\"dateModified\":\"2023-12-22T16:45:24+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Illinois Landing Page\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.",
+    "og_url": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2023-12-22T16:45:24+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/",
+          "url": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/",
+          "name": "Need a loan in Illinois or New Mexico? We have locations in both states to help you get the cash you need today! Find the IL or NM <?php echo $row['name']; ?> location nearest you here.",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-05-06T01:24:28+00:00",
+          "dateModified": "2023-12-22T16:45:24+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>illinois-new-mexico-installment-loans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Illinois Landing Page"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1829",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/4"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1829"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1829/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1829" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

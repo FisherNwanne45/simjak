@@ -1,0 +1,169 @@
+{
+  "id": 1508,
+  "date": "2022-04-27T06:30:02",
+  "date_gmt": "2022-04-27T06:30:02",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=1508" },
+  "modified": "2022-05-30T17:11:58",
+  "modified_gmt": "2022-05-30T23:11:58",
+  "slug": "contact",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>contact/",
+  "title": { "rendered": "Contact Us" },
+  "content": {
+    "rendered": "</div><section id=\"block_6268f2579c493\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Contact Us</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n\n<section class=\"wp-block-group alignwide cs_section mx_800 bgr_color is-content-justification-left is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex\" id=\"contact-content\">\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:100%\">\n<h2 class=\"title-area has-blue-color has-text-color wp-block-heading\" style=\"font-size:22px\">Credit Report Disputes, Comments or Complaints</h2>\n\n\n\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p style=\"font-size:20px\">If you wish to dispute any information that we have furnished to a credit reporting agency, <strong>please put the dispute in writing and mail it to us</strong> at:</p>\n\n\n\n<p style=\"font-size:20px\">Brundage Management Company, Inc. <br>Attn: Credit Dispute Department <br><?php echo $row['addr']; ?> <br></p>\n\n\n\n<p style=\"font-size:20px\">In your written dispute, include your name, address, telephone number, <?php echo $row['name']; ?> account number, and the location where you obtained your loan. Also include the specific information you are disputing, an explanation of the basis for the dispute, and attach all supporting documentation or other information necessary to substantiate the basis of your dispute.</p>\n\n\n\n<p style=\"font-size:20px\"><strong>For all other comments and complaints, please complete the form below.</strong></p>\n</div>\n</div>\n</section>\n\n\n</div><section id=\"block_6268fb0083d31\" class=\"block-form  alignfull block-form has-font-color text-default\">\t<div class=\"contact-area\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                                            <style type=\"text/css\">\n\t\t#gform_wrapper_1 .gform_footer { visibility: hidden; position: absolute; left: -100vw; }\n\t\t</style><script>\n    \tfunction submitGForm() {\n    \t\tdocument.addEventListener( \"DOMContentLoaded\", function( e ) {\n\t            if ( typeof jQuery !== \"undefined\" ) {\n\t                jQuery(document).on( \"click\", \"#gform_1 button\", function(e) {\n\n\t                    if( jQuery(this).data(\"isclicked\" ) === true ) {\n\t                        e.preventDefault();\n\t                        return false;\n\t                    }\n\t                    \n\t                    jQuery(this).css(\"opacity\", 0.2).data(\"isclicked\", true);\n\t                });\n\t            }\n\t        });\n    \t}\n    </script><script type=\"text/javascript\">var gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),document.addEventListener(\"gform/theme/scripts_loaded\",function(){gform.themeScriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>\"function\"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn(\"The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1.\"),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener(\"gform_main_scripts_loaded\",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener(\"gform/theme/scripts_loaded\",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener(\"DOMContentLoaded\",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook(\"action\",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook(\"filter\",o,r,e,t)},doAction:function(o){gform.doHook(\"action\",o,arguments)},applyFilters:function(o){return gform.doHook(\"filter\",o,arguments)},removeAction:function(o,r){gform.removeHook(\"action\",o,r)},removeFilter:function(o,r,e){gform.removeHook(\"filter\",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+\"_\"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){\"function\"!=typeof(t=o.callable)&&(t=window[t]),\"action\"==r?t.apply(null,e):e[0]=t.apply(null,e)})),\"filter\"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});</script>\n                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/wp-json/wp/v2/pages/1508#gf_1' data-formid='1' novalidate>\n                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id=\"field_1_1\" class=\"gfield gfield--type-select gfield--input-type-select gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_1\" ><label class='gfield_label gform-field-label' for='input_1_1'>Do you currently have a personal installment loan from <?php echo $row['name']; ?>?<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_select'><select name='input_1' id='input_1_1' class='medium gfield_select'    aria-required=\"true\" aria-invalid=\"false\" ><option value='' selected='selected' class='gf_placeholder'>Select an answer:</option><option value='Yes' >Yes</option><option value='No' >No</option></select></div></div><div id=\"field_1_14\" class=\"gfield gfield--type-text gfield--input-type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_14\" ><label class='gfield_label gform-field-label' for='input_1_14'>Select <?php echo $row['name']; ?> location<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_14' id='input_1_14' type='text' value='' class='medium'    placeholder='ex: <?php echo $row['name']; ?> Office Las Palmas' aria-required=\"true\" aria-invalid=\"false\"   /></div></div><fieldset id=\"field_1_4\" class=\"gfield gfield--type-name gfield--input-type-name gfield--width-half field_sublabel_hidden_label gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_4\" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >First Name</legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gform-grid-row' id='input_1_4'>\n                            \n                            <span id='input_1_4_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >\n                                                    <input type='text' name='input_4.3' id='input_1_4_3' value=''   aria-required='false'     />\n                                                    <label for='input_1_4_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>\n                                                </span>\n                            \n                            \n                            \n                        </div></fieldset><fieldset id=\"field_1_5\" class=\"gfield gfield--type-name gfield--input-type-name gfield--width-half field_sublabel_hidden_label gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_5\" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Last Name</legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gform-grid-row' id='input_1_5'>\n                            \n                            <span id='input_1_5_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >\n                                                    <input type='text' name='input_5.3' id='input_1_5_3' value=''   aria-required='false'     />\n                                                    <label for='input_1_5_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>\n                                                </span>\n                            \n                            \n                            \n                        </div></fieldset><div id=\"field_1_6\" class=\"gfield gfield--type-email gfield--input-type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_6\" ><label class='gfield_label gform-field-label' for='input_1_6'>Email Address<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_email'>\n                            <input name='input_6' id='input_1_6' type='email' value='' class='large'    aria-required=\"true\" aria-invalid=\"false\"  />\n                        </div></div><div id=\"field_1_7\" class=\"gfield gfield--type-phone gfield--input-type-phone gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_7\" ><label class='gfield_label gform-field-label' for='input_1_7'>Phone Number<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_phone'><input name='input_7' id='input_1_7' type='tel' value='' class='large'   aria-required=\"true\" aria-invalid=\"false\"   /></div></div><div id=\"field_1_9\" class=\"gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_9\" ><label class='gfield_label gform-field-label' for='input_1_9'>Zip Code<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_9' id='input_1_9' type='text' value='' class='large'     aria-required=\"true\" aria-invalid=\"false\"   /></div></div><div id=\"field_1_10\" class=\"gfield gfield--type-select gfield--input-type-select gfield--width-half widthfull gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_10\" ><label class='gfield_label gform-field-label' for='input_1_10'>State<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_select'><select name='input_10' id='input_1_10' class='large gfield_select'    aria-required=\"true\" aria-invalid=\"false\" ><option value='' selected='selected' class='gf_placeholder'>Select a State</option><option value='Alabama' >Alabama</option><option value='Illinois' >Illinois</option><option value='Missouri' >Missouri</option><option value='Nevada' >Nevada</option><option value='New Mexico' >New Mexico</option><option value='Oklahoma' >Oklahoma</option><option value='Texas' >Texas</option></select></div></div><div id=\"field_1_3\" class=\"gfield gfield--type-select gfield--input-type-select gfield--width-full widthfull gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_3\" ><label class='gfield_label gform-field-label' for='input_1_3'>What is the general topic of your inquiry?<span class=\"gfield_required\"><span class=\"gfield_required gfield_required_text\">(Required)</span></span></label><div class='ginput_container ginput_container_select'><select name='input_3' id='input_1_3' class='large gfield_select'    aria-required=\"true\" aria-invalid=\"false\" ><option value='General comment or question' >General comment or question</option><option value='Concern' >Concern</option><option value='Loan product questions' >Loan product questions</option><option value='Website feedback' >Website feedback</option><option value='Privacy and security' >Privacy and security</option><option value='Applying for a loan' >Applying for a loan</option><option value='Report suspicious email or fraud attempt' >Report suspicious email or fraud attempt</option></select></div></div><div id=\"field_1_11\" class=\"gfield gfield--type-textarea gfield--input-type-textarea gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_11\" ><label class='gfield_label gform-field-label' for='input_1_11'>Comments</label><div class='ginput_container ginput_container_textarea'><textarea name='input_11' id='input_1_11' class='textarea medium'      aria-invalid=\"false\"   rows='10' cols='50'></textarea></div></div><div id=\"field_1_15\" class=\"gfield gfield--type-captcha gfield--input-type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_15\" ><label class='gfield_label gform-field-label' for='input_1_15'>CAPTCHA</label><div id='input_1_15' class='ginput_container ginput_recaptcha' data-sitekey='6LeLODggAAAAAFYBglblh9GtevF3E2ANR1oFrq-o'  data-theme='light' data-tabindex='0'  data-badge=''></div></div><div id=\"field_1_12\" class=\"gfield gfield--type-html gfield--input-type-html gfield--width-full gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_12\" >This site is protected by reCAPTCHA and the Google <a href=\"https://policies.google.com/privacy\">Privacy Policy</a> and <a href=\"https://policies.google.com/terms\">Terms of Service</a> apply.</div><div id=\"field_1_13\" class=\"gfield gfield--type-html gfield--input-type-html gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_13\" ><div class=\"submit-btn\">\n<button onclick=\"submitGForm();\" style=\"height: 2.5rem;padding:0 1rem;font-size:1rem;\">\nSubmit\n</button>\n</div></div><div id=\"field_1_16\" class=\"gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible\"  data-js-reload=\"field_1_16\" ><label class='gfield_label gform-field-label' for='input_1_16'>Email</label><div class='ginput_container'><input name='input_16' id='input_1_16' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_16'>This field is for validation purposes and should be left unchanged.</div></div></div></div>\n        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' value='Submit'  /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme' />\n            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />\n            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='gravity-theme' />\n            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='' />\n            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />\n            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />\n            \n            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />\n            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImE1NzE0NTAxOTYxMWQwNTM5N2M5MzFhNjlmNmI5ZjQ4Il0=' />\n            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />\n            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />\n            <input type='hidden' name='gform_field_values' value='' />\n            \n        </div>\n                        </form>\n                        </div>\n\t\t                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>\n\t\t                \n                                    </div>\n            </div>\n        </div>\n    </div>\n        <script type=\"text/javascript\">\n    var formId = '1';\n    var assetUrl = '<?php echo $row['url']; ?>/wp-content/themes/sunloan-theme/assets/images/loading.svg';\ngform.initializeOnLoaded( function() {gformInitSpinner( formId, assetUrl );jQuery('#gform_ajax_frame_' + formId).on('load',function(){var contents = jQuery(this).contents().find('*').php();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_' + formId);var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_' + formId).length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_' + formId).php(form_content.php());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_' + formId).addClass('gform_validation_error');} else {jQuery('#gform_wrapper_' + formId).removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_' + formId).offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_' + formId).val();gformInitSpinner( formId, assetUrl );jQuery(document).trigger('gform_page_loaded', [formId, current_page]);window['gf_submitting_' + formId] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').php();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_' + formId).replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_' + formId).offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [formId]);window['gf_submitting_' + formId] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_' + formId).text());}, 50);}else{jQuery('#gform_'+formId).append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [formId, current_page]);} );} );\n    </script>\n    </section>\n\n\n<section class=\"wp-block-group cs_section is-content-justification-left is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex\">\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:100%\">\n<p class=\"has-text-align-center\" style=\"font-size:20px\"><strong>For any questions regarding your loan give us a call at <span style=\"color: #da3c0b;\"><?php echo $row['phone']; ?></span></strong></p>\n\n\n\n<div style=\"height:5px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"has-text-align-center\" style=\"font-size:20px\">Interested in learning more about personal installment loans? All the info you need is just a click away.<br>You can contact your local <?php echo $row['name']; ?> branch using our <strong><a href=\"<?php echo $row['url']; ?>find-a-branch/\">Branch Locator</a></strong>.</p>\n</div>\n</div>\n</section>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Credit Report Disputes, Comments or Complaints If you wish to dispute any information that we have furnished to a credit reporting agency, please put the dispute in writing and mail it to us at: Brundage Management Company, Inc. Attn: Credit Dispute Department <?php echo $row['addr']; ?>  In your written dispute, include your&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-1508", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Contact Us | <?php echo $row['name']; ?>\u00ae</title>\n<meta name=\"description\" content=\"If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>contact/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Contact Us | <?php echo $row['name']; ?>\u00ae\" />\n<meta property=\"og:description\" content=\"If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>contact/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2022-05-30T23:11:58+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>contact/\",\"url\":\"<?php echo $row['url']; ?>contact/\",\"name\":\"Contact Us | <?php echo $row['name']; ?>\u00ae\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-04-27T06:30:02+00:00\",\"dateModified\":\"2022-05-30T23:11:58+00:00\",\"description\":\"If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>contact/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>contact/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>contact/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact Us\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Contact Us | <?php echo $row['name']; ?>\u00ae",
+    "description": "If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>contact/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Contact Us | <?php echo $row['name']; ?>\u00ae",
+    "og_description": "If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.",
+    "og_url": "<?php echo $row['url']; ?>contact/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2022-05-30T23:11:58+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>contact/",
+          "url": "<?php echo $row['url']; ?>contact/",
+          "name": "Contact Us | <?php echo $row['name']; ?>\u00ae",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-04-27T06:30:02+00:00",
+          "dateModified": "2022-05-30T23:11:58+00:00",
+          "description": "If you have questions or want to request more information about your loan, call <?php echo $row['name']; ?> at <?php echo $row['phone']; ?>.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>contact/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["<?php echo $row['url']; ?>contact/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Contact Us" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1508",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1508"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1508/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1508" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

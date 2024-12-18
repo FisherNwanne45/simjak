@@ -1,0 +1,180 @@
+{
+  "id": 2990,
+  "date": "2022-10-19T15:08:06",
+  "date_gmt": "2022-10-19T21:08:06",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=2990" },
+  "modified": "2024-09-16T09:31:50",
+  "modified_gmt": "2024-09-16T15:31:50",
+  "slug": "tax-drop-off-services",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/",
+  "title": { "rendered": "Tax Drop-off Services" },
+  "content": {
+    "rendered": "</div><section id=\"block_d4b5edd6339840d02d669e0031eb16f7\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area bg_red\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Tax Drop-off Services</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_3719137de29f8ff595d7c46eed5e8730\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2> doesn\u2019t have to be an all-day errand! Drop off your paperwork and we\u2019ll handle the rest. </h2>\n                        <p>For those who prefer not to upload their tax paperwork through our app, we\u2019re happy to help file with our drop-off services. Plus, we offer our tax services year round!</p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"twin-btn single-btn\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_blue\">Contact Us</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n<section id=\"block_8bb8a6efcbbeac0a8fe32b03c3a767bc\" class=\"block-text-icon alignwide block-text-icon has-font-color text-default\"><div class=\"about-area pt-5 mt-lg-5 \">\n\t<div class=\"container-fluid mw-xxl\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"area-title text-center\">\n\t\t\t\t<h2>How to take part in tax drop-off services with <?php echo $row['name']; ?></h2>\n\t\t\t\t<p>Enjoy the convenience and speed</p>\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"row justify-content-center\">\n\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-documents.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-documents\" id=\"1977\" loading=\"lazy\" /><h4>1. Gather tax documents  </h4><p>Bring in W-2 form(s), a social security number, photo ID, and any 1099 forms</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-findbranch.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-findbranch\" id=\"1979\" loading=\"lazy\" /><h4>2. Find a local branch</h4><p>Use our <a href=\"<?php echo $row['url']; ?>find-a-branch/\">location finder</a> to locate a branch near you</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-reviewsign.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-reviewsign\" id=\"1980\" loading=\"lazy\" /><h4>3. Review and e-sign from home  </h4><p>No need to come in to finish filing </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"col-lg-4 col-md-4\">\n\t\t\t\t\t\t<div class=\"about-card\">\n\n\t\t\t\t\t\t\t<img decoding=\"async\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/05/SL-inpersontax-taxdrop-icon-efile.svg\" class=\"\" alt=\"SL-inpersontax-taxdrop-icon-efile\" id=\"1978\" loading=\"lazy\" /><h4>4. We\u2019ll file for you </h4><p>Just sign off to file, then retrieve your paperwork when time allows </p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\n\t\t</div>\n\n\t\t\t\t\t<div class=\"row text-center mt-3 pb-3 pb-lg-5\">\n\t\t\t\t<div class=\"col-lg-12\">\n\t\t\t\t\t<div class=\"more-about\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>\n</section>\n\n<section id=\"block_e0e67ed5dc815fde083714c4b3e76ba4\" class=\"block-testimonial-slider alignnone block-testimonial-slider has-font-color text-default\">\n\t<div class=\"customers-review-area \">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row text-center\">\n\t\t\t\t<div class=\"col-lg-12 mb-5\">\n\t\t\t\t\t<div class=\"area-title\">\n\t\t\t\t\t\t<h2>Hear from  customers</h2>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"customer_review_wrapper\">\n\t\t\t<!-- <img decoding=\"async\" src=\"/wp-content/uploads/2022/04/overlay_bg.png\" class=\"overlay_img\" alt=\"\"> -->\n\t\t\t<div class=\"overlay_review\"></div>\n\t\t\t<div class=\"customers_slider\">\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Rebecca Martinez Soriano</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Fast and friendly and give clear information. Super fast tax services!! Ask for Bertha Izquierda or Blanche Villarreal!!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Cynthia Beltran</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Been comming here for a couple of yrs now to do my testimonials..100% recommend.Letty Gonzales is the one who does my testimonials very helpful and friendly..The other staff as well is very helpful and friendly..\ud83e\udd70</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Logan Phillips</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Very up lifting and enthusiastic. The best place to have your testimonials done. This place is a very good example of hard work and dedication. I went in expecting a rough ride but that&#8217;s not at all the outcome. They went above and beyond the call of duty and got things done right and quick!!!! Highly recommend <?php echo $row['name']; ?>!!!!</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>Gracie Perez</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>The people at <?php echo $row['name']; ?> are very helpful. Especially Isabell. We have been doing our testimonials with them for 19 years and will continue to do so for many years to come. Thank you for everything that you do</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"testimonial_item\">\n\t\t\t\t\t\t\t<div class=\"review_card\">\n\t\t\t\t\t\t\t\t<div class=\"customer_pro\">\n\t\t\t\t\t\t\t\t\t<div class=\"r_name\">\n\t\t\t\t\t\t\t\t\t\t<h4>brandon Cepeda</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"customer_pic\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><img decoding=\"async\" width=\"61\" height=\"62\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/g.png\" class=\"\" alt=\"g\" id=\"52\" loading=\"lazy\" /></span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"rating_icon\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"stars\" data-value=\"5\"></span>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><p>Ms.Izquierdo had me in and out with my testimonials! Great Service I really recommend.</p>\n</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\n</section>\n\n<section id=\"block_7b8afa20bab12888d52d25db6df82ce3\" class=\"block-cta-banneralignwide block-cta-banner has-font-color text-default\">\t<div class=\"promo-area line_yellow\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"promo-text\">\n                        <h2>Ready to file?</h2>\n                        <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_self\" class=\"common-btn btn_red2 \">Contact Us</a>                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 2982,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-2990", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Tax Drop-off Services | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tax Drop-off Services | <?php echo $row['name']; ?>\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-16T15:31:50+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\",\"url\":\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\",\"name\":\"Tax Drop-off Services | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-10-19T21:08:06+00:00\",\"dateModified\":\"2024-09-16T15:31:50+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Loan Payment Protection Services\",\"item\":\"<?php echo $row['url']; ?>testimonials/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tax Drop-off Services\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Tax Drop-off Services | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Tax Drop-off Services | <?php echo $row['name']; ?>",
+    "og_url": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-09-16T15:31:50+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/",
+          "url": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/",
+          "name": "Tax Drop-off Services | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-10-19T21:08:06+00:00",
+          "dateModified": "2024-09-16T15:31:50+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>testimonials/tax-drop-off-services/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Loan Payment Protection Services",
+              "item": "<?php echo $row['url']; ?>testimonials/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tax Drop-off Services"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2990",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2990"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2990/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/2982"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2990" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

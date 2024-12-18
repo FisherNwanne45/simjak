@@ -1,0 +1,2 @@
+function niceSelectDisabledFix(){const elements=document.querySelectorAll('.nice-select.gfield_select.disabled');if(elements?.length){var observer=new IntersectionObserver(function(entries,observer){if(entries[0].intersectionRatio==0){entries.forEach(entry=>{$(entry.target).addClass('disabled')})}else{entries.forEach(entry=>{$(entry.target).removeClass('disabled')})}},{root:document.documentElement});elements.forEach((el,index)=>{observer.observe(el)})}else{setTimeout(niceSelectDisabledFix,300)}}
+niceSelectDisabledFix()

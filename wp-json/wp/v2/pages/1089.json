@@ -1,0 +1,165 @@
+{
+  "id": 1089,
+  "date": "2022-04-26T06:13:47",
+  "date_gmt": "2022-04-26T06:13:47",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=1089" },
+  "modified": "2024-05-31T14:26:57",
+  "modified_gmt": "2024-05-31T20:26:57",
+  "slug": "careers",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>careers/",
+  "title": { "rendered": "Careers" },
+  "content": {
+    "rendered": "</div><section id=\"block_aa5181c9de003a38c917a8107325b544\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area blue\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Careers</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n</div><section id=\"block_83330659c528070928829592fc9eaf0f\" class=\"block-text  alignfull block-title-bar has-font-color text-default\">\t<div class=\"achieve-area achieve-consolidation noline \">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"achieve-text\">\n                        <h2><sl class=\"keep-arc\">More than</sl> a job \u2013 a path to opportunity</h2>\n                        <p><?php echo $row['name']; ?> employees enjoy competitive benefits, truly collaborative workplaces, and the chance to give a leg up to friends and neighbors in their very own communities</p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"twin-btn single-btn\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"<?php echo $row['url']; ?>open-positions/\" target=\"_self\" class=\"common-btn btn_blue\">See all jobs</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n</div><section id=\"block_dad8982cce3724c5760b9a1de2981422\" class=\"block-multi-content  alignfull block-multi-content has-font-color text-default\">\t<!-- First Template -->\n\t<div class=\"branch-area \">\n        <div class=\"container\">\n\n            \n            <div class=\"row align-items-center\">\n                <div class=\"col-lg-6 col-md-6\">\n                    <div class=\"branch-thumb\">\n                        <img decoding=\"async\" width=\"1030\" height=\"831\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5.jpg\" class=\"\" alt=\"img-5\" id=\"1109\" loading=\"lazy\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5.jpg 1030w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-496x400.jpg 496w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-806x650.jpg 806w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-248x200.jpg 248w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-768x620.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-980x791.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-600x484.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-744x600.jpg 744w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-400x323.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-150x121.jpg 150w\" sizes=\"auto, (max-width: 1030px) 100vw, 1030px\" />                    </div>\n                </div>\n                <div class=\"col-lg-6 col-md-6\">\n                    <div class=\"branch-text\">\n                        <h2>We invest in our people</h2>\n                                                    <div class=\"d-block d-md-none\">\n                                <img loading=\"lazy\" decoding=\"async\" width=\"1030\" height=\"831\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5.jpg\" class=\"my-3 d-block w-100\" alt=\"Awards\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5.jpg 1030w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-496x400.jpg 496w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-806x650.jpg 806w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-248x200.jpg 248w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-768x620.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-980x791.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-600x484.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-744x600.jpg 744w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-400x323.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-5-150x121.jpg 150w\" sizes=\"auto, (max-width: 1030px) 100vw, 1030px\" />                            </div>\n                                                <p>With paid on-site training, continual development opportunities, industry-related tuition reimbursement, and generous performance-based bonuses, we ensure our team members have all the tools they need to succeed in their careers and make <?php echo $row['name']; ?> their long-term home.</p>\n                                                    <div class=\"d-flex added-awards justify-content-center justify-content-md-start\">\n                                                                    <img loading=\"lazy\" decoding=\"async\" width=\"690\" height=\"1128\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024.png\" class=\"aw-img aw-img-1 size-medium alignleft m-0\" alt=\"Awards\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024.png 690w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-245x400.png 245w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-398x650.png 398w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-122x200.png 122w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-600x981.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-367x600.png 367w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-400x654.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2024/05/TWP-USA_2024-150x245.png 150w\" sizes=\"auto, (max-width: 690px) 100vw, 690px\" />                                                                                                    <div class=\"my-auto text-white h4 ps-3\">An award-winning workplace</div>\n                                                            </div>\n                                                                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\t</section>\n  \n\n</div><section id=\"block_0cf2c438349472b251f1036620a88c8c\" class=\"block-grid alignfull block-grid has-font-color text-default\">\t<div class=\"benefits-area\">\n        <div class=\"container\">\n            <div class=\"row mb-5\">\n                <div class=\"col-lg-12 text-center\">\n                    <div class=\"area-title pb-3\">\n                        <h2>Here are just some of the benefits you\u2019ll enjoy </h2>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row gridthm\">\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single \">\n\t\t\t\t\t\t\t\t<h4>Low deductible medical coverage, including dental and vision</h4>\n\t\t\t\t\t\t\t\t<p>Take care of your own and your family\u2019s healthcare needs with insurance options that fit your budget </p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single \">\n\t\t\t\t\t\t\t\t<h4>Performance and experience-based bonuses</h4>\n\t\t\t\t\t\t\t\t<p>Get rewarded for all the hard work you put in with competitive cash bonuses that incentivize great service</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single \">\n\t\t\t\t\t\t\t\t<h4>Disability coverage and life insurance</h4>\n\t\t\t\t\t\t\t\t<p>We\u2019re in it for the long haul and want to make sure you feel covered and cared for if faced with the unexpected</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single no-border\">\n\t\t\t\t\t\t\t\t<h4>Competitive Vacation and Sick Leave</h4>\n\t\t\t\t\t\t\t\t<p>With generous paid time off allowances that increase with your time at the company, we ensure you have lots of chances to relax and recharge</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single no-border\">\n\t\t\t\t\t\t\t\t<h4>401k saving opportunities</h4>\n\t\t\t\t\t\t\t\t<p>Plan for your golden years with opportunities to contribute to your investment savings while lowering taxable income</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"grid_box\">\n\t\t\t\t\t\t\t<div class=\"benefit_single no-border\">\n\t\t\t\t\t\t\t\t<h4>Select tuition reimbursement</h4>\n\t\t\t\t\t\t\t\t<p>We\u2019ll cover expenses for continuing education related to your core job functions, ensuring you\u2019re equipped to get ahead</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t                \n            </div>\n        </div>\n    </div>\n</section>  \n\n</div><section id=\"block_8d613f3b9ea45c2bb47a53fb00c6b968\" class=\"block-multi-content  alignfull block-multi-content has-font-color text-default\">\n    <div class=\"specialist-area \">\n        <div class=\"container\">\n\n            \n            <div class=\"row text-center\">\n                <div class=\"col-lg-12 mb-5\">\n                    <div class=\"area-title\">\n                        <h2>Life as a Customer Service Loan Specialist</h2>\n                        <p>We\u2019re always in search of amazing Customer Service Loan Specialists \u2013 the in-branch professionals who help individuals in their communities reach their financial goals every day. Here\u2019s what you can expect from a day in the life of a specialist.</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row align-items-center\">\n                <div class=\"col-lg-6 col-md-6 order-last order-md-first\">\n                    <div class=\"specialist_text\">\n                        <h4>Key responsibilities:</h4>\n<ul>\n<li>Providing excellent customer service and thorough education to individuals interested in personal installment loans</li>\n<li>Efficiently handling financial transactions to ensure borrowers get their money when they need it</li>\n<li>Working with borrowers who are overdue to identify solutions for repayment</li>\n<li>Accurately handling a cash drawer and bank deposits</li>\n<li>Spreading the word about personal installment loans in your local community</li>\n</ul>\n                    </div>\n                </div>\n                <div class=\"col-lg-6 col-md-6 order-first order-md-last\">\n                    <div class=\"specialist_thumb\">\n                        <img decoding=\"async\" width=\"994\" height=\"1082\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6.jpg\" class=\"\" alt=\"img-6\" id=\"1336\" loading=\"lazy\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6.jpg 994w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-367x400.jpg 367w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-597x650.jpg 597w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-184x200.jpg 184w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-768x836.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-980x1067.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-600x653.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-551x600.jpg 551w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-400x435.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2022/04/img-6-150x163.jpg 150w\" sizes=\"auto, (max-width: 994px) 100vw, 994px\" />                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  \n\n</div><section id=\"block_f4a7ef46ecbb62e6b03944def0fc2fe1\" class=\"block-cta-banner alignfull block-cta-banner has-font-color text-default\">\t<div class=\"promo-area line_yellow\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"promo-text\">\n                        <h2>Explore open positions in your area</h2>\n                        <a href=\"<?php echo $row['url']; ?>open-positions/\" target=\"_self\" class=\"common-btn btn_red2 \">See all jobs</a>                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n  ",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-1089", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Career Opportunities &amp; Job Openings | <?php echo $row['name']; ?>\u00ae</title>\n<meta name=\"description\" content=\"A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>careers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Career Opportunities &amp; Job Openings | <?php echo $row['name']; ?>\u00ae\" />\n<meta property=\"og:description\" content=\"A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>careers/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-05-31T20:26:57+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>careers/\",\"url\":\"<?php echo $row['url']; ?>careers/\",\"name\":\"Career Opportunities & Job Openings | <?php echo $row['name']; ?>\u00ae\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-04-26T06:13:47+00:00\",\"dateModified\":\"2024-05-31T20:26:57+00:00\",\"description\":\"A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>careers/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>careers/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>careers/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Careers\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Career Opportunities & Job Openings | <?php echo $row['name']; ?>\u00ae",
+    "description": "A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>careers/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Career Opportunities & Job Openings | <?php echo $row['name']; ?>\u00ae",
+    "og_description": "A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!",
+    "og_url": "<?php echo $row['url']; ?>careers/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-05-31T20:26:57+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>careers/",
+          "url": "<?php echo $row['url']; ?>careers/",
+          "name": "Career Opportunities & Job Openings | <?php echo $row['name']; ?>\u00ae",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-04-26T06:13:47+00:00",
+          "dateModified": "2024-05-31T20:26:57+00:00",
+          "description": "A career at <?php echo $row['name']; ?> offers you competitive play, paid training, and great benefits. We take care of our people. Search for job openings near you!",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>careers/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["<?php echo $row['url']; ?>careers/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>careers/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Careers" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1089",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1089"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1089/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1089" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

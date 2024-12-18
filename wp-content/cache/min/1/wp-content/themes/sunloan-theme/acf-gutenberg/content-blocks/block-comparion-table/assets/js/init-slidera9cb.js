@@ -1,0 +1,1 @@
+var isSliderPricing=document.getElementsByClassName('pricing_slider');if(isSliderPricing.length>0){var slider=tns({container:'.pricing_slider',items:1,"mouseDrag":!0,"speed":400,"autoplay":!0,"controls":!1,"autoplayText":!1,"swipeAngle":!1,})}

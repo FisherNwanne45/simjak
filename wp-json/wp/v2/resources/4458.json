@@ -1,0 +1,213 @@
+{
+  "id": 4458,
+  "date": "2023-09-27T11:45:37",
+  "date_gmt": "2023-09-27T17:45:37",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-03-20T10:19:25",
+  "modified_gmt": "2024-03-20T16:19:25",
+  "slug": "personal-loan-and-payment-calculator",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/",
+  "title": { "rendered": "Personal loan and payment calculator" },
+  "content": {
+    "rendered": "\n<p>Looking to take out a personal loan? <a href=\"<?php echo $row['url']; ?>\"><?php echo $row['name']; ?></a> can help! Perhaps the most important piece of information when taking out a personal loan is knowing how much you will be paying each month. We\u2019ve made that easy for you with our personal loan payment calculator! Once you have an idea of the details of your personal loan&#8211;such as total loan amount, interest rate, and how long the loan term is&#8211;simply plug the numbers into our calculator below to find out a rough estimate of your monthly payment.</p>\n\n\n\n\t<div id=\"slrc-loan-repayment-calculator\" class=\"slrc-loan-repayment-calculator\">\n\t\t<div class=\"slrc-loan-repayment-banner\"></div>\n\t\t<div class=\"slrc-calculator-card\">\n\n\t\t\t<div class=\"slrc-calculator-header\">\n\t\t\t\t<span class=\"slrc-calculator-header-title\">Loan Repayment Calculator</span>\n\t\t\t</div>\n\n\t\t\t<div class=\"slrc-calculator-section\">\n\t\t\t\t<!-- Input Form -->\n\t\t\t\t<div class=\"slrc-calculator-section-1\">\n\t\t\t\t\t<div class=\"slrc-input-form\">\n\t\t\t\t\t\t<div class=\"slrc-input-field-container\">\n\t\t\t\t\t\t\t<div class=\"slrc-input-field-icon\">1</div>\n\t\t\t\t\t\t\t<label>Enter loan amount\t\t\t\t\t\t\t\t<div class=\"slrc-input-hint\">\n\t\t\t\t\t\t\t\t\t<span class=\"slrc-input-hint-text\">This is the total dollar amount of your loan.</span>\n\t\t\t\t\t\t\t\t\t<svg class=\"stxc-input-hint-icon\" width=\"16\" height=\"15\" viewBox=\"0 0 16 15\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t<path d=\"M9.91992 11.5H5.92042V10.5H6.92042V7H5.92042V6H8.47042C8.74692 6 8.92042 6.2235 8.92042 6.5V10.5H9.92042L9.91992 11.5ZM6.91992 3.5C6.91992 3.36739 6.9726 3.24021 7.06637 3.14645C7.16014 3.05268 7.28731 3 7.41992 3H8.41992C8.55253 3 8.67971 3.05268 8.77348 3.14645C8.86724 3.24021 8.91992 3.36739 8.91992 3.5V4.5C8.91992 4.63261 8.86724 4.75979 8.77348 4.85355C8.67971 4.94732 8.55253 5 8.41992 5H7.41992C7.28731 5 7.16014 4.94732 7.06637 4.85355C6.9726 4.75979 6.91992 4.63261 6.91992 4.5V3.5ZM7.91992 0C3.77792 0 0.419922 3.3585 0.419922 7.5005C0.419922 11.6415 3.77742 15 7.91992 15C12.0624 15 15.4199 11.6415 15.4199 7.5005C15.4199 3.3585 12.0624 0 7.91992 0Z\"/>\n\t\t\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<input type=\"text\"\n\t\t\t\t\t\t\t        name=\"loanAmount\"\n\t\t\t\t\t\t\t        title=\"This is the total dollar amount of your loan.\"\n\t\t\t\t\t\t\t        placeholder=\"$\"\n\t\t\t\t\t\t\t\t\tdata-prefix-val=\"$ \"\n\t\t\t\t\t\t\t\t>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"slrc-input-field-container\">\n\t\t\t\t\t\t\t<div class=\"slrc-input-field-icon\">2</div>\n\t\t\t\t\t\t\t<label>Enter loan term (months)\t\t\t\t\t\t\t\t<div class=\"slrc-input-hint\">\n\t\t\t\t\t\t\t\t\t<span class=\"slrc-input-hint-text\">This is the amount of time it will take to repay your loan in months.</span>\n\t\t\t\t\t\t\t\t\t<svg class=\"stxc-input-hint-icon\" width=\"16\" height=\"15\" viewBox=\"0 0 16 15\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t<path d=\"M9.91992 11.5H5.92042V10.5H6.92042V7H5.92042V6H8.47042C8.74692 6 8.92042 6.2235 8.92042 6.5V10.5H9.92042L9.91992 11.5ZM6.91992 3.5C6.91992 3.36739 6.9726 3.24021 7.06637 3.14645C7.16014 3.05268 7.28731 3 7.41992 3H8.41992C8.55253 3 8.67971 3.05268 8.77348 3.14645C8.86724 3.24021 8.91992 3.36739 8.91992 3.5V4.5C8.91992 4.63261 8.86724 4.75979 8.77348 4.85355C8.67971 4.94732 8.55253 5 8.41992 5H7.41992C7.28731 5 7.16014 4.94732 7.06637 4.85355C6.9726 4.75979 6.91992 4.63261 6.91992 4.5V3.5ZM7.91992 0C3.77792 0 0.419922 3.3585 0.419922 7.5005C0.419922 11.6415 3.77742 15 7.91992 15C12.0624 15 15.4199 11.6415 15.4199 7.5005C15.4199 3.3585 12.0624 0 7.91992 0Z\"/>\n\t\t\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<input type=\"text\"\n\t\t\t\t\t\t\t\t       name=\"loanTerm\"\n\t\t\t\t\t\t\t\t       title=\"This is the amount of time it will take to repay your loan in months.\"\n\t\t\t\t\t\t\t\t       placeholder=\"0\"\n\t\t\t\t\t\t\t\t>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"slrc-input-field-container\">\n\t\t\t\t\t\t\t<div class=\"slrc-input-field-icon\">3</div>\n\t\t\t\t\t\t\t<label>Enter interest rate\t\t\t\t\t\t\t\t<div class=\"slrc-input-hint\">\n\t\t\t\t\t\t\t\t\t<span class=\"slrc-input-hint-text\">This is the percentage of your total loan amount that you&#039;re charged for borrowing the money. For this calculator, the interest rate is compounded monthly period</span>\n\t\t\t\t\t\t\t\t\t<svg class=\"stxc-input-hint-icon\" width=\"16\" height=\"15\" viewBox=\"0 0 16 15\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t<path d=\"M9.91992 11.5H5.92042V10.5H6.92042V7H5.92042V6H8.47042C8.74692 6 8.92042 6.2235 8.92042 6.5V10.5H9.92042L9.91992 11.5ZM6.91992 3.5C6.91992 3.36739 6.9726 3.24021 7.06637 3.14645C7.16014 3.05268 7.28731 3 7.41992 3H8.41992C8.55253 3 8.67971 3.05268 8.77348 3.14645C8.86724 3.24021 8.91992 3.36739 8.91992 3.5V4.5C8.91992 4.63261 8.86724 4.75979 8.77348 4.85355C8.67971 4.94732 8.55253 5 8.41992 5H7.41992C7.28731 5 7.16014 4.94732 7.06637 4.85355C6.9726 4.75979 6.91992 4.63261 6.91992 4.5V3.5ZM7.91992 0C3.77792 0 0.419922 3.3585 0.419922 7.5005C0.419922 11.6415 3.77742 15 7.91992 15C12.0624 15 15.4199 11.6415 15.4199 7.5005C15.4199 3.3585 12.0624 0 7.91992 0Z\"/>\n\t\t\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<input type=\"text\"\n\t\t\t\t\t\t\t\t       name=\"interestRate\"\n\t\t\t\t\t\t\t\t       title=\"This is the percentage of your total loan amount that you&#039;re charged for borrowing the money. For this calculator, the interest rate is compounded monthly period\"\n\t\t\t\t\t\t\t\t       placeholder=\"%\"\n\t\t\t\t\t\t\t\t       data-postfix-val=\" %\"\n\t\t\t\t\t\t\t\t>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"slrc-input-field-container\">\n\t\t\t\t\t\t\t<input type=\"button\" name=\"calculate\" value=\"Calculate\" disabled>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- Results -->\n\t\t\t\t<div class=\"slrc-calculator-section-2\">\n\t\t\t\t\t<div class=\"slrc-results-boxes\">\n\t\t\t\t\t\t<div class=\"slrc-results-box slrc-results-box-1\">\n\t\t\t\t\t\t\t<div class=\"slrc-results-content\">\n\t\t\t\t\t\t\t\t<span class=\"slrc-results-title\">Minimum Monthly Payment</span>\n\t\t\t\t\t\t\t\t<div id=\"slrc-minimum-monthly-payment\" class=\"slrc-result\">$0</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"slrc-results-box slrc-results-box-2\">\n\t\t\t\t\t\t\t<div class=\"slrc-results-content\">\n\t\t\t\t\t\t\t\t<span class=\"slrc-results-title\">Total Amount Paid</span>\n\t\t\t\t\t\t\t\t<div id=\"slrc-total-amount-paid\" class=\"slrc-result\">$0</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"slrc-results-box slrc-results-box-3\">\n\t\t\t\t\t\t\t<div class=\"slrc-results-content\">\n\t\t\t\t\t\t\t\t<span class=\"slrc-results-title\">Total Interest Paid</span>\n\t\t\t\t\t\t\t\t<div id=\"slrc-total-interest-paid\" class=\"slrc-result\">$0</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t</div>  \n\n\n\n<p><br>Now that you have an idea of what your personal loan\u2019s monthly payment would be, you can get started on your personal loan application&#8211;click <a href=\"<?php echo $row['apply']; ?>\" target=\"_blank\" rel=\"noreferrer noopener\">here</a> to apply today!</p>\n\n\n\n<h2 class=\"wp-block-heading\">Personal loan calculator FAQs</h2>\n\n\n\n<h3 class=\"wp-block-heading\">What are the different types of personal loans?</h3>\n\n\n\n<p>Before taking out a personal loan, it\u2019s important to know what types of personal loans are available to you. Most personal loans are either secured or unsecured. A secured personal loan requires that borrowers offer collateral, or something of value, to the lender\u2013such as the rights to their home or car, to protect the lender in case the loan amount can\u2019t be paid off. Secured loans include mortgages, auto loans, home equity lines of credit, business loans, and land loans.</p>\n\n\n\n<p>Unsecured loans do not require collateral. However, because lenders are not protected by collateral like they are with secured loans, they often charge higher interest rates or require high credit scores for unsecured loans because the loan is a greater risk for them. To learn more about different types of personal loans, read our <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/different-types-of-personal-loans/\" target=\"_blank\" rel=\"noreferrer noopener\">blog post</a> on the topic.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What determines the cost of a personal loan?</h3>\n\n\n\n<p>When you\u2019re looking to figure out what a personal loan will cost you, the payment calculator above is a good place to start. That\u2019s because you likely already have the necessary information to figure out the cost of a personal loan:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>The total amount of money you\u2019re borrowing</strong></li>\n\n\n\n<li><strong>The interest rate</strong></li>\n\n\n\n<li><strong>The length of the loan</strong></li>\n</ul>\n\n\n\n<p>With this information, you can use the calculator to see how much interest you will pay over the course of the loan. To find a more exact cost of your personal loan, be sure to ask the lender about any fees they may charge so you can add that to the total cost of the personal loan.</p>\n\n\n\n<p>Learn more about how to qualify and apply for a personal loan by reading our blog <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/how-to-qualify-and-apply-for-a-personal-loan/\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<h3 class=\"wp-block-heading\">How does my credit score affect a personal loan?</h3>\n\n\n\n<p>Your credit score goes a long way toward determining what kind of terms you\u2019ll get on a personal loan. Why? Because if you have a good credit score and credit history, you\u2019re likely to qualify for much lower interest rates than if your credit score is low. This is because a good credit history shows that you\u2019re a trustworthy borrower who makes payments on time and has <a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/how-personal-loan-could-help-build-credit/\" target=\"_blank\" rel=\"noreferrer noopener\">built their credit</a>. And that is less risky for a lender, which is why they can offer better interest rates. With a low credit score, a borrower isn\u2019t as easily trusted, so the lender charges high interest rates to protect themselves.</p>\n\n\n\n<h3 class=\"wp-block-heading\">What\u2019s the difference between APR and APY?</h3>\n\n\n\n<p>It can be easy to confuse Annual Percentage Rate (APR) and Annual Percentage Yield (APY). What\u2019s the difference between the two?</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Annual Percentage Rate (APR)</strong> is what you pay to take out a loan, which is the interest rate plus fees. Sometimes APR is the same as the loan\u2019s interest rate, as is the case with most credit cards. An APR can also be fixed (the rate stays the same throughout the loan term) or variable (the rate may change based on market conditions). The higher the APR, the more money you\u2019re paying for your loan.</li>\n\n\n\n<li><strong>Annual Percentage Yield (APY) </strong>is the actual rate of return that will be earned in one year if the interest is compounded. These rates are what you\u2019d look for when opening a checking account, savings account, or certificate of deposit (CD). The higher the APY on your account, the more interest you will likely collect.</li>\n</ul>\n\n\n\n<p>APY is similar to the APR used for loans. The APR shows the percentage that the borrower will pay over a year in interest and fees for the loan. However, only APY takes into account compound interest.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Find more information on personal loans</h2>\n\n\n\n<p>The more you know about personal loans, the better financial decisions you can make for your situation. Fortunately, <?php echo $row['name']; ?> has you covered! We have many helpful resources, written by our loan experts, you can use to learn all you need to know about personal loans:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/how-to-get-a-personal-loan/\" target=\"_blank\" rel=\"noreferrer noopener\">How to Take Out a Personal Loan in 5 Steps</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/how-to-get-loan-without-bank-account/\" target=\"_blank\" rel=\"noreferrer noopener\">How to Get a Loan Without a Bank Account</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/are-personal-loans-installment-or-revolving-credit-accounts/\" target=\"_blank\" rel=\"noreferrer noopener\">Are Personal Loans Installment or Revolving Credit Accounts?</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/different-types-of-personal-loans-2/\" target=\"_blank\" rel=\"noreferrer noopener\">Different Types of Personal Loans</a></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Learn the basics of finance and testimonials</h2>\n\n\n\n<p>By learning the basics of finance and testimonials, you become more educated and informed when it comes time to make important financial decisions. In addition to our personal loan resources, we offer plenty of articles that cover personal finance and tax-related topics. Check them out here:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"<?php echo $row['url']; ?>resources/personal-finance-basics/\" target=\"_blank\" rel=\"noreferrer noopener\">Personal Finance Basics</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/\" target=\"_blank\" rel=\"noreferrer noopener\">Tax Questions &amp; Tips</a></li>\n</ul>\n\n\n\n<p><?php echo $row['name']; ?> is here to help you achieve your financial goals, and one way we assist you is by providing you with valuable knowledge and tools so you have a better understanding of what financial choices are right for you. Besides these tools, however, we are always there to provide trustworthy guidance and outstanding customer service whenever you need us. We invite you to stop by one of our many <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_blank\" rel=\"noreferrer noopener\">local branches</a> or call us at <?php echo $row['phone']; ?> so we can help you in any way we can.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Looking to take out a personal loan? <?php echo $row['name']; ?> can help! Perhaps the most important piece of information when taking out a personal loan is knowing how much you will be paying each month. We\u2019ve made that easy for you with our personal loan payment calculator! Once you have an idea of the details of&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 4460,
+  "template": "",
+  "resources_category": [36],
+  "resources_tag": [],
+  "class_list": [
+    "post-4458",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-education-on-personal-loans"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Personal loan and payment calculator | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Personal loan and payment calculator | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Looking to take out a personal loan? <?php echo $row['name']; ?> can help! Perhaps the most important piece of information when taking out a personal loan is knowing how much you will be paying each month. We\u2019ve made that easy for you with our personal loan payment calculator! Once you have an idea of the details of...\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-03-20T16:19:25+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"5 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/\",\"url\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/\",\"name\":\"Personal loan and payment calculator | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg\",\"datePublished\":\"2023-09-27T17:45:37+00:00\",\"dateModified\":\"2024-03-20T16:19:25+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Education on Personal Loans\",\"item\":\"<?php echo $row['url']; ?>resources/education-on-personal-loans/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Personal loan and payment calculator\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Personal loan and payment calculator | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Personal loan and payment calculator | <?php echo $row['name']; ?>",
+    "og_description": "Looking to take out a personal loan? <?php echo $row['name']; ?> can help! Perhaps the most important piece of information when taking out a personal loan is knowing how much you will be paying each month. We\u2019ve made that easy for you with our personal loan payment calculator! Once you have an idea of the details of...",
+    "og_url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-03-20T16:19:25+00:00",
+    "og_image": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "5 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/",
+          "url": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/",
+          "name": "Personal loan and payment calculator | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg",
+          "datePublished": "2023-09-27T17:45:37+00:00",
+          "dateModified": "2024-03-20T16:19:25+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/09/0823_PrsnlLoanPymntCalc-2.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/education-on-personal-loans/personal-loan-and-payment-calculator/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Education on Personal Loans",
+              "item": "<?php echo $row['url']; ?>resources/education-on-personal-loans/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Personal loan and payment calculator"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4458",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4458/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/4460"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=4458" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=4458"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=4458"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

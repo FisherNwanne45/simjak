@@ -1,0 +1,167 @@
+{
+  "id": 1252,
+  "date": "2022-04-26T09:51:09",
+  "date_gmt": "2022-04-26T09:51:09",
+  "guid": { "rendered": "<?php echo $row['url']; ?>?page_id=1252" },
+  "modified": "2023-12-06T12:02:55",
+  "modified_gmt": "2023-12-06T18:02:55",
+  "slug": "privacy-policy",
+  "status": "publish",
+  "type": "page",
+  "link": "<?php echo $row['url']; ?>privacy-policy/",
+  "title": { "rendered": "Privacy Policy" },
+  "content": {
+    "rendered": "</div><section id=\"block_93e3314125db57ee485a39fda2be3d09\" class=\"block-hero-bar alignfull block-hero-bar has-font-color text-default\">    <div class=\"page-title-area black\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <div class=\"page-title white left\">\n                        <h1>Privacy Policy</h1>\n                                            </div>\n                </div>\n            </div>\n        </div>\n        <img decoding=\"async\" src=\"/wp-content/themes/sunloan-theme/assets/images/dot-3.webp\" alt=\"\" class=\"dot_shape\">\n    </div>\n    </section>\n\n\n\n<section id=\"contact-content\" class=\"wp-block-group cs_section mx_800 is-content-justification-left is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex\">\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:100%\">\n<p>Last modified: July 7, 2022</p>\n\n\n\n<h2 class=\"wp-block-heading\">Introduction</h2>\n\n\n\n<p><?php echo $row['name']; ?> (<strong>\u201cCompany\u201d</strong>&nbsp;or&nbsp;<strong>\u201cWe\u201d</strong>) respect your privacy and are committed to protecting it through our compliance with this policy.</p>\n\n\n\n<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website&nbsp;<a href=\"<?php echo $row['url']; ?>\"><?php echo $row['url']; ?></a>,&nbsp;<a href=\"https://<?php echo $row['url']; ?>/LogInMain\"><?php echo $row['url']; ?></a>, and any related websites on which this Privacy Policy appears&nbsp;(all collectively our \u201c<strong>Website</strong>\u201c) and our practices for collecting, using, maintaining, protecting, and disclosing that information.</p>\n\n\n\n<p>\u201c<strong>You</strong>\u201d and \u201c<strong>Your</strong>\u201d refer to you as an individual person.&nbsp; If You are accessing the Site as an employee or representative of any other person or entity including any automated service or program \u201c<strong>You</strong>\u201d includes that person or entity and automated service or program.</p>\n\n\n\n<p>This Privacy Policy supplements our Privacy Notice.&nbsp; Please also review the Terms of&nbsp;Use.&nbsp; The&nbsp;Terms of Use&nbsp;govern Your use of the Site.&nbsp; By using the Site, You agree to this Privacy Policy and the&nbsp;Terms of Use.&nbsp; You also agree to our collection, use, disclosure, and storage of Your Personal Information (defined below) as described in this Privacy Policy.&nbsp; If You do not agree to the terms of this Privacy Policy, please do not provide us with any Personal Information and do not use this Site.</p>\n\n\n\n<p>This policy applies to the information we collect</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>On this Website.</li>\n\n\n\n<li>In email, text, and other electronic messages between You and this Website.</li>\n</ul>\n\n\n\n<p>It does not apply to information collected by:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries);</li>\n\n\n\n<li>Data we get from third parties, unless we combine such data with Personal Information (defined below) that we have collected under this Privacy Policy; or</li>\n\n\n\n<li>Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.</li>\n</ul>\n\n\n\n<p>Please read this policy carefully to understand our policies and practices regarding Your information and how we will treat it. If You do not agree with our policies and practices, Your choice is not to use our Website. By accessing or using this Website, You agree to this Privacy Policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Children Under the Age of 18</h2>\n\n\n\n<p>Our Website is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Website. We do not knowingly collect personal information from children under 18. If You are under 18, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 18, we will delete that&nbsp;information. If You believe we might have any information from or about a child under 18, please contact us at:</p>\n\n\n\n<p><?php echo $row['name']; ?><br><?php echo $row['addr']; ?><br><br><a href=\"mailto:contact@brundagemgt.com\">contact@brundagemgt.com</a></p>\n\n\n\n<h2 class=\"wp-block-heading\">Information We Collect About You and How We Collect It</h2>\n\n\n\n<p>We collect several types of information from and about users of our Website, including information:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>By which You may be personally identified, such as full name, date of birth, relationship status, postal address, e-mail address, telephone number, social security number, driver\u2019s license number, employment information, information about Your debts, assets, and income, bank account and/or payment card information, username or any other identifier by which You may be contacted online or offline (\u201c<strong>Personal Information</strong>\u201c);</li>\n\n\n\n<li>That is about You but individually does not identify You, such as the type&nbsp;of Your device; about Your internet connection, the equipment You use to access our Website, and usage details.</li>\n</ul>\n\n\n\n<p>We collect this information:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Directly from You when You provide it to us including if You create an online account with us so that You can view information such as: Your last payment date and amount, loan balance and upcoming payment amount and date.&nbsp;&nbsp; We will not sell, share, or otherwise distribute Your Personal Information to third parties, unless clearly disclosed within this Privacy Policy or our Privacy Notice.&nbsp; &nbsp;&nbsp;</li>\n\n\n\n<li>Automatically as You navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, java script, and other tracking technologies.</li>\n\n\n\n<li>From third parties, for example, our business&nbsp;partners.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Information You Provide to Us</h2>\n\n\n\n<p>The information we collect on or through our Website may include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Information that You provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, loan application documents, documents uploaded by You in support of Your loan application, documents uploaded by You in support of or for servicing Your account, for example, refinancing and other similar account servicing tasks,&nbsp;or You requesting further services. We may also ask You for information when You enter a contest or promotion sponsored by us, and when You report a problem with our Website.</li>\n\n\n\n<li>Records and copies of Your correspondence (including email addresses), if You contact us.</li>\n\n\n\n<li>Your responses to surveys that we might ask You to complete for research purposes.</li>\n\n\n\n<li>Your search queries on the Website.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Information We Collect Through Automatic Data Collection Technologies</h2>\n\n\n\n<p>As You navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about Your equipment, browsing actions, and patterns, including:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Details of Your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that You access and use on the Website.</li>\n\n\n\n<li>Information about Your computer and internet connection, including Your IP address, operating system, and browser type.</li>\n</ul>\n\n\n\n<p>The information we collect automatically does include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Estimate our audience size and usage patterns.</li>\n\n\n\n<li>Store information about Your preferences, allowing us to customize our Website according to Your individual interests.</li>\n\n\n\n<li>Speed up Your searches.</li>\n\n\n\n<li>Recognize You when You return to our Website.</li>\n</ul>\n\n\n\n<p>The technologies we use for this automatic data collection may include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Cookies (or Browser Cookies).</strong>&nbsp;A cookie is a small file placed on the hard drive of Your computer. You may refuse to accept browser cookies by activating the appropriate setting on Your browser. However, if You select this setting You may be unable to access certain parts of our Website. Unless You have adjusted Your browser setting so that it will refuse cookies, our system will issue cookies when You direct Your browser to our Website.</li>\n\n\n\n<li><strong>Web Beacons.</strong>&nbsp;Pages of our Website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>\n\n\n\n<li><strong>JavaScript.&nbsp;&nbsp;</strong>JavaScript is a text-based programming language that allows web pages to be interactive.&nbsp; JavaScript gives web pages interactive elements. Common examples of JavaScript that You might encounter include a search box, the branch locator, the ability to make an online payment or the ability to upload documents.&nbsp; Using JavaScript we capture Your device type and Your IP address which permit the Company, for example, to count users who have visited those pages for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity) and to optimize user experience.</li>\n</ul>\n\n\n\n<p>Third-Party Use of Cookies and Other Tracking Technologies</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Some content or applications on the Website are served by third-parties, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about You when You use our website. The information they collect may be associated with Your personal information or they may collect information, including personal information, about Your online activities over time and across different websites and other online services. &nbsp;We do not control these third parties\u2019 tracking technologies or how they may be used.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">How We Use Your Information</h2>\n\n\n\n<p>We use information that we collect about You or that You provide to us, including any personal information:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>To present our Website and its contents to You.</li>\n\n\n\n<li>To provide You with information, products, or services that You request from us. For example, to process Your loan inquiry, in the loan application process, to underwrite Your loan, to process and fund Your loan, to service Your loan, to request or receive payments, information such as account notices, verify Your identity, prevent fraud, create and provide access to Your account, communicate with You about Your transactions, provide customer support, offer other products and services, send receipts or statements, and for other internal business purposes.</li>\n\n\n\n<li>To fulfill any other purpose for which You provide it.</li>\n\n\n\n<li>To carry out our obligations and enforce our rights arising from any loan contracts entered into between You and us, including for billing and collection.</li>\n\n\n\n<li>To notify You about changes to our Website or any products or services we offer or provide though it.</li>\n\n\n\n<li>To allow You to participate in interactive features on our Website.</li>\n\n\n\n<li>In any other way we may describe when You provide the information.</li>\n\n\n\n<li>For any other purpose with Your consent.</li>\n</ul>\n\n\n\n<p>We may also use Your information to contact You about goods and services that may be of interest to You if You opt-in to those services.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Disclosure of Your Information</h2>\n\n\n\n<p>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>\n\n\n\n<p>We may disclose personal information that we collect or You provide as described in this privacy policy:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>To our subsidiaries and affiliates.</li>\n\n\n\n<li>To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.</li>\n\n\n\n<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of <?php echo $row['name']; ?>\u2019s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by <?php echo $row['name']; ?> about our Website users is among the assets transferred.</li>\n\n\n\n<li>To fulfill the purpose for which You provide it. For example, if You give us an email address or contact information to use the \u201crefer a friend\u201d feature of our Website, we will transmit the contents of that referral and Your name and email address&nbsp;to our branches and call center.</li>\n\n\n\n<li>For any other purpose disclosed by us when You provide the information.</li>\n\n\n\n<li>With Your consent.</li>\n</ul>\n\n\n\n<p>We may also disclose Your personal information:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>\n\n\n\n<li>To enforce our agreements, including for collection purposes.</li>\n</ul>\n\n\n\n<p>Please see our Privacy Notice for more information on how Personal Information may be shared and how You may be able to limit certain types of sharing.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Choices about How We Use and Disclose Your Information</h2>\n\n\n\n<p>We strive to provide You with choices regarding the personal information You provide to us. We have created mechanisms to provide You with the following control over Your information:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Tracking Technologies.</strong>&nbsp;You can set Your browser to refuse all or some browser cookies, or to alert You when cookies are being sent. If You disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.</li>\n\n\n\n<li><strong>Disclosure of Your Information for Third-Party Advertising.</strong>&nbsp;<?php echo $row['name']; ?> does not share or sell Your information with third-parties.&nbsp; See <?php echo $row['name']; ?>\u2019s Privacy Notice for more information.&nbsp;</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Accessing and Correcting Your Information</h2>\n\n\n\n<p>It is very important that Your personal information is accurate and up to date.&nbsp; You can review and change Your personal information by logging into the Website and visiting Your account profile page.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Location of Website</h2>\n\n\n\n<p>The website is operated in the  <?php echo $row['country']; ?>.&nbsp; The website is meant only for users located in the  <?php echo $row['country']; ?>.&nbsp;</p>\n\n\n\n<h2 class=\"wp-block-heading\">Changes to Our Privacy Policy</h2>\n\n\n\n<p>We reserve the right to change or modify this Privacy Policy at our sole discretion at any time.&nbsp; If we make material changes to how we treat our users\u2019 personal information, we will update You through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible periodically visiting our Website and this privacy policy to check for any changes.&nbsp; Your continued use of any of the site following the posting of changes to our Privacy Policy means You accept those changes.&nbsp;</p>\n\n\n\n<h2 class=\"wp-block-heading\">Contact Information</h2>\n\n\n\n<p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>\n\n\n\n<p><?php echo $row['name']; ?></p>\n\n\n\n<p><?php echo $row['addr']; ?><br></p>\n\n\n\n<p><a href=\"mailto:contact@brundagemgt.com\">contact@brundagemgt.com</a></p>\n\n\n\n<p></p>\n\n\n\n<p>View our current privacy notice <a href=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/12/Sun-Loan-Company-Privacy-Policy_11-20-2023.pdf\">here</a>.</p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n</div>\n</div>\n</section>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Last modified: July 7, 2022 Introduction <?php echo $row['name']; ?> (\u201cCompany\u201d&nbsp;or&nbsp;\u201cWe\u201d) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website&nbsp;<?php echo $row['url']; ?>,&nbsp;<?php echo $row['url']; ?>, and any related websites on which this Privacy&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "_acf_changed": false, "footnotes": "" },
+  "class_list": ["post-1252", "page", "type-page", "status-publish", "hentry"],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Privacy Policy | <?php echo $row['name']; ?></title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>privacy-policy/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Privacy Policy | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Last modified: July 7, 2022 Introduction <?php echo $row['name']; ?> (\u201cCompany\u201d&nbsp;or&nbsp;\u201cWe\u201d) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website&nbsp;<?php echo $row['url']; ?>,&nbsp;<?php echo $row['url']; ?>, and any related websites on which this Privacy...\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>privacy-policy/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-12-06T18:02:55+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"10 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>privacy-policy/\",\"url\":\"<?php echo $row['url']; ?>privacy-policy/\",\"name\":\"Privacy Policy | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"datePublished\":\"2022-04-26T09:51:09+00:00\",\"dateModified\":\"2023-12-06T18:02:55+00:00\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>privacy-policy/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>privacy-policy/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>privacy-policy/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy Policy\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Privacy Policy | <?php echo $row['name']; ?>",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>privacy-policy/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Privacy Policy | <?php echo $row['name']; ?>",
+    "og_description": "Last modified: July 7, 2022 Introduction <?php echo $row['name']; ?> (\u201cCompany\u201d&nbsp;or&nbsp;\u201cWe\u201d) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website&nbsp;<?php echo $row['url']; ?>,&nbsp;<?php echo $row['url']; ?>, and any related websites on which this Privacy...",
+    "og_url": "<?php echo $row['url']; ?>privacy-policy/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2023-12-06T18:02:55+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "10 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>privacy-policy/",
+          "url": "<?php echo $row['url']; ?>privacy-policy/",
+          "name": "Privacy Policy | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "datePublished": "2022-04-26T09:51:09+00:00",
+          "dateModified": "2023-12-06T18:02:55+00:00",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>privacy-policy/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["<?php echo $row['url']; ?>privacy-policy/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>privacy-policy/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Privacy Policy" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1252",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1252"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/pages/1252/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1252" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

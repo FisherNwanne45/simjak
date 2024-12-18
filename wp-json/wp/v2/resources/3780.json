@@ -1,0 +1,222 @@
+{
+  "id": 3780,
+  "date": "2023-05-24T07:40:00",
+  "date_gmt": "2023-05-24T13:40:00",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2024-11-26T11:19:34",
+  "modified_gmt": "2024-11-26T17:19:34",
+  "slug": "file-state-testimonials",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/",
+  "title": { "rendered": "Do I have to file state testimonials?" },
+  "content": {
+    "rendered": "\n<p>Whether you have to file state testimonials depends on whether your state requires you to pay income tax and how much you make. Most people have to file federal testimonials according to IRS guidelines. But what about state testimonials? This can be tricky because each state has its own rules.</p>\n\n\n\n<p>So, do you have to file state testimonials? It depends on where you live and how much money you make. If you live in a state that has income testimonials, you probably need to file. But some states don&#8217;t have income tax at all. Also, how much money you make matters. Each state has its own rules about this.</p>\n\n\n\n<p>Tax time comes every year, and the best way to <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\">prepare for tax season</a> is to get ready early. Keep reading to understand if you need to file state testimonials.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#State-income-tax-filing-requirements\">State income  requirements</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Understanding-state-vs-federal-tax-filing\">Understanding state vs. federal tax filing</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Do-you-need-to-file-state-testimonials-if-you-don\u2019t-live-there\">Do you need to file state testimonials if you don\u2019t live there?</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Which-states-don\u2019t-have-income-tax\">Which states don\u2019t have income tax?</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#When-do-I-have-to-file-state-testimonials\">When do I have to file state testimonials?</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#Filing-Requirements-for-Every-State\">Filing Requirements for Every State</a></span></strong></li>\n\n\n\n<li><strong><span style=\"text-decoration: underline;\"><a href=\"#The-bottom-line\">The bottom line</a></span></strong></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"State-income-tax-filing-requirements\">State income  requirements</h2>\n\n\n\n<p>Every state has its own rules about testimonials. But there are some common reasons why you might need to file state testimonials. Let&#8217;s look at these reasons:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Having income over a certain minimum amount: </strong>Some states have a minimum amount of income that taxpayers have to meet to file state testimonials. For example, if you\u2019re single, filing individually, live in Illinois, and made at least $2,775, you must file a state income tax return. Another example: If you live in Missouri and earned at least $1,200 as an individual, you have to file a state income tax return. Keep in mind that <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-questions-tips-are-social-security-benefits-taxable/\">social security benefits</a> may be taxable at the state level, depending on where you live.</li>\n\n\n\n<li><strong>Filing a federal income tax return: </strong>Many states make taxpayers file a state tax return if they filed a federal tax return.</li>\n\n\n\n<li><strong>Claiming credits:</strong> You can claim some refundable credits from your state. You must file a state tax return to claim these credits.</li>\n\n\n\n<li><strong>Getting a tax refund:</strong> If you had more state income tax money taken from your paychecks than you actually owe, you may be able to get a tax refund. To get the refund, you must file a state tax return.</li>\n</ul>\n\n\n\n<p>If any of these situations apply to you, it means you need to file a state income tax return. This is important because:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>It&#8217;s the law:</strong> If you meet these rules, you have to file. Not filing when you should can get you in trouble.</li>\n\n\n\n<li><strong>You might owe money:</strong> If you made enough money, you may need to pay testimonials to your state.</li>\n\n\n\n<li><strong>You could miss out on money:</strong> Do you get state testimonials back? You could! But, if you don&#8217;t file, you might not get the credits or refunds you deserve.</li>\n\n\n\n<li><strong>It keeps your records straight:</strong> Filing helps make sure your state knows about your income and testimonials.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Understanding-state-vs-federal-tax-filing\">Understanding state vs. federal tax filing</h2>\n\n\n\n<p>When tax season rolls around, you might hear about two kinds of testimonials: state and federal testimonials. It&#8217;s important to understand how they&#8217;re different.</p>\n\n\n\n<p>Federal testimonials are the same for everyone in the  <?php echo $row['country']; ?>. You send these testimonials to the Internal Revenue Service (IRS). The money from federal testimonials is used for activities that help the whole country, such as the military and national parks.</p>\n\n\n\n<p>State testimonials are different. Each state has its own rules for testimonials. You send state testimonials to your state&#8217;s tax office. This money stays in your state to pay for schools, roads, and other services. There are a few ways that state testimonials are unique, such as:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Not all states have income tax:</strong> Some states, like Texas and Florida, don&#8217;t make you pay state income tax.</li>\n\n\n\n<li><strong>Different forms:</strong> Each state has its own tax forms. They might look different from federal forms.</li>\n\n\n\n<li><strong>Different due dates:</strong> While federal testimonials are usually due on April 15, some states have different due dates.</li>\n\n\n\n<li><strong>Special deductions: </strong>States might let you subtract certain things from your testimonials that the federal government doesn&#8217;t. For instance, while the federal government offers the <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/child-dependent-tax-credit/\">Child and Dependent Care tax credit</a>, your state might have extra deductions for school supplies you bought for your kids or money you&#8217;ve saved for college.</li>\n\n\n\n<li><strong>Local testimonials:</strong> Some cities or counties might have their own testimonials on top of state testimonials.</li>\n\n\n\n<li><strong>Tax rates:</strong> States can choose how much tax to charge. Some charge more than others.</li>\n</ul>\n\n\n\n<p>Remember, you might need to file both federal and state testimonials. It&#8217;s important to know the rules for both to make sure you&#8217;re doing everything right at tax time.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"975\" height=\"650\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-975x650.jpg\" alt=\"Man determining out of state testimonials\" class=\"wp-image-5783\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-975x650.jpg 975w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-600x400.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-300x200.jpg 300w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-768x512.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-980x654.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-900x600.jpg 900w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-400x267.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227-150x100.jpg 150w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2194980227.jpg 1000w\" sizes=\"auto, (max-width: 975px) 100vw, 975px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Do-you-need-to-file-state-testimonials-if-you-don\u2019t-live-there\">Do you need to file state testimonials if you don\u2019t live there?</h2>\n\n\n\n<p>In some cases, yes. Most of these involve activity between different states. For example, if you live in one state and work in another or if you moved during the tax year.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Moved from one state to another</h3>\n\n\n\n<p>If you moved out of one state and into another during the tax year, you may owe state income testimonials in both states. This means you have to file a state tax return for both states. Every state has different rules, however. Check with your state\u2019s tax office to see if you need to file state testimonials if you moved during the tax year.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Worked in one state while living in another</h3>\n\n\n\n<p>If you lived in one state but worked in a different state during the tax year, you may need to file two separate state tax returns. But this doesn&#8217;t mean that you&#8217;re taxed twice. Some states offer what is called state income tax reciprocity. This allows you not to file state income testimonials for the state where you work. If you pay income testimonials to the state where you work, you may get a credit for those testimonials when you file your tax return.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Had state-based income sources</h3>\n\n\n\n<p>If you earn income in a state\u2013even if you don\u2019t live or work there \u2013 you may have to file a state tax return for that state. Examples of this category include rental income or real estate investments located in a different state. State lottery and gambling winnings also fall into this bucket, as does the money you earn from selling property in another state.</p>\n\n\n\n<p>Simply put, income testimonials are taxed by your resident state \u2014 where you live. It doesn\u2019t matter if you work remotely for a company based in another state or moved during the year. And yes, it\u2019s achievable to be taxed by two states. Here\u2019s how filing income testimonials usually works:</p>\n\n\n\n<ol class=\"wp-block-list\">\n<li>You file a tax return in the state where you earned the money</li>\n\n\n\n<li>You also file a tax return in your home state, reporting all your income</li>\n\n\n\n<li>Your home state will usually give you a credit for testimonials you paid to other states to make sure you\u2019re not paying full testimonials twice on the same amount of money earned.</li>\n</ol>\n\n\n\n<p>Tax rules can be tricky when dealing with more than one state. Working with a tax advisor or accountant is always a good idea if you\u2019re unsure what to do.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Which-states-don\u2019t-have-income-tax\">Which states don\u2019t have income tax?</h2>\n\n\n\n<p>If you wonder, \u201cDo you have to file state testimonials?\u201d you might be surprised to learn that in some places, you don\u2019t. Only nine of the 50  <?php echo $row['country']; ?> don\u2019t have income tax. If you\u2019re lucky enough to live in one of these states, you don\u2019t have to file a state tax return for that state. These states are:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Alaska</li>\n\n\n\n<li>Florida</li>\n\n\n\n<li>Nevada</li>\n\n\n\n<li>New Hampshire</li>\n\n\n\n<li>South Dakota</li>\n\n\n\n<li>Tennessee</li>\n\n\n\n<li>Texas</li>\n\n\n\n<li>Washington</li>\n\n\n\n<li>Wyoming</li>\n</ul>\n\n\n\n<p>Living in one of these states means you don\u2019t have to fill out a state income tax form. Additionally, you\u2019ll typically keep more of your paycheck since the state isn\u2019t charging you income tax. However, you\u2019ll still have to pay federal income testimonials.</p>\n\n\n\n<p>Keep in mind that these states may charge higher sales or property tax to make up for not having income tax, so don\u2019t think you\u2019re completely off the hook if you live here. That said, because you\u2019re not paying state income tax, you might be able to save more money or spend it on the things you need.</p>\n\n\n\n<p>Remember, we\u2019re talking about personal income testimonials. So, if you own a business, the rules might be different. Many of these states still tax business income.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"975\" height=\"650\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-975x650.jpg\" alt=\"Man meeting with a Loan Payment Protection Specialist to discuss state testimonials\" class=\"wp-image-5785\" srcset=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-975x650.jpg 975w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-600x400.jpg 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-300x200.jpg 300w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-768x512.jpg 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-980x654.jpg 980w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-900x600.jpg 900w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-400x267.jpg 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679-150x100.jpg 150w, <?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_2454682679.jpg 1000w\" sizes=\"auto, (max-width: 975px) 100vw, 975px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"When-do-I-have-to-file-state-testimonials\">When do I have to file state testimonials?</h2>\n\n\n\n<p>So, if you\u2019ve determined you have to file testimonials, you might wonder, \u201cWhen do you have to file state testimonials?\u201d Knowing <a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/when-can-i-file-my-testimonials/\">when to file testimonials</a> can help you avoid fines for filing late. Many state tax deadlines are similar to those for filing federal testimonials for simplicity. Many states have the same  deadline as the federal government (April 15). However, every state has its own rules and deadlines, so always check your specific state\u2019s rules.</p>\n\n\n\n<p>If you need more time, you can ask for an extension, which gives you extra time to file your testimonials. However, you\u2019ll still need to pay what you owe by the regular due date.</p>\n\n\n\n<p>Additionally, if you\u2019re self-employed or own a business, you might need to pay estimated testimonials four times a year instead of just once.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"Filing-Requirements-for-Every-State\">Filing Requirements for Every State</h2>\n\n\n\n<p>Every state in the  <?php echo $row['country']; ?> has its own rules about testimonials. State  requirements can differ from one state to the next, so it\u2019s important to know the exact rules for your state.</p>\n\n\n\n<p>Here\u2019s a quick look at what each state asks for when it comes to filing testimonials. Remember, state  requirements can change, so it\u2019s always a good idea to double-check with your state\u2019s tax office or a professional tax preparer if you have any questions.</p>\n\n\n\n<p>Special consideration: While <a href=\"https://otr.cfo.dc.gov/page/individual-income-tax-filing-faqs\">Washington, DC</a>, technically isn\u2019t a state, residents have their own tax requirements.</p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.34%\">\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.revenue.alabama.gov/faqs/who-must-file-an-alabama-individual-income-tax-return/\">Alabama</a></li>\n\n\n\n<li>Alaska (no income tax required)</li>\n\n\n\n<li><a href=\"https://azdor.gov/individuals\">Arizona</a></li>\n\n\n\n<li><a href=\"https://www.dfa.arkansas.gov/office/testimonials/income-tax-administration/individual-income-tax/faqs/\">Arkansas</a></li>\n\n\n\n<li><a href=\"https://www.ftb.ca.gov/file/personal/do-you-need-to-file.php\">California</a></li>\n\n\n\n<li><a href=\"https://www.ncdor.gov/individual-income-filing-requirements\">North Carolina</a></li>\n\n\n\n<li><a href=\"https://dor.sc.gov/tax/individual-income/faq\">South Carolina</a></li>\n\n\n\n<li><a href=\"https://tax.colorado.gov/individual-income-tax-filing-requirements\">Colorado</a></li>\n\n\n\n<li><a href=\"https://portal.ct.gov/drs/individuals/individual-income-tax\">Connecticut</a></li>\n\n\n\n<li><a href=\"https://www.tax.nd.gov/individual\">North Dakota</a></li>\n\n\n\n<li>South Dakota (no income tax required)</li>\n\n\n\n<li><a href=\"https://revenue.delaware.gov/individual-taxpayer-services/\">Delaware</a></li>\n\n\n\n<li>Florida (Only testimonials business assets)</li>\n\n\n\n<li><a href=\"https://dor.georgia.gov/residency-filing-requirements\">Georgia</a></li>\n\n\n\n<li><a href=\"https://files.hawaii.gov/tax/forms/current/n11ins-2022.pdf\">Hawaii</a></li>\n\n\n\n<li><a href=\"https://tax.idaho.gov/testimonials/income-tax/individual-income/#sub3\">Idaho</a></li>\n\n\n\n<li><a href=\"https://tax.illinois.gov/individuals/filingrequirements.php\">Illinois</a></li>\n\n\n\n<li><a href=\"https://www.in.gov/dor/i-am-a/individual/who-should-file/\">Indiana</a></li>\n</ul>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<ul class=\"wp-block-list\">\n<li><a href=\"https://revenue.iowa.gov/expanded-instructions/who-must-file-2018\">Iowa</a></li>\n\n\n\n<li><a href=\"https://www.ksrevenue.gov/incomebook22.php\">Kansas</a></li>\n\n\n\n<li><a href=\"https://revenue.ky.gov/Individual/Individual-Income-Tax/Pages/Do-I-Need-to-File-a-Return.aspx\">Kentucky</a></li>\n\n\n\n<li><a href=\"https://revenue.louisiana.gov/IndividualIncomeTax\">Louisiana</a></li>\n\n\n\n<li><a href=\"https://www.maine.gov/revenue/faq/individual-income-tax\">Maine</a></li>\n\n\n\n<li><a href=\"https://www.marylandtestimonials.gov/individual/income/filing/index.php#haveto\">Maryland</a></li>\n\n\n\n<li><a href=\"https://www.mass.gov/info-details/who-must-file-a-massachusetts-personal-income-tax-return\">Massachusetts</a></li>\n\n\n\n<li><a href=\"https://www.michigan.gov/testimonials/questions/iit/accordion/filing/what-are-the-state-of-michigan-individual-income-tax-filing-requirements-1\">Michigan</a></li>\n\n\n\n<li><a href=\"https://www.revenue.state.mn.us/who-must-file-income-tax-return\">Minnesota</a></li>\n\n\n\n<li><a href=\"https://www.dor.ms.gov/individual/tax-rates\">Mississippi</a></li>\n\n\n\n<li><a href=\"https://dor.mo.gov/faq/taxation/individual/general.php#q1\">Missouri</a></li>\n\n\n\n<li><a href=\"https://montana.servicenowservices.com/citizen/kb?id=kb_article_view&amp;sysparm_article=KB0014583\">Montana</a></li>\n\n\n\n<li><a href=\"https://revenue.nebraska.gov/about/frequently-asked-questions/individual-income-tax-faqs\">Nebraska</a></li>\n\n\n\n<li>Nevada (no income tax required)</li>\n\n\n\n<li><a href=\"https://www.nj.gov/treasury/taxation/njit23.shtml\">New Jersey</a></li>\n\n\n\n<li><a href=\"https://www.tax.ny.gov/pit/file/do_i_need_to_file.htm\">New York</a></li>\n\n\n\n<li><a href=\"https://www.revenue.nh.gov/testimonials-glance\">New Hampshire</a> (testimonials only investments and business income)</li>\n\n\n\n<li><a href=\"https://www.tax.newmexico.gov/individuals/personal-income-tax-information-overview/\">New Mexico</a></li>\n</ul>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<ul class=\"wp-block-list\">\n<li><a href=\"https://tax.ohio.gov/individual/resources/who-must-file\">Ohio</a></li>\n\n\n\n<li><a href=\"https://oklahoma.gov/tax/individuals/file-testimonials.php\">Oklahoma</a></li>\n\n\n\n<li><a href=\"https://www.oregon.gov/DOR/programs/individuals/Pages/file-requirements.aspx\">Oregon</a></li>\n\n\n\n<li><a href=\"https://revenue-pa.custhelp.com/app/answers/detail/a_id/281\">Pennsylvania</a></li>\n\n\n\n<li><a href=\"https://tax.ri.gov/tax-sections/personal-income-tax\">Rhode Island</a></li>\n\n\n\n<li>Tennessee (no income tax required)</li>\n\n\n\n<li>Texas (no income tax required)</li>\n\n\n\n<li><a href=\"https://incometax.utah.gov/instructions/who-must-file\">Utah</a></li>\n\n\n\n<li><a href=\"http://tax.vermont.gov/individuals/who-should-file\">Vermont</a></li>\n\n\n\n<li><a href=\"https://www.tax.virginia.gov/who-must-file\">Virginia</a></li>\n\n\n\n<li><a href=\"https://tax.wv.gov/Individuals/HowDoI/Pages/IndividualsHowDoI.aspx\">West Virginia</a></li>\n\n\n\n<li>Washington (no income tax required)</li>\n\n\n\n<li><a href=\"https://www.revenue.wi.gov/Pages/FAQS/pcs-indreq.aspx#indreq1\">Wisconsin</a></li>\n\n\n\n<li>Wyoming (no income tax required</li>\n</ul>\n</div>\n</div>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"The-bottom-line\">The bottom line</h2>\n\n\n\n<p>Whether you need to file state income testimonials depends mostly on where you live. If you live in a state that doesn&#8217;t have income tax, you get a bit of a break during tax season. Why? Because you\u2019ll most likely only need to worry about filing your federal income testimonials. If you don\u2019t live in one of those states, you&#8217;ll probably have to file a state tax return and your federal testimonials.</p>\n\n\n\n<p>It\u2019s important to remember that all states have different laws, regulations, and guidelines when it comes to taxpayers filing their state income testimonials. Be sure to check with your state so you know you\u2019re following the tax laws.</p>\n\n\n\n<p><?php echo $row['name']; ?> is always here for your tax needs. With more than 20 years of tax experience, the <a href=\"<?php echo $row['url']; ?>testimonials/\">tax preparation</a> experts at your local <?php echo $row['name']; ?> branch will make sure your testimonials are filed correctly. They\u2019ll also look to get you the biggest refund possible. Trust <?php echo $row['name']; ?> to file your testimonials securely, accurately, and on time. For more information, call <?php echo $row['phone']; ?> today or <a href=\"<?php echo $row['apply']; ?>\">visit us online</a>.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Whether you have to file state testimonials depends on whether your state requires you to pay income tax and how much you make. Most people have to file federal testimonials according to IRS guidelines. But what about state testimonials? This can be tricky because each state has its own rules. So, do you have to&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 5781,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-3780",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-11-26T17:19:34+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1709\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"10 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\",\"name\":\"Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg\",\"datePublished\":\"2023-05-24T13:40:00+00:00\",\"dateModified\":\"2024-11-26T17:19:34+00:00\",\"description\":\"Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg\",\"width\":2560,\"height\":1709,\"caption\":\"Couple doing calculations to determine whether they need to file state testimonials\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Do I have to file state testimonials?\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?>",
+    "description": "Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?>",
+    "og_description": "Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2024-11-26T17:19:34+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1709,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "10 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/",
+          "name": "Do I Have To File State testimonials? Understanding State Income Tax | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg",
+          "datePublished": "2023-05-24T13:40:00+00:00",
+          "dateModified": "2024-11-26T17:19:34+00:00",
+          "description": "Do you have to file state testimonials? <?php echo $row['name']; ?> is here to help guide you through different state  requirements to find out if you need to file.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/05/shutterstock_1847315350-scaled.jpg",
+          "width": 2560,
+          "height": 1709,
+          "caption": "Couple doing calculations to determine whether they need to file state testimonials"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/file-state-testimonials/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Do I have to file state testimonials?"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/3780",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/3780/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 5789,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/3780/revisions/5789"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/5781"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=3780" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=3780"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=3780"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

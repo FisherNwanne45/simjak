@@ -1,0 +1,215 @@
+{
+  "id": 4474,
+  "date": "2023-10-11T14:59:12",
+  "date_gmt": "2023-10-11T20:59:12",
+  "guid": { "rendered": "<?php echo $row['url']; ?>resources///" },
+  "modified": "2023-10-11T14:59:59",
+  "modified_gmt": "2023-10-11T20:59:59",
+  "slug": "ow-to-prepare-for-tax-season",
+  "status": "publish",
+  "type": "resources",
+  "link": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/",
+  "title": { "rendered": "How to prepare for this tax season" },
+  "content": {
+    "rendered": "\n<p>Tax Day may not be until mid-April, but it\u2019s never too early to start preparing for tax season. Why? Because tax season goes much more smoothly when you\u2019re organized and ready to file.</p>\n\n\n\n<p>If you\u2019re a U.S. citizen or a permanent resident who works in the  <?php echo $row['country']; ?>, you likely need to file a tax return if you make a certain amount of income during the year.</p>\n\n\n\n<p>The Internal Revenue Service (IRS) provides information on who is required or recommended to file a tax return. You can find that <a href=\"https://www.irs.gov/publications/p501#en_US_2022_publink1000220687\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>. But even if you earned less than the amount required to file a tax return, it\u2019s still a good idea to file because there\u2019s a chance you could get money back if:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>You\u2019ve had federal income tax withheld from your pay</li>\n\n\n\n<li>You made estimated tax payments</li>\n\n\n\n<li>You qualify to receive certain tax credits</li>\n</ul>\n\n\n\n<p>Loan Payment Protectioncan be challenging, but if you stay organized throughout the year, the process will be much easier and smoother when it\u2019s time to file your tax return. Here are some ways you can get organized and prepare for tax season.</p>\n\n\n\n<h2 class=\"wp-block-heading\">1. Gather important documents</h2>\n\n\n\n<p>When it\u2019s time to sit down and prepare your tax return, the most important thing you\u2019ll need is your tax and income documents. These forms include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>W-2: </strong>This document comes from your employer if they withhold income, Social Security, or Medicare tax from your pay.</li>\n\n\n\n<li><strong>1099: </strong>This form is for people who work as independent contractors or freelancers. A 1099 form is provided by the employer/payer to show what they paid during the year. Because freelance and contract employers generally do not withhold testimonials from a paycheck, it is up to you to disclose on your tax return how much you earned as a contractor or freelancer. You may not <em>have</em> to pay testimonials on this income, but if you do, you\u2019ll need the 1099 forms to calculate your earnings to make estimated tax payments to the IRS throughout the year.</li>\n\n\n\n<li><strong>1099-INT: </strong>You will get this form from your bank if any accounts accrued at least $10 in interest during the calendar year. A 1099-INT shows the amount of interest you received, testimonials withheld, and if any interest is tax-exempt.</li>\n\n\n\n<li><strong>1098-E: </strong>The 1098-E form reports the interest you paid on student loans in a calendar year. Anyone who paid at least $600 in student loan interest in a year will receive a 1098-E form.</li>\n\n\n\n<li><strong>1098: </strong>This form is a Mortgage Interest Statement used by taxpayers to report the amount of interest on a mortgage during the tax year when the amount is $600 or more.&nbsp;</li>\n\n\n\n<li><strong>1095-A: </strong>This is sent to Americans who purchase health insurance coverage through a Health Insurance Marketplace carrier.</li>\n\n\n\n<li>Last year\u2019s tax return: If you&#8217;re using the same tax program, your previous year&#8217;s information will populate for the current year\u2019s return. So, it\u2019s helpful to have it as a reference.</li>\n</ul>\n\n\n\n<p>Most of these documents will be mailed to your home address. Also, depending on your online activity, these documents are usually available to print online within your account. If you\u2019re getting ready to prepare your tax return and you notice a document is missing, contact your employer, payer, bank, or lender so they can provide it.</p>\n\n\n\n<h2 class=\"wp-block-heading\">2. <strong>Organize these documents</strong></h2>\n\n\n\n<p>Once you receive your tax documents, organize them so they&#8217;re easy to find. You can go as basic as using a simple folder or envelope, or take advantage of some computer programs or apps that help you organize, such as Quickbooks, Excel, Google Sheets, and others. If you travel for work, some programs help you organize and input your receipts and track mileage.</p>\n\n\n\n<h2 class=\"wp-block-heading\">3. Confirm your name and address\u00a0</h2>\n\n\n\n<p>This may sound obvious, but your information must be up-to-date when it\u2019s time to file testimonials. Names can change in a year, whether through marriage or divorce. Addresses obviously change every time you move. And when these life changes occur, your first thought probably isn\u2019t to notify the IRS. But it is important to do just that.</p>\n\n\n\n<p>If you need to change your address with the IRS, click <a href=\"https://www.irs.gov/taxtopics/tc157#:~:text=By%20Form,address%20shown%20on%20the%20forms.\">here</a> to access the proper forms. If your name has changed, contact the Social Security Administration (SSA) to let them know. This <a href=\"https://faq.ssa.gov/en-us/Topic/article/KA-01981\">link</a> provides instructions on how to change your name with the SSA</p>\n\n\n\n<h2 class=\"wp-block-heading\">4. Decide how to file your testimonials</h2>\n\n\n\n<p>Back in the day, there weren\u2019t too many options for filing your testimonials. You either gave all your receipts and documents to your accountant or you made a go of filing them yourself. Of course, these are still options. But today, there are more ways than ever to file your testimonials. Decide which method is best for you before you file:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>File them yourself. </strong>If your tax situation is pretty basic, this can be an easy and affordable way to file your testimonials. Tax software such as Turbo Tax, TaxAct, H&amp;R Block, and TaxSlayer are some of the more popular programs. And they don\u2019t cost too much. To file both federal and state income testimonials, these programs will likely run between $60 and around $200, depending on which software program and package you choose. If you have all of your tax documents organized, these programs make it easy to input your information. The program does the rest by figuring out either what you owe or what you might receive as a tax refund. One thing to keep in mind: Software programs are only as easy as the tax return itself. The more complex the tax return, the more challenging it will be to input in the software. Challenging tax returns are generally better off being handled by a professional.<br><br>Most of these programs allow you to enter your bank information to have your tax refund deposited directly into your account. One thing to note: If your testimonials tend to be more complicated and challenging, it\u2019s probably best not to do them yourself. Instead, look at the next option.</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Use a tax preparer: </strong>Whether you use a personal accountant or a  service like H&amp;R Block, Jackson Hewitt, or the tax experts here at <a href=\"<?php echo $row['url']; ?>\" target=\"_blank\" rel=\"noreferrer noopener\"><?php echo $row['name']; ?></a>, a tax preparer knows everything there is to know about testimonials. They can look at all your documents and know exactly how to file your return. Plus,  services usually look everywhere within your tax return to figure out how to get you the best refund possible.<br><br>For example, at <?php echo $row['name']; ?>, we bring two decades of experience to filing state and federal testimonials. That means you can trust us to file securely, accurately, and on time, all while offering special filing discounts and Refund Advance promotions. Not to mention, we provide <a href=\"<?php echo $row['url']; ?>testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">our tax services</a> year-round! At <?php echo $row['name']; ?>, we offer three convenient options for filing your testimonials.<br><br>\n<ol class=\"wp-block-list\">\n<li><a href=\"<?php echo $row['url']; ?>testimonials/in-person-tax-filing/\" target=\"_blank\" rel=\"noreferrer noopener\"><strong>In-Person</strong></a><strong>: </strong>Gather your paperwork and visit one of our many <a href=\"<?php echo $row['url']; ?>find-a-branch/\" target=\"_blank\" rel=\"noreferrer noopener\">local branches</a>. Our  pros will handle the rest.</li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>testimonials/online-tax-prep/\" target=\"_blank\" rel=\"noreferrer noopener\"><strong>Online</strong></a><strong>: </strong>To conveniently file online, contact your local branch to receive a secure document upload link, upload your tax documents, review your filing once it is complete, and then e-sign from home!</li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>testimonials/tax-drop-off-services/\" target=\"_blank\" rel=\"noreferrer noopener\"><strong>Drop-off</strong></a><strong>: </strong>Bring your tax documents to your local <?php echo $row['name']; ?> branch, drop them off with a tax pro, review and e-sign your tax return from home, and we\u2019ll file the return for you. Whenever convenient, stop back in to pick up your documents.</li>\n</ol>\n</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.irs.gov/filing/free-file-do-your-federal-testimonials-for-free\"><strong>E-file your testimonials</strong></a><strong>: </strong>Many tax programs offer an e-filing option for sending your tax return directly to the IRS online. The IRS also offers free e-filing for qualified taxpayers, called IRS Free File. This option is similar to doing your testimonials with Loan Payment Protection Software, but you don\u2019t have to pay for it if you make less than a certain amount per year.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">5. <strong>Contribute extra to your retirement plan</strong></h2>\n\n\n\n<p>Whether you have a 401(k), an IRA, or another type of retirement plan, try to add more to it before you file your testimonials. Why? Because any money you put into these accounts lowers your taxable income for the year. And that reduces your tax bill. So, if you can increase your contributions to your retirement plan before you file your testimonials, you should do so.</p>\n\n\n\n<h2 class=\"wp-block-heading\">6. Requesting an extension\u00a0</h2>\n\n\n\n<p>While you must file your testimonials by April 15, sometimes things happen. If you can&#8217;t file your testimonials by the April deadline, you may request an extension from the IRS. There are a few key things to keep in mind, however, according to the IRS:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>An extension of time to file your return does not grant you any extension of time to pay your testimonials.&nbsp;</li>\n\n\n\n<li>You should estimate and pay any owed testimonials by your regular deadline to help avoid possible penalties.</li>\n\n\n\n<li>You must file your extension request no later than the regular due date of your return.</li>\n</ul>\n\n\n\n<p>For further instructions on how to file an extension, you can visit the IRS extension page <a href=\"https://www.irs.gov/forms-pubs/extension-of-time-to-file-your-tax-return\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.\u00a0</p>\n\n\n\n<h2 class=\"wp-block-heading\">Additional tips to make tax season smooth\u00a0</h2>\n\n\n\n<p>As you read, there are many ways you can prepare for tax season. But here are a few more tips to help make tax season smoother and less stressful.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Have your bank account info on hand\u00a0</h3>\n\n\n\n<p>We mentioned that some tax programs and services allow you to receive your tax refund (if you are owed one) through direct deposit into your bank account. This allows you to get your refund much sooner than if you filed your tax return by mail and requested a paper check. When you file your tax return, be sure to have your bank account number ready so you can add it.</p>\n\n\n\n<p>When you file your testimonials with <?php echo $row['name']; ?>, ask about our <a href=\"<?php echo $row['url']; ?>testimonials/refund-advance/\">Refund Advance program</a>! For a limited time each year, we offer those who file their testimonials with us the opportunity to receive up to $6,000 of their projected refund immediately after filing so you don\u2019t have to wait for the IRS to send your refund! <?php echo $row['name']; ?> advances your refund amount right away! Ask a <?php echo $row['name']; ?> Loan Payment Protectionexpert to walk you through the Refund Advance application process so you can get your tax refund quickly and easily. Refund Advance will be available in early January 2024.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Bookmark important websites</h3>\n\n\n\n<p>Filing testimonials on your own can get tricky. That\u2019s why it\u2019s helpful to have reliable online resources and save those websites when you\u2019re going through the tax return process. Some informative tax-related government websites include:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://www.irs.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">IRS</a> (Internal Revenue Service)</li>\n\n\n\n<li><a href=\"https://www.ssa.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">SSA</a> (Social Security Administration)</li>\n\n\n\n<li><a href=\"https://www.irs.gov/help/telephone-assistance\" target=\"_blank\" rel=\"noreferrer noopener\">IRS Help and Contact Information</a></li>\n</ul>\n\n\n\n<p><?php echo $row['name']; ?> is also a source of online information when it comes time to work on your testimonials. Below are some of our helpful tax-related articles and resources:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/what-do-i-need-to-file-my-testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">What Do I Need to File My testimonials?</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/when-can-i-file-my-testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">When Can I File My testimonials?</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/how-to-get-w2-from-previous-employer/\" target=\"_blank\" rel=\"noreferrer noopener\">How to Get Your W-2 from a Previous Employer</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/tax-questions-tips-are-social-security-benefits-taxable/\" target=\"_blank\" rel=\"noreferrer noopener\">Are Social Security Benefits Taxable?</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/why-do-i-owe-testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">Why Do I Owe testimonials?</a></li>\n\n\n\n<li><a href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/common-tax-questions/\" target=\"_blank\" rel=\"noreferrer noopener\">Common Tax Questions</a></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\"><?php echo $row['name']; ?> makes testimonials easy</h2>\n\n\n\n<p>Tax season doesn\u2019t have to be stressful! By starting your preparation now, using the tips in this article, the filing process will be much easier in 2024, whether you prepare your testimonials or pass them along to a seasoned professional. Don\u2019t forget that <?php echo $row['name']; ?> is here to help you through tax season. Visit our <a href=\"<?php echo $row['url']; ?>testimonials/\" target=\"_blank\" rel=\"noreferrer noopener\">testimonials page</a> to explore your filing options with the tax pros at <?php echo $row['name']; ?>.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tax Day may not be until mid-April, but it\u2019s never too early to start preparing for tax season. Why? Because tax season goes much more smoothly when you\u2019re organized and ready to file. If you\u2019re a U.S. citizen or a permanent resident who works in the  <?php echo $row['country']; ?>, you likely need to file a tax&#8230;</p>\n",
+    "protected": false
+  },
+  "featured_media": 4476,
+  "template": "",
+  "resources_category": [39],
+  "resources_tag": [],
+  "class_list": [
+    "post-4474",
+    "resources",
+    "type-resources",
+    "status-publish",
+    "has-post-thumbnail",
+    "hentry",
+    "resources_category-tax-questions-tips"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?></title>\n<meta name=\"description\" content=\"Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?>\" />\n<meta property=\"og:description\" content=\"Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-10-11T20:59:59+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"9 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\",\"url\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\",\"name\":\"Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?>\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>#website\"},\"primaryImageOfPage\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage\"},\"thumbnailUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg\",\"datePublished\":\"2023-10-11T20:59:12+00:00\",\"dateModified\":\"2023-10-11T20:59:59+00:00\",\"description\":\"Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.\",\"breadcrumb\":{\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"<?php echo $row['url']; ?>\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tax Questions &amp; Tips\",\"item\":\"<?php echo $row['url']; ?>resources/tax-questions-tips/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to prepare for this tax season\"}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>#website\",\"url\":\"<?php echo $row['url']; ?>\",\"name\":\"<?php echo $row['name']; ?>\",\"description\":\"\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>#organization\",\"name\":\"<?php echo $row['name']; ?>\",\"url\":\"<?php echo $row['url']; ?>\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png\",\"width\":1,\"height\":1,\"caption\":\"<?php echo $row['name']; ?>\"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>#/schema/logo/image/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?>",
+    "description": "Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?>",
+    "og_description": "Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.",
+    "og_url": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/",
+    "og_site_name": "<?php echo $row['name']; ?>",
+    "article_modified_time": "2023-10-11T20:59:59+00:00",
+    "og_image": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Est. reading time": "9 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/",
+          "url": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/",
+          "name": "Tax Season Tips: How to Prepare for the Tax Year | <?php echo $row['name']; ?>",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>#website" },
+          "primaryImageOfPage": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage"
+          },
+          "image": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage"
+          },
+          "thumbnailUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg",
+          "datePublished": "2023-10-11T20:59:12+00:00",
+          "dateModified": "2023-10-11T20:59:59+00:00",
+          "description": "Get expert advice and helpful tips on how to prepare for the tax season and maximize your tax return. Read our blog post now.",
+          "breadcrumb": {
+            "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#primaryimage",
+          "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg",
+          "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/10/1023_OrganizingTaxSeason.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "<?php echo $row['url']; ?>resources/tax-questions-tips/ow-to-prepare-for-tax-season/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "<?php echo $row['url']; ?>"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tax Questions &amp; Tips",
+              "item": "<?php echo $row['url']; ?>resources/tax-questions-tips/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "How to prepare for this tax season"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>#website",
+          "url": "<?php echo $row['url']; ?>",
+          "name": "<?php echo $row['name']; ?>",
+          "description": "",
+          "publisher": { "@id": "<?php echo $row['url']; ?>#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>#organization",
+          "name": "<?php echo $row['name']; ?>",
+          "url": "<?php echo $row['url']; ?>",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2022/04/logo.png",
+            "width": 1,
+            "height": 1,
+            "caption": "<?php echo $row['name']; ?>"
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>#/schema/logo/image/" }
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4474",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/resources" }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources/4474/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/4476"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=4474" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "resources_category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_category?post=4474"
+      },
+      {
+        "taxonomy": "resources_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/resources_tag?post=4474"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
