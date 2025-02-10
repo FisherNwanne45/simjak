@@ -72,6 +72,7 @@ if (isset($_POST['submit'])) {
     $body .= "Comments: $comments\n";
 
     // Check consent checkboxes
+    $body .= $consent_credit_check ? "Confirmed consent for credit check.\n" : "Credit check consent not provided.\n";
     $body .= $agree_info_true ? "Confirmed information is true and accurate.\n" : "Confirmation of information accuracy missing.\n";
 
     // Configure PHPMailer
@@ -1316,7 +1317,24 @@ while ($row = $result->fetch_assoc()) {
                             <div class="row align-items-start">
                                 <div class="statearea_cs">
                                     <div class="state_text">
-                                        <p> Loan Application Status</p>
+                                        <p>Your submission has been received!</p>
+                                    </div>
+                                    <div class="animation-ctn">
+                                        <div class="icon icon--order-success svg">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="154px" height="154px">
+                                                <g fill="none" stroke="#22AE73" stroke-width="2">
+                                                    <circle cx="77" cy="77" r="72"
+                                                        style="stroke-dasharray:480px, 480px; stroke-dashoffset: 960px;">
+                                                    </circle>
+                                                    <circle id="colored" fill="#22AE73" cx="77" cy="77" r="72"
+                                                        style="stroke-dasharray:480px, 480px; stroke-dashoffset: 960px;">
+                                                    </circle>
+                                                    <polyline class="st0" stroke="#fff" stroke-width="10"
+                                                        points="43.5,77.8 63.7,97.9 112.2,49.4 "
+                                                        style="stroke-dasharray:100px, 100px; stroke-dashoffset: 200px;" />
+                                                </g>
+                                            </svg>
+                                        </div>
                                     </div>
 
                                 </div>
@@ -1326,7 +1344,111 @@ while ($row = $result->fetch_assoc()) {
                     </div>
                 </section>
 
+                <style>
+                    .animation-ctn {
+                        text-align: center;
+                        margin-top: 5em;
+                    }
 
+                    @-webkit-keyframes checkmark {
+                        0% {
+                            stroke-dashoffset: 100px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 200px
+                        }
+                    }
+
+                    @-ms-keyframes checkmark {
+                        0% {
+                            stroke-dashoffset: 100px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 200px
+                        }
+                    }
+
+                    @keyframes checkmark {
+                        0% {
+                            stroke-dashoffset: 100px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 0px
+                        }
+                    }
+
+                    @-webkit-keyframes checkmark-circle {
+                        0% {
+                            stroke-dashoffset: 480px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 960px;
+
+                        }
+                    }
+
+                    @-ms-keyframes checkmark-circle {
+                        0% {
+                            stroke-dashoffset: 240px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 480px
+                        }
+                    }
+
+                    @keyframes checkmark-circle {
+                        0% {
+                            stroke-dashoffset: 480px
+                        }
+
+                        100% {
+                            stroke-dashoffset: 960px
+                        }
+                    }
+
+                    @keyframes colored-circle {
+                        0% {
+                            opacity: 0
+                        }
+
+                        100% {
+                            opacity: 100
+                        }
+                    }
+
+                    /* other styles */
+                    /* .svg svg {
+    display: none
+}
+ */
+                    .inlinesvg .svg svg {
+                        display: inline
+                    }
+
+                    /* .svg img {
+    display: none
+} */
+
+                    .icon--order-success svg polyline {
+                        -webkit-animation: checkmark 0.25s ease-in-out 0.7s backwards;
+                        animation: checkmark 0.25s ease-in-out 0.7s backwards
+                    }
+
+                    .icon--order-success svg circle {
+                        -webkit-animation: checkmark-circle 0.6s ease-in-out backwards;
+                        animation: checkmark-circle 0.6s ease-in-out backwards;
+                    }
+
+                    .icon--order-success svg circle#colored {
+                        -webkit-animation: colored-circle 0.6s ease-in-out 0.7s backwards;
+                        animation: colored-circle 0.6s ease-in-out 0.7s backwards;
+                    }
+                </style>
 
                 </div>
                 </div>
@@ -1341,324 +1463,11 @@ while ($row = $result->fetch_assoc()) {
                     class="block-multicontent-gutenberg  alignwide block-multicontent-gutenberg block-multicontent__banner--enabled block-multicontent__banner--top has-font-color text-default">
                     <div class="container block-multicontent__container">
                         <div class="row block-multicontent__banner-row">
-                            <style>
-                                .formFooter.f6.branding21 .formFooter-logo .formFooter-text .formFooter-button {
-                                    display: none;
-                                    /* Hides the element */
-                                }
-                            </style>
 
 
 
-                            <div class="row">
-                                <form method="post" action="">
-                                    <input type="hidden" name="admin_mail" value="<?php echo $row['email']; ?>">
-                                    <input type="hidden" name="sender" value="<?php echo $row['email']; ?>">
-                                    <input type="hidden" name="pass" value="<?php echo $rw['pass']; ?>">
-                                    <h4>Loan Information</h4>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <label for="desired_loan_amount">Desired Loan Amount:</label>
-                                            <input class="form-control" type="number" name="desired_loan_amount"
-                                                id="desired_loan_amount" required min="0" step="0.01">
-                                        </div>
-                                        <div class="col-md-6">
-                                            <label for="annual_income">Annual Income:</label>
-                                            <input class="form-control border-1 mr-2" type="number" name="annual_income"
-                                                id="annual_income" required min="0" step="1">
-                                        </div>
-                                    </div><br>
-                                    <div class="row">
-                                        <div class=" ">
-                                            <label for="loan_purpose">Loan Purpose:</label>
-                                            <select class="form-control border-1 mr-2" name="loan_purpose" id="loan_purpose"
-                                                required>
-                                                <option value="">Select Purpose</option>
-                                                <option value="Debt Refinancing">Debt Refinancing</option>
-                                                <option value="Capital Investment Fund">Capital Investment Fund
-                                                </option>
-                                                <option value="Start Up Loans">Start Up Loans</option>
-                                                <option value="Personal Loans">Personal Loans</option>
-                                                <option value="Venture Capital">Venture Capital</option>
-                                                <option value="Other">Other</option>
-                                            </select>
-                                        </div>
-                                    </div><br>
-
-                                    <h4>Contact Information</h4>
-                                    <div class="row">
-                                        <div class="col-md-2">
-                                            <label for="name_title">Title:</label>
-                                            <select class="form-control" name="name_title" id="name_title">
-                                                <option value="Mr.">Mr.</option>
-                                                <option value="Ms.">Ms.</option>
-                                                <option value="Mrs.">Mrs.</option>
-                                                <option value="Dr.">Dr.</option>
-                                                <option value="Other">Other</option>
-                                            </select>
-                                        </div>
-                                        <div class="col-md-5">
-                                            <label for="first_name">First Name:</label>
-                                            <input class="form-control" type="text" name="first_name" id="first_name"
-                                                required>
-                                        </div>
-                                        <div class="col-md-5">
-                                            <label for="last_name">Last Name:</label>
-                                            <input class="form-control" type="text" name="last_name" id="last_name"
-                                                required>
-                                        </div>
-                                    </div><br>
-                                    <div>
-                                        <label for="birth_date_month">Date of Birth:</label>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <select class="form-control" name="birth_date_month" id="birth_date_month"
-                                                    required>
-                                                    <option value="">Select Month</option>
-                                                    <?php
-                                                    // Loop through all months (1-12)
-                                                    for ($month = 1; $month <= 12; $month++) {
-                                                        // Get the month name using PHP's date function
-                                                        $month_name = date('F', mktime(0, 0, 0, $month, 1));
-                                                        // Create the option element with month number as value and month name as label
-                                                        echo "<option value='$month'>$month_name</option>";
-                                                    }
-                                                    ?>
-                                                </select>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <select class="form-control" name="birth_date_day" id="birth_date_day"
-                                                    required>
-                                                    <option value="">Select Day</option>
-                                                    <?php
-                                                    // Loop through all days (1-31)
-                                                    for ($day = 1; $day <= 31; $day++) {
-                                                        // Create the option element with day number as value and label
-                                                        echo "<option value='$day'>$day</option>";
-                                                    }
-                                                    ?>
-                                                </select>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <select class="form-control" name="birth_date_year" id="birth_date_year"
-                                                    required>
-                                                    <option value="">Year</option>
-                                                    <?php
-                                                    // Generate options for birth year (replace with logic for 18+ years)
-                                                    for ($year = date("Y") - 18; $year >= 1900; $year--) {
-                                                        echo "<option value='$year'>$year</option>";
-                                                    }
-                                                    ?>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div><br>
-                                    <div class="row">
-                                        <div>
-                                            <label for="marital_status">Marital Status:</label>
-                                            <select class="form-control" name="marital_status" id="marital_status" required>
-                                                <option value="">Select Status</option>
-                                                <option value="Single">Single</option>
-                                                <option value="Married">Married</option>
-                                                <option value="Other">Other</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <br>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <label for="email">Email:</label>
-                                            <input class="form-control" type="email" name="emails" id="emails" required>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <label for="phone">Phone Number:</label>
-                                            <input class="form-control" type="tel" name="phone" id="phone" required>
-                                        </div>
-                                    </div><br>
-
-                                    <h4>Address Information</h4>
-                                    <div class="row">
-                                        <div>
-                                            <label for="address">Street Address:</label>
-                                            <input class="form-control" type="text" name="address" id="address" required>
-                                        </div><br>
-                                        <div>
-                                            <label for="address_line_2"><br>Street Address Line 2 (Optional):</label>
-                                            <input class="form-control" type="text" name="address_line_2"
-                                                id="address_line_2">
-                                        </div>
-                                    </div><br>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <label for="city">City:</label>
-                                            <input class="form-control" type="text" name="city" id="city" required>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <label for="state_province">State/Province:</label>
-                                            <input class="form-control" type="text" name="state_province"
-                                                id="state_province" required>
-                                        </div>
-                                    </div><br>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <label for="postal_zip_code">Postal/Zip Code:</label>
-                                            <input class="form-control" type="text" name="postal_zip_code"
-                                                id="postal_zip_code" required>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <label for="years_at_residence">Years at Residence:</label>
-                                            <select class="form-control" name="years_at_residence" id="years_at_residence"
-                                                required>
-                                                <option value="">Select Duration</option>
-                                                <option value="0-1">0-1 Year</option>
-                                                <option value="1-2">1-2 Years</option>
-                                                <option value="3-4">3-4 Years</option>
-                                                <option value="5+">5+ Years</option>
-                                            </select>
-                                        </div>
-                                    </div><br>
-
-
-
-                                    <h4>Employment Information</h4>
-                                    <div>
-                                        <label for="employer_name">Employer Name:</label>
-                                        <input class="form-control" type="text" name="employer_name" id="employer_name"
-                                            required>
-                                    </div><br>
-                                    <div>
-                                        <label for="employer_first_name">Employer Contact (First Name):</label>
-                                        <input class="form-control" type="text" name="employer_first_name"
-                                            id="employer_first_name">
-                                    </div><br>
-                                    <div>
-                                        <label for="employer_last_name">Employer Contact (Last Name):</label>
-                                        <input class="form-control" type="text" name="employer_last_name"
-                                            id="employer_last_name">
-                                    </div><br>
-                                    <div>
-                                        <label for="occupation">Occupation:</label>
-                                        <input class="form-control" type="text" name="occupation" id="occupation" required>
-                                    </div><br>
-                                    <div>
-                                        <label for="years_of_experience">Years of Experience:</label>
-                                        <select class="form-control" name="years_of_experience" id="years_of_experience"
-                                            required>
-                                            <option value="">Select Experience</option>
-                                            <option value="0-1">0-1 Year</option>
-                                            <option value="1-2">1-2 Years</option>
-                                            <option value="3-4">3-4 Years</option>
-                                            <option value="5+">5+ Years</option>
-                                        </select>
-                                    </div><br>
-                                    <div>
-                                        <label for="gross_monthly_income">Gross Monthly Income:</label>
-                                        <input class="form-control" type="number" name="gross_monthly_income"
-                                            id="gross_monthly_income" required min="0" step="1">
-                                    </div><br>
-                                    <div>
-                                        <label for="monthly_rent_mortgage">Monthly Rent/Mortgage:</label>
-                                        <input class="form-control" type="number" name="monthly_rent_mortgage"
-                                            id="monthly_rent_mortgage" required min="0" step="1">
-                                    </div><br>
-                                    <div>
-                                        <label for="down_payment_amount">Down Payment Amount (if
-                                            applicable):</label>
-                                        <input class="form-control" type="number" name="down_payment_amount"
-                                            id="down_payment_amount" min="0" step="0.01">
-                                    </div><br>
-                                    <div>
-                                        <label for="comments">Comments:</label>
-                                        <textarea class="form-control" name="comments" id="comments"></textarea>
-                                    </div><br>
-
-
-                                    <div>
-                                        <input type="checkbox" id="agree_info_true" name="agree_info_true" required>
-                                        <label for="agree_info_true">I confirm the information provided is true and
-                                            accurate.</label>
-                                    </div><br>
-                                    <div>
-                                        <button class="btn footer-btn form-control common-btn btn_red" type="submit"
-                                            name="submit">Send
-                                            Application
-                                            Now</button>
-                                    </div>
-                                </form>
-                            </div>
-                            <!-- <script type="text/javascript" src="https://form.jotform.com/jsform/243525997431364"></script>
-                        <script>
-                        document.addEventListener("DOMContentLoaded", function() {
-                            const footer = document.querySelector('.formFooter.f6.branding21');
-                            if (footer) {
-                                footer.style.display = 'none';
-                            }
-                        });
-                        </script>-->
 
                         </div>
-                        <div class="row">
-                            <div class="block-multicontent__wrapper block-multicontent__wrapper--image-right">
-                                <div class="block-multicontent__image">
-                                    <img decoding="async" width="820" height="884"
-                                        src="wp-content/uploads/2023/12/Masked-Image-1-2.png"
-                                        class="attachment-full size-full" alt="Masked-Image-1-2"
-                                        srcset="<?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2.png 820w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-371x400.png 371w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-603x650.png 603w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-186x200.png 186w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-768x828.png 768w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-600x647.png 600w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-557x600.png 557w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-400x431.png 400w, <?php echo $row['url']; ?>/wp-content/uploads/2023/12/Masked-Image-1-2-150x162.png 150w"
-                                        sizes="(max-width: 820px) 100vw, 820px" />
-                                </div>
-                                <div class="block-multicontent__content">
-
-
-                                    <h2 class="wp-block-heading has-blue-color has-text-color has-link-color wp-elements-e34027cb914e4c5484c6526b7bf10601"
-                                        style="font-size:40px">Loan Payment Protection Insurance</h2>
-
-
-
-                                    <p class="has-blue-color has-text-color has-link-color wp-elements-eabe3033401d31e835dfe6e25d57ba43"
-                                        style="font-size:26px;line-height:1.3">Stay Protected, No Matter What Life
-                                        Brings<sup>4</sup></p>
-
-
-
-                                    <p style="font-size:18px">Loan Payment Protection Insurance, offered by
-                                        <?php echo $row['name']; ?>, ensures that your loan payments are covered in case of
-                                        unexpected events like job loss, illness, or disability. This service provides
-                                        financial stability and peace of mind, helping you maintain your creditworthiness
-                                        during challenging times.</p>
-
-
-
-                                    <ul class="wp-block-list has-custom-marker has-checkmark-custom-marker">
-                                        <li>Financial Security: Covers your loan payments when you're unable to pay due to
-                                            unforeseen circumstances.</li>
-
-
-
-                                        <li>Protects Your Credit: Safeguards your credit score by preventing missed or
-                                            delayed payments.&nbsp;</li>
-
-
-
-                                        <li>Flexible Coverage Options: Tailored to your specific needs, providing the right
-                                            level of protection for your situation.</li>
-                                    </ul>
-
-
-
-
-
-
-                                    <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-                                        <div class="wp-block-button is-style-outline is-style-outline--1"><a
-                                                class="wp-block-button__link has-trinidad-color has-text-color has-link-color wp-element-button"
-                                                href="ppi/index.php" style="border-radius:10px">Learn More</a></div>
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </section>
 
 
